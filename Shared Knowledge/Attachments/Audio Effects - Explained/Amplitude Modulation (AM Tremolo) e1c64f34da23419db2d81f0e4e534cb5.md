@@ -15,7 +15,7 @@ Amplitude modulation (AM), or tremolo, modulates the amplitude of one audio sign
 <aside>
 📎 **Download Link** (mac/windows)
 
-[hytp2-v1001.zip](Digital%20Garden/Shared%20Knowledge/Attachments/Audio%20Effects%20-%20Explained/Amplitude%20Modulation%20(AM%20Tremolo)/hytp2-v1001.zip)
+[hytp2-v1001.zip](https://www.dropbox.com/scl/fi/fdukeo3yftnpsuldk41e2/hytp2-v1001.zip?rlkey=hsj10bepa8ep8gb3d1xf79ymc&st=66owblif&dl=0)
 
 </aside>
 

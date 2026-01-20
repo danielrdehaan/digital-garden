@@ -37,7 +37,7 @@ modified: 2026-01-19T20:57:51.577171
 
 1) Download and unzip the sample files.
 
-[Manther-Samples.zip](Digital%20Garden/Shared%20Knowledge/Attachments/Kontakt%20-%20Recreating%20Manther/Manther-Samples.zip)
+[Manther-Samples.zip](https://www.dropbox.com/scl/fi/gbdss5f5m4ecj5lrz8jg0/Manther-Samples.zip?rlkey=xfkh6y5eulh6b0qocgjukq571&st=9jef6ux9&dl=0)
 
 2) Open the Standalone (the Kontakt application, not the plugin) version of Kontakt.
 
@@ -3182,9 +3182,9 @@ end on
 > But you are of course welcome to use this instrument in your music and to repurpose any parts of the script that you may find useful in the future.
 
 > [!note]
-> [MFA_Manther_DDehaan - Build.zip](MFA_Manther_DDehaan_-_Build.zip)
+> [MFA_Manther_DDehaan - Build.zip](https://www.dropbox.com/scl/fi/701sbammldt54sbxj3zrt/MFA_Manther_DDehaan_-_Build.zip?rlkey=ruhxsxbvyv8xtqk40em4sygdl&st=4wojfjms&dl=0)
 > 
-> [MFA_Manther_DDehaan.zip](Digital%20Garden/Shared%20Knowledge/Attachments/Kontakt%20-%20Recreating%20Manther/MFA_Manther_DDehaan.zip)
+> [MFA_Manther_DDehaan.zip](https://www.dropbox.com/scl/fi/siqt9v2s3nsxhv9ei0q4l/MFA_Manther_DDehaan.zip?rlkey=77rcpg7b8680u619r1gyb8xfo&st=2l000chm&dl=0)
 
 # Learning more
 

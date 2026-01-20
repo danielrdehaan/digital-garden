@@ -15,7 +15,7 @@ An expander is the opposite of a compressor. While a compressor makes loud sound
 <aside>
 📎 Download Links (mac/windows)
 
-[TheExpressor-mac.zip](3c1c88c5-39d8-49df-b508-460df2d977a5_theexpressor-mac.zip)
+[TheExpressor-mac.zip](https://www.dropbox.com/scl/fi/zjf35dn2ctamvt678wx63/3c1c88c5-39d8-49df-b508-460df2d977a5_theexpressor-mac.zip?rlkey=s4uu2nh0qy18pceofi63smupy&st=ytai1uns&dl=0)
 
 [d3627f38-a6cc-41bb-9f24-1ceed958f6b4_theexpressor-win.zip](Digital%20Garden/Shared%20Knowledge/Attachments/Audio%20Effects%20-%20Explained/Expander/d3627f38-a6cc-41bb-9f24-1ceed958f6b4_theexpressor-win.zip)
 

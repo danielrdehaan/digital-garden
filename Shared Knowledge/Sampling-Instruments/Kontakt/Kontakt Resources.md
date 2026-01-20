@@ -45,7 +45,7 @@ Instrument Icon Size Guide:
 
 ### Pictures from the CCC_C-Piano:
 
-[Piano-Resonance-Pictures.zip](Piano-Resonance-Pictures.zip)
+[Piano-Resonance-Pictures.zip](https://www.dropbox.com/scl/fi/zd5zq0udpip3vroxbekqt/Piano-Resonance-Pictures.zip?rlkey=uvbyej5gqlbvawax9wocmfko8&st=v13vf59i&dl=0)
 
 ### Example .txt file that should be paired with all pictures in the pciture folder
 

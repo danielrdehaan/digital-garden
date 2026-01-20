@@ -23,7 +23,7 @@ modified: 2026-01-19T20:57:51.585015
 
 [pictures.zip](pictures.zip)
 
-[Ektara - Samples.zip](Ektara_-_Samples.zip)
+[Ektara - Samples.zip](https://www.dropbox.com/scl/fi/v9ds97jdlkqla8t3mgl4v/Ektara_-_Samples.zip?rlkey=483sb5ou72uq2x5wq3rtwg3eb&st=eomzgaa2&dl=0)
 
 # Instrument Specifications:
 
@@ -86,4 +86,4 @@ modified: 2026-01-19T20:57:51.585015
 
 April 25, 2024 12:07 PM 
 
-[Ektara_Quiz-Build.zip](Ektara_Quiz-Build.zip)
+[Ektara_Quiz-Build.zip](https://www.dropbox.com/scl/fi/gdf7wfftky6ysede1uj54/Ektara_Quiz-Build.zip?rlkey=bdx7hng402x9fie4s7uifokd3&st=f1jijyui&dl=0)

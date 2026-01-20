@@ -70,7 +70,7 @@ Here is a video I recorded of myself building this instrument.
     
 7. Download, unzip, and place the contents of the .zip file below in the `CCC-C_Piano - Build/resources/pictures`
     
-    [CCC-C_Piano - Pictures.zip](CCC-C_Piano_-_Pictures.zip)
+    [CCC-C_Piano - Pictures.zip](https://www.dropbox.com/scl/fi/whl66v9q7xug358ilybf0/CCC-C_Piano_-_Pictures.zip?rlkey=vja121pwx8ab6ahbfvqnp5tgu&st=hrh6dkcu&dl=0)
     
 8. Your `CCC-C_Piano - Build` folder should now look like this:
     
