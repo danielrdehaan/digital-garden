@@ -1,76 +1,67 @@
 ---
-title: Final Presentations - Week 15
+title: Feedback Session - Week 15
 date: 2026-05-13
 time: 14:00-15:20
 location: in-person
-type: presentation
+type: feedback
 week: 15
 status: complete
 tags:
-  - presentation
+  - feedback
   - week-15
-  - final-project
 created: 2026-01-19T16:34:56-06:00
 modified: 2026-01-19T16:34:56-06:00
 ---
 
-# Final Presentations - Week 15 (Wednesday)
+# Feedback Session - Week 15
 
-## Session Focus
+## Purpose
 
-Continuation of Final Project presentations from Monday.
+- Share work in progress
+- Receive constructive feedback from peers and instructor
+- Learn from peers' approaches
 
-## Presentation Schedule
+## Session Format (80 minutes)
 
-See Canvas for the full presentation schedule. If you didn't present Monday, you'll present today.
+| Time | Activity |
+|------|----------|
+| 0:00-0:05 | Setup & announcements |
+| 0:05-1:10 | Student presentations + feedback (5-7 min per student) |
+| 1:10-1:20 | Wrap-up & takeaways |
+
+## What to Present
+
+Bring anything you're working on:
+
+- Habit practice evidence
+- Personal projects
+- Experiments and sketches
+- Questions about techniques
+- Works in progress at any stage
 
 ## Presentation Format
 
-Each student has:
-- **5-7 minutes** for presentation
-- **2-3 minutes** for Q&A and feedback
+- **2-3 minutes** to share your work
+- **2-3 minutes** for feedback
+- Be specific about what feedback you want
 
-### Structure Reminder
+## Feedback Framework
 
-1. **Introduction** (30 sec) - Your name and habits
-2. **The Journey** (2-3 min) - Baseline → Progress → Growth
-3. **Demonstration** (2-3 min) - Before/after evidence, current skill
-4. **Reflection** (1 min) - What you learned about learning
-5. **Q&A** (2-3 min) - Questions from class
+When giving feedback, use this structure:
+
+1. **What's Working** — Start with genuine positives
+2. **Observations** — Describe what you notice (not judgments)
+3. **Suggestions** — Offer specific, actionable ideas
+4. **Questions** — Ask clarifying questions if needed
 
 ## Guidelines
 
-### For Presenters
-- Have all materials ready and tested
-- Be authentic about your journey
-- Manage your time
-- Celebrate your growth!
-
-### For Audience
-- Give full attention
-- Ask thoughtful questions
-- Be supportive and encouraging
-
-## Course Wrap-Up
-
-After presentations conclude, we'll have our **final course wrap-up**:
-
-- Semester highlights
-- Key takeaways
-- Resources for continued learning
-- Course evaluation reminder (closes Sunday!)
-
-## Final Reminders
-
-- **Portfolio submission:** Friday, May 16 @ 11:59 PM
-- **Course evaluations close:** Sunday, May 11
-- Submit your portfolio even if you presented—submission is separately graded
-
-## Thank You
-
-Thank you for a wonderful semester. Your growth has been inspiring. Keep building those habits!
+- Early-stage work is valuable to share
+- Focus on the process, not just the polish
+- Take notes on feedback you receive
+- Be supportive and constructive
 
 ## Resources
 
-- [[Final-Project-Guide]]
 - [[Feedback-Session-Guide]]
+- [[Digital Garden/Knowledge Database/Giving Feedback|Giving Feedback]]

@@ -5,95 +5,92 @@ time: 23:59
 location: online
 type: assignment
 week: 9
-status: complete
+status: draft
 tags:
   - assignment
   - week-09
-  - performance
-  - live
-  - final-project
   - habits
+  - mid-semester
+  - final-project
 created: 2026-01-19T16:39:18-06:00
-modified: 2026-01-19T16:39:18-06:00
+modified: 2026-01-20T16:00:00-06:00
 ---
 
-# Assignment - Week 09: Performance Prep + Final Project Planning
+# Assignment - Week 09: Mid-Semester Check-In
 
 **Due:** Sunday, April 5, 2026 @ 11:59 PM
 
 ## Overview
 
-Create a live performance setup for one of your projects and begin planning your Final Project evidence portfolio.
+Welcome back from Spring Break! This is a more substantial check-in where you reflect on your progress and begin planning your Final Project.
 
 ## Deliverables
 
 Submit to Canvas:
 
-### 1. Performance Setup
+### 1. Mid-Semester Habit Reflection (300+ words)
 
-Convert an existing project into a performance-ready layout:
+Write a reflection on your habit journey so far:
 
-**Requirements:**
-- Minimum 8 clips organized into scenes
-- At least 4 scenes that create a "performance arc"
-- Clips should be loop-ready with appropriate lengths
-- Scenes should transition smoothly
+**Progress Assessment:**
+- How consistent have you been with your habits?
+- What patterns have you noticed? (When do you succeed? When do you struggle?)
+- How have your skills developed since Week 3?
 
-**Documentation:**
-- Screenshot of your Session View (or equivalent)
-- Written explanation of your organization strategy (150-200 words)
-- What does each scene represent? How would you perform this?
+**What's Working:**
+- Which aspects of your habits are most effective?
+- What strategies have helped you stay consistent?
 
-### 2. Performance Demo
+**What Needs Adjustment:**
+- Is anything about your habits not working?
+- Do you need to modify your approach? (If so, propose changes)
 
-Record a brief performance demo:
-- 1-2 minutes of you "performing" your set
-- Launch clips, trigger scenes, show how it flows
-- Can be screen recording or audio only
-- Name: `LASTNAME_Week09_Performance.mp4` (or .wav)
+**Key Learnings:**
+- What's the most important thing you've learned so far?
+- What has surprised you about the process?
+
+### 2. Habit Progress Update
+
+Continue your regular documentation:
+- Completion record for this week
+- What you did
+- Evidence
 
 ### 3. Final Project Planning
 
-Begin planning your Evidence Portfolio:
+Begin organizing for your Evidence Portfolio:
 
-**Habit Evidence Inventory:**
+**Evidence Inventory:**
 | Week | Habit 1 Evidence | Habit 2 Evidence |
 |------|------------------|------------------|
 | 1-2 (baseline) | [what you have] | [what you have] |
-| 3-4 | | |
-| 5-6 | | |
-| 7-8 | | |
+| 3-4 | [what you have] | [what you have] |
+| 5-6 | [what you have] | [what you have] |
+| 7-8 | [what you have] | [what you have] |
 
 **Gaps Identified:**
 - What evidence are you missing?
-- How will you fill these gaps?
+- How will you fill these gaps in the coming weeks?
 
 **Initial Reflection Notes:**
-- Bullet points for your written reflection
-- Key themes or moments to highlight
-
-### 4. Habit Check-In
-
-Continue your weekly habit documentation.
+- Bullet points for themes you might discuss in your final reflection
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
-| **Performance Setup** | Well-organized, logical flow, performance-ready | Good organization | Basic setup | Disorganized or incomplete |
-| **Demo** | Engaging, shows clear performance approach | Good demonstration | Basic demo | Missing or unclear |
-| **Final Project Planning** | Thorough inventory, clear plan for gaps | Good planning | Basic planning | Little planning |
-| **Habit Check-In** | Complete and insightful | Adequate | Basic | Missing or minimal |
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
+| **Mid-Semester Reflection** | Deep, honest assessment with specific examples | Good reflection | Basic reflection | Superficial |
+| **Evidence Inventory** | Complete inventory with clear plan for gaps | Good inventory | Basic inventory | Incomplete |
+| **Habit Check-In** | Complete documentation | Adequate | Basic | Missing |
 
-## Final Project Connection
+## Looking Ahead
 
-This assignment serves two purposes:
-1. Learn performance skills
-2. Begin organizing your Final Project
-
-Your performance setup could be evidence for your portfolio if relevant to your habits!
+You now have **6 weeks** until final presentations. Use the second half of the semester to:
+- Maintain consistent habit practice
+- Gather strong evidence for your portfolio
+- Begin drafting your written reflection
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Performing with Ableton & Push|Performing with Ableton & Push]]
+- [[Habits-Framework]]
 - [[Final-Project-Guide]]

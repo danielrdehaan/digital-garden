@@ -5,91 +5,64 @@ time: 23:59
 location: online
 type: assignment
 week: 10
-status: complete
+status: draft
 tags:
   - assignment
   - week-10
-  - mastering
   - habits
+  - progress-update
 created: 2026-01-19T16:39:19-06:00
-modified: 2026-01-19T16:39:19-06:00
+modified: 2026-01-20T16:00:00-06:00
 ---
 
-# Assignment - Week 10: Mastering Practice
+# Assignment - Week 10: Habit Progress Update
 
 **Due:** Sunday, April 12, 2026 @ 11:59 PM
 
 ## Overview
 
-Apply mastering techniques to one of your completed mixes. Learn to prepare competitive, professional-sounding masters.
+Continue documenting your habit practice. This week's lecture covered sampling through imitation—consider how studying sample-based producers might enhance your habit practice.
 
 ## Deliverables
 
-Submit to Canvas:
+Submit to Canvas Discussion:
 
-### 1. Mastering Project
+### Habit Progress Update
 
-Master one of your completed mixes (can be from this course or a personal project):
+For **each of your two habits**, provide:
 
-**Requirements:**
-- Apply a mastering chain with intent
-- Achieve appropriate loudness for streaming (-14 LUFS target)
-- Maintain musical dynamics
-- Use a reference track for comparison
+**1. Completion Record**
+- How many times did you complete each habit this week?
+- What days/times did you practice?
 
-### 2. Mastering Chain Documentation
+**2. What I Did**
+- Describe your habit activities in detail
+- What specifically did you work on?
 
-Document your complete mastering chain:
+**3. What I Learned**
+- Any insights or discoveries?
+- What surprised you?
 
-```
-Example:
-1. Metering/Analysis (to understand the mix)
-2. EQ: [settings and rationale]
-3. Compression: [settings and rationale]
-4. Limiter: [settings and rationale]
-5. Final level check
-```
+**4. Challenges**
+- What made it difficult?
+- How did you (or will you) address these challenges?
 
-Include screenshots of your mastering plugins with settings visible.
+**5. Evidence**
+- Screenshots, audio clips, or descriptions of your work
+- **Remember:** Keep gathering evidence for your Final Project!
 
-### 3. Before/After Analysis
+### Optional Bonus
 
-**Export two files:**
-- `LASTNAME_Week10_PreMaster.wav` (original mix)
-- `LASTNAME_Week10_Master.wav` (mastered version)
-
-**Loudness Measurements:**
-| Version | Integrated LUFS | Peak Level | Dynamic Range |
-|---------|-----------------|------------|---------------|
-| Pre-master | | | |
-| Master | | | |
-
-**Written Comparison (100-150 words):**
-- What changed sonically?
-- How does it compare to your reference track?
-- What would you do differently?
-
-### 4. Habit Check-In
-
-Continue your weekly habit documentation.
+If relevant to your habits, share how you applied this week's lecture topic (sampling through imitation) to your practice.
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
-| **Master Quality** | Professional-sounding, appropriate loudness, musical | Good master with minor issues | Basic mastering | Over-processed or poor quality |
-| **Documentation** | Clear chain with strong rationale | Good documentation | Basic documentation | Missing or unclear |
-| **Analysis** | Accurate measurements, insightful comparison | Good analysis | Basic analysis | Missing or inaccurate |
-| **Habit Check-In** | Complete and insightful | Adequate | Basic | Missing or minimal |
-
-## Tips
-
-- Less is often more in mastering
-- A/B frequently with your reference
-- Take breaks—ear fatigue is real
-- If the mix has problems, fix them in the mix first
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
+| **Completion** | Completed most/all planned sessions | Completed majority | Completed some | Few or none |
+| **Reflection** | Thoughtful insights, honest about challenges | Good reflection | Basic reflection | Minimal |
+| **Evidence** | Clear documentation of progress | Adequate evidence | Some evidence | Little/none |
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Mastering Overview|Mastering Overview]]
-- [[Digital Garden/Knowledge Database/Assignment Practice Mastering|Practice Mastering Guide]]
+- [[Habits-Framework]]

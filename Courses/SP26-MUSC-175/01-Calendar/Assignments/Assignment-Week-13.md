@@ -5,15 +5,15 @@ time: 23:59
 location: online
 type: assignment
 week: 13
-status: complete
+status: draft
 tags:
   - assignment
   - week-13
-  - final-project
+  - habits
   - portfolio
   - draft
 created: 2026-01-19T16:39:21-06:00
-modified: 2026-01-19T16:39:21-06:00
+modified: 2026-01-20T16:00:00-06:00
 ---
 
 # Assignment - Week 13: Portfolio Draft
@@ -32,7 +32,7 @@ Submit to Canvas:
 
 Draft your 500-750 word reflection:
 
-**Minimum for draft:** 250+ words covering:
+**Minimum for draft:** 300+ words covering:
 - Your two habits and why you chose them
 - Key moments in your journey
 - Initial thoughts on what you learned
@@ -46,12 +46,12 @@ Organize your evidence so far:
 **Habit 1:**
 - [ ] Baseline evidence (Weeks 1-2)
 - [ ] Mid-semester evidence (Weeks 6-8)
-- [ ] Recent evidence (Weeks 12-13)
+- [ ] Recent evidence (Weeks 11-13)
 
 **Habit 2:**
 - [ ] Baseline evidence (Weeks 1-2)
 - [ ] Mid-semester evidence (Weeks 6-8)
-- [ ] Recent evidence (Weeks 12-13)
+- [ ] Recent evidence (Weeks 11-13)
 
 *You should have at least 3 of these 6 items*
 
@@ -85,17 +85,17 @@ In `05_Notes_for_Final.txt`, list:
 - What sections of reflection need completion
 - Questions you have about requirements
 
-### 6. Final Habit Check-In
+### 6. Habit Check-In
 
-Your second-to-last weekly check-in—make it count!
+Your weekly documentation continues—this is one of your final check-ins before the portfolio!
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
 | **Completeness** | 50%+ of final content, clear progress | Good progress toward final | Minimal progress | Little content |
 | **Organization** | Follows structure, easy to navigate | Good organization | Some organization | Disorganized |
-| **Reflection Draft** | 250+ words, key topics addressed | Good start | Basic start | Minimal |
+| **Reflection Draft** | 300+ words, key topics addressed | Good start | Basic start | Minimal |
 | **Planning** | Clear plan for completion | Good plan | Some plan | No clear plan |
 
 ## Feedback Timeline

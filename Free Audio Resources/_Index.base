@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "Digital Garden/Free Audio Resources"
+    - file.folder == "Website/Digital Garden/Free Audio Resources"
 properties:
   file.name:
     displayName: Name

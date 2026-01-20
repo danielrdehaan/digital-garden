@@ -10,70 +10,59 @@ status: complete
 tags:
   - studio
   - week-01
-  - solo
-  - habits
 created: 2026-01-19T16:33:21-06:00
-modified: 2026-01-19T16:33:21-06:00
+modified: 2026-01-20T15:39:32-06:00
 ---
 
 # Studio Session - Week 01 (Solo)
 
-## Session Type: Solo Studio
+## Purpose
 
-Individual focused work time to begin exploring your habits and establishing baselines.
+- Practice concentration and deep focus
+- Achieve "flow" state in creative work
+- Build individual skills through sustained practice
 
-## Session Focus
-
-This first studio session is about **getting started** and **documenting where you are now**:
-
-- Begin practicing your two chosen habits
-- Document your current skill level (baseline evidence)
-- Explore tools and techniques related to your habits
-
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:10 | Setup and review your habit goals |
-| 0:10-0:55 | Focused work on habits |
-| 0:55-1:10 | Document your work and progress |
+| 0:00-0:10 | Setup & set intentions |
+| 0:10-1:00 | Deep work time (individual focus) |
+| 1:00-1:10 | Document progress |
 | 1:10-1:20 | Brief share-out (optional) |
 
-## Today's Goals
+## Skills to Practice
 
-By the end of this session, you should have:
+- Concentration and focus
+- Entering and maintaining "flow"
+- Self-directed learning
+- Time management
+- Working through challenges independently
 
-1. **Started both habits** (even if briefly)
-2. **Baseline documentation** for each habit:
-   - Screenshots, recordings, or notes showing current skill level
-   - This will be crucial for your Final Project evidence
+## Guidelines
 
-## Suggested Activities by Habit Type
+- **Use headphones** to create a focused environment
+- **Minimize distractions**—close non-essential apps, silence phone
+- **Set a specific goal** for the session
+- **Protect your focus time**—instructor available but won't interrupt
 
-### Production Habits
-- Record yourself mixing/processing audio
-- Save "before" snapshots of current projects
-- Document your current plugin knowledge
+## What to Work On
 
-### Creative Habits
-- Create a short composition
-- Record an improvisation
-- Save early sketches
+- Practice your weekly habits
+- Explore tools and techniques
+- Work on personal projects
+- Experiment with new ideas
 
-### Technical Habits
-- Screenshot your current workflow
-- Document keyboard shortcuts you know
-- Record your current speed/efficiency
+## Documentation
 
-## Documentation Prompts
+At the end of each session, note:
 
-- What did I work on today?
-- What's my current skill level with this habit?
-- What challenges did I encounter?
-- What do I want to explore next time?
+1. What you worked on
+2. What you accomplished
+3. What challenges you encountered
+4. What you want to continue next time
 
 ## Resources
 
 - [[Studio-Session-Guide]]
 - [[Habits-Framework]]
-- [[Digital Garden/Knowledge Database/Assignment - Design Two Weekly Habits|Design Two Weekly Habits]]

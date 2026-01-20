@@ -5,104 +5,77 @@ time: 23:59
 location: online
 type: assignment
 week: 12
-status: complete
+status: draft
 tags:
   - assignment
   - week-12
-  - organization
-  - workflow
   - habits
-  - reflection
+  - progress-update
 created: 2026-01-19T16:39:20-06:00
-modified: 2026-01-19T16:39:20-06:00
+modified: 2026-01-20T16:00:00-06:00
 ---
 
-# Assignment - Week 12: Habit Reflection + Organization
+# Assignment - Week 12: Habit Progress Update
 
 **Due:** Sunday, April 26, 2026 @ 11:59 PM
 
 ## Overview
 
-A deeper reflection on your habit journey plus organizing your files for the home stretch of the semester.
+Continue documenting your habit practice. This week's lecture covered mastering through imitation—consider how matching reference tracks might enhance your habit practice.
+
+**Reminder:** Portfolio Draft is due next week!
 
 ## Deliverables
 
-Submit to Canvas:
+Submit to Canvas Discussion:
 
-### 1. Comprehensive Habit Reflection
+### Habit Progress Update
 
-Write a substantial reflection on your habit practice (500+ words):
+For **each of your two habits**, provide:
 
-**Address these topics:**
+**1. Completion Record**
+- How many times did you complete each habit this week?
+- What days/times did you practice?
 
-**The Habits Themselves:**
-- What two habits did you choose and why?
-- How has your relationship with these habits evolved?
-- Have your habits become easier, harder, or different?
+**2. What I Did**
+- Describe your habit activities in detail
+- What specifically did you work on?
 
-**Key Moments:**
-- What were breakthrough moments in your practice?
-- What were your biggest struggles or setbacks?
-- When did you feel most motivated? Least motivated?
+**3. What I Learned**
+- Any insights or discoveries?
+- What surprised you?
 
-**What You've Learned:**
-- About the specific skills you're developing
-- About habit formation and consistency
-- About yourself as a learner/musician
+**4. Challenges**
+- What made it difficult?
+- How did you (or will you) address these challenges?
 
-**Looking Ahead:**
-- How will you continue these habits beyond this course?
-- What would you do differently if starting over?
+**5. Evidence**
+- Screenshots, audio clips, or descriptions of your work
+- **Important:** Capture strong final evidence this week!
 
-### 2. File Organization
+### Optional Bonus
 
-Organize your project files according to a consistent system:
-
-**Create/Document your system:**
-- Folder structure diagram or description
-- Naming conventions you use
-- How you handle versions/backups
-
-**Screenshot evidence:**
-- Before (if messy) and after screenshots
-- Show your organized project folder
-
-### 3. Backup Verification
-
-Verify your work is backed up:
-- Where is your backup stored?
-- When did you last back up?
-- Can you restore if needed?
-
-### 4. Final Project Inventory Update
-
-Update your evidence inventory from Week 9:
-- What new evidence do you have?
-- What gaps remain?
-- Plan for Week 13 portfolio draft
-
-### 5. Habit Check-In
-
-Your weekly documentation continues—this is one of your final check-ins before the portfolio!
+If relevant to your habits, share how you applied this week's lecture topic (mastering through imitation) to your practice.
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
-| **Reflection** | Deep, honest, insightful; specific examples | Good reflection | Basic reflection | Superficial |
-| **Organization** | Clear system, well-documented | Good organization | Basic organization | Disorganized |
-| **Planning** | Ready for portfolio draft | Good progress | Some progress | Behind |
-| **Habit Check-In** | Complete and insightful | Adequate | Basic | Missing |
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
+| **Completion** | Completed most/all planned sessions | Completed majority | Completed some | Few or none |
+| **Reflection** | Thoughtful insights, honest about challenges | Good reflection | Basic reflection | Minimal |
+| **Evidence** | Clear documentation of progress | Adequate evidence | Some evidence | Little/none |
 
-## Why This Matters Now
+## Course Evaluations
 
-With 3 weeks left:
-- Your reflection becomes part of your Final Project
-- Organization makes portfolio creation easier
-- This check-in helps you see your complete journey
+**Course Evaluations are now open** and close Sunday, May 10. Please take time to provide feedback!
+
+## Next Week
+
+**Week 13 Assignment:** Artist Study + Portfolio Draft due Sunday, May 3
+
+Start organizing your portfolio materials now!
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Staying Organized, Maximizing Productivity, and St|Staying Organized]]
-- [[Digital Garden/Knowledge Database/Good Digital Hygiene|Good Digital Hygiene]]
+- [[Habits-Framework]]
 - [[Final-Project-Guide]]

@@ -9,64 +9,59 @@ status: complete
 tags:
   - feedback
   - week-06
-  - daw
-  - presentation
 created: 2026-01-19T16:34:53-06:00
 modified: 2026-01-19T16:34:53-06:00
 ---
 
 # Feedback Session - Week 06
 
-## Session Focus
+## Purpose
 
-Present your DAW exploration findings from Week 5. Share the features, shortcuts, and workflow optimizations you discovered.
+- Share work in progress
+- Receive constructive feedback from peers and instructor
+- Learn from peers' approaches
 
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:05 | Setup and announcements |
-| 0:05-1:10 | Student presentations + feedback |
-| 1:10-1:20 | Compiled tips and resources |
+| 0:00-0:05 | Setup & announcements |
+| 0:05-1:10 | Student presentations + feedback (5-7 min per student) |
+| 1:10-1:20 | Wrap-up & takeaways |
 
 ## What to Present
 
-Share your **DAW discoveries** from Week 5:
+Bring anything you're working on:
 
-- Demonstrate 2-3 features you learned
-- Show keyboard shortcuts in action
-- Walk through your template (if you created/updated one)
-- Explain how these discoveries will improve your workflow
+- Habit practice evidence
+- Personal projects
+- Experiments and sketches
+- Questions about techniques
+- Works in progress at any stage
 
 ## Presentation Format
 
-- **3-4 minutes** to present
-- **2-3 minutes** for questions and discussion
-- Screen share or use main display
+- **2-3 minutes** to share your work
+- **2-3 minutes** for feedback
+- Be specific about what feedback you want
 
-## This Is a Learning Exchange
+## Feedback Framework
 
-Today's session is as much about **learning from each other** as receiving feedback:
+When giving feedback, use this structure:
 
-- Take notes on features others share
-- Ask "how did you do that?"
-- Share tips for other DAW users
+1. **What's Working** — Start with genuine positives
+2. **Observations** — Describe what you notice (not judgments)
+3. **Suggestions** — Offer specific, actionable ideas
+4. **Questions** — Ask clarifying questions if needed
 
-## Cross-DAW Learning
+## Guidelines
 
-Even if someone uses a different DAW, many concepts transfer:
-- Workflow principles
-- Organizational strategies
-- Creative techniques
-
-Ask: "How would I do something similar in my DAW?"
-
-## End-of-Session Compilation
-
-We'll create a shared document of the best tips from today's session. Be ready to contribute your top discovery!
+- Early-stage work is valuable to share
+- Focus on the process, not just the polish
+- Take notes on feedback you receive
+- Be supportive and constructive
 
 ## Resources
 
 - [[Feedback-Session-Guide]]
-- [[Digital Garden/Knowledge Database/Learn your DAW + Expand Your Sound Pallete|Learn Your DAW]]
 - [[Digital Garden/Knowledge Database/Giving Feedback|Giving Feedback]]

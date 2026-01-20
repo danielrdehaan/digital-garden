@@ -5,17 +5,18 @@ time: 23:59
 location: online
 type: assignment
 week: 14
-status: complete
+status: draft
 tags:
   - assignment
   - week-14
   - final-project
+  - portfolio
   - revision
 created: 2026-01-19T16:39:22-06:00
-modified: 2026-01-19T16:39:22-06:00
+modified: 2026-01-20T16:00:00-06:00
 ---
 
-# Assignment - Week 14: Portfolio Feedback Integration
+# Assignment - Week 14: Portfolio Finalization
 
 **Due:** Sunday, May 10, 2026 @ 11:59 PM
 
@@ -59,7 +60,7 @@ Prepare for your Week 15 presentation:
 
 **Create or finalize your demonstration:**
 - Video (recommended) or live presentation materials
-- 3-5 minutes of content
+- 5-7 minutes of content
 - Covers your journey, evidence, and reflection
 
 **Practice run:**
@@ -78,8 +79,8 @@ Make it comprehensive:
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
 | **Feedback Integration** | All feedback addressed thoughtfully | Most feedback addressed | Some feedback addressed | Little response to feedback |
 | **Reflection** | Complete, polished, compelling | Good reflection | Adequate | Incomplete |
 | **Presentation Prep** | Ready to present confidently | Good preparation | Some preparation | Not prepared |
@@ -98,6 +99,7 @@ Before Week 15, verify you have:
 
 ## Important Dates
 
+- **Course Evaluations Close:** Sunday, May 10 (today!)
 - **Week 15 Monday:** Presentations begin (check schedule)
 - **Week 15 Wednesday:** Presentations continue
 - **Friday, May 16 @ 11:59 PM:** Final portfolio submission
@@ -105,4 +107,3 @@ Before Week 15, verify you have:
 ## Resources
 
 - [[Final-Project-Guide]]
-- [[Feedback-Session-Guide]] (for presentation tips)

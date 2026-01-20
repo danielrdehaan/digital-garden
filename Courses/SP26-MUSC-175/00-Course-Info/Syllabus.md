@@ -13,7 +13,7 @@ tags:
   - musc-175
   - spring-2026
 created: 2026-01-19T16:42:10-06:00
-modified: 2026-01-19T20:17:15-06:00
+modified: 2026-01-20T15:21:10-06:00
 ---
 
 # Columbia College Chicago
@@ -42,21 +42,22 @@ modified: 2026-01-19T20:17:15-06:00
 **Semester:** Spring 2026 Fifteen Week Session
 
 ## Important Dates
-
-Semester Start Date: Monday, January 26, 2026
-Add Deadline: Monday, February 2, 2026
-Drop Deadline: Monday, February 9, 2026
-Spring Break: Monday, March 23 – Friday, March 27, 2026
-Final Project Introduced: Week 9 (March 30, 2026)
-Withdrawal Deadline: Friday, April 10, 2026
-Summer and Fall Registration begin: Monday, April 13, 2026
-Course Evaluations Open: Monday, April 20, 2026
-Pass/Fail Election Deadline: Friday, April 24, 2026
-Portfolio Draft Due: Sunday, May 3, 2026
-Course Evaluations Close: Sunday, May 10, 2026
-Semester End Date: Friday, May 15, 2026
-**Final Project Due: Friday, May 16, 2026 @ 11:59 PM**
-Grading Deadline: Friday, May 22, 2026
+|Deadline | Date|
+|---------|-----------|
+|Semester Start Date | Monday, January 26, 2026 |
+|Add Deadline | Monday, February 2, 2026 |
+|Drop Deadline | Monday, February 9, 2026|
+|Spring Break | Monday, March 23 – Friday, March 27, 2026|
+|Final Project Introduced | Week 9 (March 30, 2026) |
+|Withdrawal Deadline | Friday, April 10, 2026 |
+|Summer and Fall Registration begin | Monday, April 13, 2026 |
+|Course Evaluations Open | Monday, April 20, 2026 |
+|Pass/Fail Election Deadline | Friday, April 24, 2026 |
+|Portfolio Draft Due | Sunday, May 3, 2026 |
+|Course Evaluations Close | Sunday, May 10, 2026 |
+|Semester End Date | Friday, May 15, 2026 |
+|**Final Project Due** | **Friday, May 16, 2026 @ 11:59 PM** |
+|Grading Deadline | Friday, May 22, 2026 |
 
 ## **Faculty Information:**
 
@@ -107,6 +108,7 @@ Columbia College Chicago strives to create and promote a campus community that i
 We collectively acknowledge that Columbia College Chicago occupies the stolen ancestral, traditional, and contemporary Lands of the Anishinaabeg—Three Fires Confederacy of the Ojibwe, Odawa, and Potawatomi, as well as the Miami, Menominee, Ho-Chunk, Illinois, Sac and Fox nations. Although the state of Illinois has only one federally recognized tribal land area, we acknowledge, support, and advocate for the sovereignty of all Indian nations, for the historic Indigenous communities in Illinois, for Indigenous individuals and communities who live in the Chicagoland area, and for those who were forcibly removed from their Homelands. By offering this Land Acknowledgment, we reaffirm our College's Diversity, Equity, and Inclusion Mission statement, affirm Indigenous sovereignty, and will hold Columbia College Chicago more accountable to the needs of American Indian and Indigenous peoples.
 
 # Course Information
+---
 
 ## **Course Description:**
 
@@ -138,10 +140,12 @@ This semester, you will design and maintain **two weekly habits** that support y
 
 ## How It Works
 
-**Week 1:** Design two habits from these skill areas:
+**Weeks 1-2:** Design and refine two habits from these skill areas:
 - **Production skills:** mixing, sound design, synthesis, mastering
 - **Creative practice:** composition, ear training, improvisation
 - **Technical workflow:** DAW proficiency, organization, shortcuts
+
+**Week 3:** Your habits officially begin. This is also when we introduce the semester's core learning method: Learning Through Imitation.
 
 **Throughout the Semester:** Document your habit practice weekly through Canvas discussion posts.
 
@@ -152,6 +156,37 @@ This semester, you will design and maintain **two weekly habits** that support y
 - Demonstration video or presentation
 
 See [[Habits-Framework]] for detailed guidance.
+
+---
+
+# Learning Through Imitation
+
+This semester, every production topic will be approached through **learning by imitation**—studying, analyzing, and recreating the work of professionals. This is how masters have always learned: through apprenticeship, copying, and careful study.
+
+## The Framework
+
+1. **Listen/Watch:** Active, critical consumption of professional work
+2. **Analyze:** Break down what you hear/see into specific choices
+3. **Recreate:** Attempt to reproduce elements of what you studied
+4. **Reflect:** What did you learn? How does this inform your own work?
+
+## The Progression
+
+**Copy → Understand → Adapt → Create**
+
+Imitation is not the destination—it's the path. By deeply studying others' work, you develop the vocabulary and techniques to find your own voice.
+
+## Topics Through This Lens
+
+- **Sound Design:** Recreate iconic sounds
+- **Mixing:** Deconstruct professional mixes
+- **Arrangement:** Study song structures
+- **Genre:** Deep dive into production conventions
+- **Workflow:** Learn how pros organize their sessions
+- **Sampling:** Study sample-based producers
+- **Performance:** Analyze live sets
+- **Mastering:** Match a reference track
+- **Artist Study:** Deep dive on one producer
 
 ---
 
@@ -208,7 +243,7 @@ AI may not be used for the completion of course-related work unless indicated ot
 
 ---
 
-**Week 1: January 26 – February 1**
+**Week 1: January 26 – February 1** *(Habits Phase)*
 
 - **Monday, Jan 26**
     - Lecture: Introduction & Habits Framework
@@ -217,130 +252,131 @@ AI may not be used for the completion of course-related work unless indicated ot
 - **Assignment Due:** Sunday, Feb 1 by 11:59 PM
     - Design Two Weekly Habits
 
-**Week 2: February 2 – February 8**
+**Week 2: February 2 – February 8** *(Habits Phase)*
 
 - **Monday, Feb 2**
-    - Lecture: Problems of Beginning
+    - Lecture: Refining Your Habits
 - **Wednesday, Feb 4**
-    - Feedback Session: Present & Review
+    - Feedback Session: Habit Statements Review
 - **Assignment Due:** Sunday, Feb 8 by 11:59 PM
-    - Habit Check-In #1
+    - Habit Refinement
 
-**Week 3: February 9 – February 15**
+**Week 3: February 9 – February 15** *(Habits Begin + Imitation Introduced)*
 
 - **Monday, Feb 9**
-    - Lecture: Audio Mixing Basics
+    - Lecture: Deliberate Practice & Learning Through Imitation
+    - **Habits Officially Begin**
 - **Wednesday, Feb 11**
-    - Studio Session (Group): Mixing Practice
+    - Studio Session (Solo): First Habit Practice + Reference Library
 - **Assignment Due:** Sunday, Feb 15 by 11:59 PM
-    - Mixing Practice
+    - Habit Check-In #1 + Reference Track Library
 
-**Week 4: February 16 – February 22**
+**Week 4: February 16 – February 22** *(Imitation: Sound Design)*
 
 - **Monday, Feb 16**
-    - Lecture: Mixing Deep Dive
+    - Lecture: Sound Design — Recreate Iconic Sounds
 - **Wednesday, Feb 18**
-    - Feedback Session: Mix Reviews
+    - Feedback Session: Habit Progress
 - **Assignment Due:** Sunday, Feb 22 by 11:59 PM
-    - Mixing + Habits
+    - Sound Recreation Project
 
-**Week 5: February 23 – March 1**
+**Week 5: February 23 – March 1** *(Imitation: Mixing)*
 
 - **Monday, Feb 23**
-    - Lecture: DAW Features & Functions
+    - Lecture: Mixing — Deconstruct a Pro Mix
 - **Wednesday, Feb 25**
-    - Studio Session (Solo): DAW Exploration
+    - Studio Session (Group): Mix Deconstruction Workshop
 - **Assignment Due:** Sunday, Mar 1 by 11:59 PM
-    - DAW Exploration
+    - Reference Mix Analysis
 
-**Week 6: March 2 – March 8**
+**Week 6: March 2 – March 8** *(Imitation: Arrangement)*
 
 - **Monday, Mar 2**
-    - Lecture: Composing with BBCSO/LABS
+    - Lecture: Arrangement — Study Song Structures
 - **Wednesday, Mar 4**
-    - Feedback Session: DAW Discoveries
+    - Feedback Session: Mix Deconstructions
 - **Assignment Due:** Sunday, Mar 8 by 11:59 PM
-    - Composition with BBCSO
+    - Arrangement Study
 
-**Week 7: March 9 – March 15**
+**Week 7: March 9 – March 15** *(Imitation: Genre)*
 
 - **Monday, Mar 9**
-    - Lecture: Foundations of Synthesis
+    - Lecture: Production Style — Genre Deep Dive
 - **Wednesday, Mar 11**
-    - Studio Session (Group): Vital Sound Design
+    - Studio Session (Group): Genre Exploration
 - **Assignment Due:** Sunday, Mar 15 by 11:59 PM
-    - Vital Synthesis
+    - Genre Study Project
 
-**Week 8: March 16 – March 22**
+**Week 8: March 16 – March 22** *(Imitation: Workflow)*
 
 - **Monday, Mar 16**
-    - Lecture: Synthesis Deep Dive
+    - Lecture: Workflow — How the Pros Organize
 - **Wednesday, Mar 18**
-    - Feedback Session: Sound Design Reviews
+    - Feedback Session: Genre Projects
 - **Assignment Due:** Sunday, Mar 22 by 11:59 PM
-    - Sound Design Portfolio
+    - Workflow Documentation
 
 **Spring Break: March 23 – March 27**
 
 - **No Classes Held**
 - **Note:** No assignments due. Continue your habit practice!
 
-**Week 9: March 30 – April 5**
+**Week 9: March 30 – April 5** *(Mid-Semester Check-In)*
 
 - **Monday, Mar 30**
-    - Lecture: Live Performance
+    - Lecture: Final Project Introduction & Progress Review
     - **Final Project Introduced**
 - **Wednesday, Apr 1**
-    - Studio Session (Solo): Performance Setup
+    - Studio Session (Solo): Portfolio Planning
 - **Assignment Due:** Sunday, Apr 5 by 11:59 PM
-    - Performance Prep + Final Project Planning
+    - Mid-Semester Check-In
 
-**Week 10: April 6 – April 12**
+**Week 10: April 6 – April 12** *(Imitation: Sampling)*
 
 - **Monday, Apr 6**
-    - Lecture: Mastering Basics
+    - Lecture: Sampling — Learn from Sample-Based Producers
 - **Wednesday, Apr 8**
-    - Feedback Session: Performance Demos
+    - Feedback Session: Progress Reviews
 - **Assignment Due:** Sunday, Apr 12 by 11:59 PM
-    - Mastering Practice
+    - Sample Flip Project
 
-**Week 11: April 13 – April 19**
+**Week 11: April 13 – April 19** *(Imitation: Performance)*
 
 - **Monday, Apr 13**
-    - Lecture: Collaborative Production
+    - Lecture: Performance — Study a Live Set
 - **Wednesday, Apr 15**
-    - Studio Session (Group): Collaborative Creation
+    - Studio Session (Group): Performance Workshop
 - **Assignment Due:** Sunday, Apr 19 by 11:59 PM
-    - Collaborative Project
+    - Live Set Study
 
-**Week 12: April 20 – April 26**
+**Week 12: April 20 – April 26** *(Imitation: Mastering)*
 
 - **Monday, Apr 20**
-    - Lecture: Workflow & Organization
+    - Lecture: Mastering — Match a Reference
 - **Wednesday, Apr 22**
-    - Feedback Session: Collaboration Reviews
+    - Feedback Session: Performance Setups
 - **Assignment Due:** Sunday, Apr 26 by 11:59 PM
-    - Habit Reflection + Organization
+    - Reference Mastering
 
-**Week 13: April 27 – May 3**
+**Week 13: April 27 – May 3** *(Imitation: Artist Study)*
 
 - **Monday, Apr 27**
-    - Lecture: Final Project Prep
+    - Lecture: Artist Study — Deep Dive on One Producer
 - **Wednesday, Apr 29**
     - Studio Session (Solo): Portfolio Work
 - **Assignment Due:** Sunday, May 3 by 11:59 PM
-    - **Portfolio Draft**
+    - Artist Study Project + **Portfolio Draft**
 
-**Week 14: May 4 – May 10**
+**Week 14: May 4 – May 10** *(Final Project)*
 
 - **Monday, May 4**
-    - Lecture: Final Project Workshop
+    - Lecture: Portfolio Workshop
 - **Wednesday, May 6**
     - Feedback Session: Portfolio Feedback
 - **Assignment Due:** Sunday, May 10 by 11:59 PM
-    - Feedback Integration
+    - Portfolio Finalization
 
-**Week 15: May 11 – May 16**
+**Week 15: May 11 – May 16** *(Presentations)*
 
 - **Monday, May 11**
     - Final Project Presentations

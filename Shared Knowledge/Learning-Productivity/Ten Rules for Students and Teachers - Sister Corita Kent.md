@@ -5,10 +5,8 @@ status: active
 tags:
   - "#type/one-sheet"
 created: 2026-01-19T15:58:15-06:00
-modified: 2026-01-19T20:57:51.619900
+modified: 2026-01-20T14:35:14-06:00
 ---
-
-# Ten Rules for Students and Teachers - Sister Corita Kent
 
 **RULE ONE:** Find a place you trust, and then try trusting it for a while.
 

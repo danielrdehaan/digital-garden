@@ -10,91 +10,59 @@ status: complete
 tags:
   - studio
   - week-13
-  - solo
-  - final-project
 created: 2026-01-19T16:33:23-06:00
 modified: 2026-01-19T16:33:23-06:00
 ---
 
 # Studio Session - Week 13 (Solo)
 
-## Session Type: Solo Studio
+## Purpose
 
-Dedicated work session for Final Project preparation.
+- Practice concentration and deep focus
+- Achieve "flow" state in creative work
+- Build individual skills through sustained practice
 
-## Session Focus
-
-With the portfolio draft due this week, this session is dedicated entirely to **gathering evidence, creating documentation, and preparing your Final Project materials**.
-
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:10 | Review Final Project requirements |
-| 0:10-1:00 | Focused work on portfolio |
-| 1:00-1:15 | Progress check-in |
-| 1:15-1:20 | Next steps planning |
+| 0:00-0:10 | Setup & set intentions |
+| 0:10-1:00 | Deep work time (individual focus) |
+| 1:00-1:10 | Document progress |
+| 1:10-1:20 | Brief share-out (optional) |
 
-## Today's Goals
+## Skills to Practice
 
-Use this time to:
+- Concentration and focus
+- Entering and maintaining "flow"
+- Self-directed learning
+- Time management
+- Working through challenges independently
 
-1. **Gather Evidence**
-   - Find your Week 1-2 baseline work
-   - Locate mid-semester examples
-   - Organize evidence files
+## Guidelines
 
-2. **Create New Documentation**
-   - Record before/after comparisons
-   - Create demonstration videos
-   - Take screenshots of process
+- **Use headphones** to create a focused environment
+- **Minimize distractions**—close non-essential apps, silence phone
+- **Set a specific goal** for the session
+- **Protect your focus time**—instructor available but won't interrupt
 
-3. **Draft Written Reflection**
-   - Start your 500-750 word reflection
-   - Outline your key points
-   - Gather specific examples to reference
+## What to Work On
 
-4. **Organize Files**
-   - Create submission folder structure
-   - Name files clearly
-   - Check file formats
+- Practice your weekly habits
+- Explore tools and techniques
+- Work on personal projects
+- Experiment with new ideas
 
-## Evidence Checklist
+## Documentation
 
-For **each habit**, verify you have:
+At the end of each session, note:
 
-| Evidence Type | Habit 1 | Habit 2 |
-|---------------|---------|---------|
-| Baseline (Weeks 1-2) | ☐ | ☐ |
-| Mid-semester (Weeks 6-8) | ☐ | ☐ |
-| Recent/Final (Weeks 12-13) | ☐ | ☐ |
-| Process screenshots/notes | ☐ | ☐ |
-
-## If You're Missing Evidence
-
-- **Missing baseline?** Recreate an example of your earlier skill level (be honest about it)
-- **Missing mid-semester?** Check assignments from that period
-- **Missing process documentation?** Write detailed notes about your journey from memory
-
-## Draft Requirements (Due Sunday)
-
-Your Week 13 Assignment (portfolio draft) should include:
-
-- [ ] At least 50% of final evidence
-- [ ] Written reflection draft (at least 250 words)
-- [ ] Folder structure matching final submission format
+1. What you worked on
+2. What you accomplished
+3. What challenges you encountered
+4. What you want to continue next time
 
 ## Resources
 
-- [[Final-Project-Guide]]
-- [[Habits-Framework]]
 - [[Studio-Session-Guide]]
-
-## Instructor Support
-
-The instructor will circulate during this session to:
-- Answer questions about requirements
-- Help with technical issues
-- Review progress and provide guidance
-
-Raise your hand if you need help!
+- [[Habits-Framework]]

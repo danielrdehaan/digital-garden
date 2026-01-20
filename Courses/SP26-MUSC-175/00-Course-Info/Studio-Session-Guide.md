@@ -7,113 +7,123 @@ tags:
   - wednesday
   - session-guide
 created: 2026-01-19T16:13:37-06:00
-modified: 2026-01-19T16:13:37-06:00
+modified: 2026-01-20T15:48:43-06:00
 ---
 
 # Studio Session Guide
 
 ## Overview
 
-Studio Sessions occur on **Wednesday of odd weeks** (1, 3, 5, 7, 9, 11, 13). These sessions provide dedicated time to apply concepts from Monday's lecture through hands-on work.
+Studio Sessions occur on **Wednesday of odd weeks** (1, 3, 5, 7, 9, 11, 13). These sessions provide dedicated time to work on your creative practice in a supportive environment.
 
-Studio Sessions alternate between **Solo** and **Group** formats:
+Sessions alternate between **solo** and **group** formats:
 
-| Week | Type | Focus |
-|------|------|-------|
-| 1 | Solo | Individual exploration |
-| 3 | Group | Collaborative practice |
-| 5 | Solo | Individual exploration |
-| 7 | Group | Collaborative practice |
-| 9 | Solo | Individual exploration |
-| 11 | Group | Collaborative practice |
-| 13 | Solo | Individual exploration |
+| Week | Session Type |
+|------|--------------|
+| 1 | Solo |
+| 3 | Group |
+| 5 | Solo |
+| 7 | Group |
+| 9 | Solo |
+| 11 | Group |
+| 13 | Solo |
+
+---
 
 ## Solo Studio Sessions (Weeks 1, 5, 9, 13)
 
 ### Purpose
-Solo sessions are your time to dive deep into individual practice. This is where you apply lecture concepts to your own projects and work on your habits.
 
-### Session Structure
+- Practice concentration and deep focus
+- Achieve "flow" state in creative work
+- Build individual skills through sustained practice
+
+### Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:10 | Setup and review goals |
-| 0:10-1:00 | Focused work time |
+| 0:00-0:10 | Setup & set intentions |
+| 0:10-1:00 | Deep work time (individual focus) |
 | 1:00-1:10 | Document progress |
 | 1:10-1:20 | Brief share-out (optional) |
 
+### Skills to Practice
+
+- Concentration and focus
+- Entering and maintaining "flow"
+- Self-directed learning
+- Time management
+- Working through challenges independently
+
 ### Guidelines
 
-1. **Come prepared** with a specific goal for the session
-2. **Use headphones** to maintain a focused environment
-3. **Stay in the room** unless you need a brief break
-4. **Avoid distractions**—close non-essential apps, silence phone
-5. **Document your work** for weekly check-ins
-
-### What to Work On
-
-- Apply concepts from Monday's lecture
-- Practice your two weekly habits
-- Work on current assignment
-- Explore tools/techniques from class
-
-### Solo Session Prompts
-
-Use these if you're unsure what to focus on:
-
-- "What from Monday's lecture do I want to try?"
-- "Which habit can I practice right now?"
-- "What's one thing I've been curious about?"
-- "What skill am I weakest in that I could strengthen?"
+- **Use headphones** to create a focused environment
+- **Minimize distractions**—close non-essential apps, silence phone
+- **Set a specific goal** for the session
+- **Protect your focus time**—instructor available but won't interrupt
 
 ---
 
 ## Group Studio Sessions (Weeks 3, 7, 11)
 
 ### Purpose
-Group sessions build community and provide opportunities for peer learning. You'll work together on shared challenges and learn from each other's approaches.
 
-### Session Structure
+- Collaborate with peers on creative work
+- Practice group dynamics and communication
+- Learn from different perspectives and approaches
+
+### Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:10 | Form groups, review activity |
-| 0:10-0:50 | Collaborative work |
-| 0:50-1:10 | Group presentations |
-| 1:10-1:20 | Debrief and key takeaways |
+| 0:00-0:10 | Setup & form groups |
+| 0:10-0:55 | Collaborative work time |
+| 0:55-1:10 | Group share-out |
+| 1:10-1:20 | Debrief & takeaways |
 
-### Group Formation
+### Skills to Practice
 
-- Groups of 3-4 students
-- Mixed experience levels encouraged
-- May be assigned or self-selected depending on activity
+- Group dynamics and communication
+- Adopting roles (driver, navigator, researcher, documenter)
+- Giving and receiving creative input
+- Collaborative decision-making
+- Learning from peers
 
-### Collaboration Guidelines
+### Group Roles
 
-1. **Everyone contributes**—ensure all voices are heard
-2. **One driver, many navigators**—if working on one computer, rotate who's at the controls
-3. **Ask questions freely**—group work is for learning
-4. **Document together**—capture insights for everyone to reference
-5. **Be respectful of different skill levels**
+Consider rotating through these roles:
 
-### Typical Group Activities
+- **Driver**: Hands on the controls, implementing ideas
+- **Navigator**: Directing the creative direction
+- **Researcher**: Looking up techniques or solutions
+- **Documenter**: Recording decisions and progress
 
-- **Technique Exchange:** Each person teaches the group something they know
-- **Collaborative Production:** Build a track together with rotating roles
-- **Problem Solving:** Work through a shared challenge
-- **Peer Review:** Give and receive feedback on works-in-progress
-- **Tool Exploration:** Learn a new plugin/feature together
+### Guidelines
 
-### Roles (for structured activities)
+- **Rotate roles** throughout the session
+- **Ensure all voices are heard**—share speaking time
+- **Be open** to different approaches
+- **Document decisions together**—keep a shared record
 
-| Role | Responsibility |
-|------|----------------|
-| **Driver** | Controls the DAW/computer |
-| **Navigator** | Directs decisions, keeps goals in mind |
-| **Researcher** | Looks up techniques, finds resources |
-| **Documenter** | Takes notes, captures screenshots |
+---
 
-Rotate roles throughout the session.
+## What to Work On
+
+- Practice your weekly habits
+- Explore tools and techniques
+- Work on personal projects
+- Experiment with new ideas
+
+## Documentation
+
+At the end of each session, note:
+
+1. What you worked on
+2. What you accomplished
+3. What challenges you encountered
+4. What you want to continue next time
+
+This feeds into your weekly Canvas check-in and builds your Final Project evidence.
 
 ---
 
@@ -140,32 +150,16 @@ Rotate roles throughout the session.
 
 ---
 
-## Documentation Requirements
-
-After each Studio Session, note:
-
-1. **What you worked on**
-2. **What you accomplished**
-3. **What challenges you encountered**
-4. **What you want to continue next time**
-
-This feeds into your weekly Canvas check-in and builds your Final Project evidence.
-
----
-
 ## Frequently Asked Questions
 
-**Can I work on something unrelated to the lecture topic?**
-Solo sessions: Yes, as long as you're building music production skills. Group sessions: Stick to the assigned activity.
+**Can I work on something unrelated to course topics?**
+Yes—as long as you're building music production skills and documenting your work.
 
-**What if I finish the assigned work early?**
-Great! Use remaining time for habit practice or exploration. There's always something to learn.
+**What if I finish early?**
+Use remaining time for habit practice or exploration. There's always something to learn.
 
 **Can I leave early if I finish?**
 No—full class participation is required. Use extra time productively.
-
-**What if my group isn't working well together?**
-Talk to the instructor. We can help mediate or reassign groups if needed.
 
 ---
 

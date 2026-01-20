@@ -5,85 +5,92 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 9
-topic: Live Performance
-status: complete
+topic: Final Project Introduction & Progress Review
+status: draft
 tags:
   - lecture
   - week-09
-  - performance
-  - ableton
-  - push
-  - live
+  - final-project
+  - progress-review
+  - mid-semester
 created: 2026-01-19T16:30:54-06:00
-modified: 2026-01-19T16:30:54-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 09: Live Performance
+# Lecture - Week 09: Final Project Introduction & Progress Review
 
 ## Overview
 
-Welcome back from Spring Break! This week we explore how to take your productions beyond the studio and into live performance contexts—using Ableton Live, Push, and other tools.
+Welcome back from Spring Break! We're at the midpoint of the semester—a natural time to assess progress and look ahead. Today we introduce the Final Project (Evidence Portfolio) and conduct a mid-semester check-in on your habits and learning.
 
 ## Topics
 
-### Performance Mindset
-- Studio production vs. live performance
-- Preparation and practice
-- Managing performance anxiety
-- The "less is more" principle in performance
+### Mid-Semester Reflection
+- Where are you compared to Week 1?
+- How have your habits been going?
+- What's working? What needs adjustment?
+- The power of honest self-assessment
 
-### Ableton Live for Performance
-- Session View fundamentals
-- Clip launching and follow actions
-- Scene organization
-- Tempo and time signature considerations
+### Habit Check-In
+- Review your habit documentation
+- Identify patterns (when do you succeed? when do you struggle?)
+- Make adjustments if needed
+- Recommit for the second half
 
-### Hardware Integration
-- Ableton Push overview
-- MIDI controllers and mapping
-- Audio interface considerations
-- Backup and redundancy
-
-### Performance Techniques
-- Building a live set from existing tracks
-- Arrangement vs. improvisation balance
-- Live effects processing
-- Transitions and flow
-
-### Final Project Introduction
-- Overview of the Evidence Portfolio
+### Final Project: Evidence Portfolio
+- Overview of the Final Project
+- [[Final-Project-Guide]] detailed walkthrough
 - Timeline and milestones
-- How your habits connect to the final project
+- How your habits connect to the portfolio
+
+### Portfolio Components
+- **Written reflection** (500-750 words)
+- **Before/after evidence** for each habit
+- **Process documentation** from throughout the semester
+- **Final demonstration** (video or presentation)
+
+### Gathering Evidence
+- What counts as evidence?
+- Looking back at your early work
+- Documentation strategies going forward
+- Quality vs. quantity
+
+### Second Half Preview
+- Upcoming topics: Sampling, Performance, Mastering, Artist Study
+- How these connect to the imitation framework
+- Building toward the portfolio
 
 ## In-Class Activities
 
-1. **Session View Setup** (20 min)
-   - Convert an arrangement into a Session View performance layout
-   - Organize clips into scenes
+1. **Progress Assessment** (20 min)
+   - Individual reflection writing
+   - Where are you vs. where you expected to be?
+   - What's the most important thing you've learned?
 
-2. **Clip Launching Practice** (20 min)
-   - Practice launching clips with timing
-   - Experiment with follow actions
+2. **Habit Troubleshooting** (20 min)
+   - Small group discussion
+   - Share challenges and solutions
+   - Adjust habits if needed
 
-3. **Final Project Planning** (20 min)
-   - Review your habit documentation so far
-   - Identify evidence you've already collected
-   - Plan what you still need
+3. **Portfolio Planning** (20 min)
+   - Review your documentation so far
+   - Identify gaps in your evidence
+   - Create a plan for the remaining weeks
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Performing with Ableton & Push|Performing with Ableton & Push]]
-- [[Digital Garden/Knowledge Database/Performance Assignment Learning Ableton & Push|Learning Ableton & Push Assignment]]
-- [[Digital Garden/Knowledge Database/Performance Assignment Going Deeper with Ableton &|Going Deeper with Ableton & Push]]
 - [[Final-Project-Guide]]
+- [[Habits-Framework]]
+- [[Assignment-Week-09]]
 
 ## Connection to Wednesday
 
-**Studio Session (Solo):** Begin building a live performance version of one of your projects. Organize clips, create scenes, and practice launching.
+**Studio Session (Solo):** Dedicated time for habit practice and portfolio planning. Begin gathering and organizing your evidence.
 
 ## Assignment Preview
 
-[[Assignment-Week-09]] - Performance Prep
-- Create a Session View performance setup
-- Document your organization strategy
-- Include habit check-in + Final Project planning notes
+[[Assignment-Week-09]] - Mid-Semester Check-In
+- Written reflection on habit progress (300+ words)
+- Document any habit adjustments
+- Portfolio planning notes: what evidence do you have? what do you need?
+- Include habit check-in

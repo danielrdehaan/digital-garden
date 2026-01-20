@@ -5,96 +5,63 @@ time: 23:59
 location: online
 type: assignment
 week: 7
-status: complete
+status: draft
 tags:
   - assignment
   - week-07
-  - synthesis
-  - vital
-  - sound-design
   - habits
+  - progress-update
 created: 2026-01-19T16:39:17-06:00
-modified: 2026-01-19T16:39:17-06:00
+modified: 2026-01-20T16:00:00-06:00
 ---
 
-# Assignment - Week 07: Vital Synthesis
+# Assignment - Week 07: Habit Progress Update
 
 **Due:** Sunday, March 15, 2026 @ 11:59 PM
 
 ## Overview
 
-Create original synthesizer patches in Vital from scratch. Focus on understanding the signal flow and building sounds intentionally.
+Continue documenting your habit practice. This week's lecture covered genre study through imitation—consider how studying specific genre conventions might enhance your habit practice.
 
 ## Deliverables
 
-Submit to Canvas:
+Submit to Canvas Discussion:
 
-### 1. Three Original Patches
+### Habit Progress Update
 
-Create **3 different patches** in Vital, each from the initialized state (no presets!):
+For **each of your two habits**, provide:
 
-**Patch 1: Bass**
-- A bass sound suitable for electronic or pop music
-- Should have weight in the low end
+**1. Completion Record**
+- How many times did you complete each habit this week?
+- What days/times did you practice?
 
-**Patch 2: Lead**
-- A melodic lead sound
-- Should cut through a mix
+**2. What I Did**
+- Describe your habit activities in detail
+- What specifically did you work on?
 
-**Patch 3: Pad/Texture**
-- An atmospheric, evolving sound
-- Should have movement over time
+**3. What I Learned**
+- Any insights or discoveries?
+- What surprised you?
 
-### 2. Signal Flow Documentation
+**4. Challenges**
+- What made it difficult?
+- How did you (or will you) address these challenges?
 
-For **each patch**, provide:
-- Screenshot of the Vital interface showing your patch
-- Signal flow diagram or description:
-  ```
-  Example:
-  OSC1 (Saw) → Filter (LP, cutoff automated by Env2) →
-  Amp (ADSR: slow attack for pad) → Reverb + Delay
+**5. Evidence**
+- Screenshots, audio clips, or descriptions of your work
 
-  Modulation:
-  - LFO1 → Filter cutoff (subtle movement)
-  - Env2 → Filter cutoff (initial brightness)
-  ```
+### Optional Bonus
 
-### 3. Audio Demos
-
-For each patch, record a brief audio demo:
-- 10-20 seconds showing the sound
-- Play some notes/chords to demonstrate range
-- Name: `LASTNAME_Week07_Bass.wav`, `LASTNAME_Week07_Lead.wav`, `LASTNAME_Week07_Pad.wav`
-
-### 4. Patch Files
-
-Export your Vital patches:
-- Use Vital's preset export function
-- Name: `LASTNAME_Bass.vital`, `LASTNAME_Lead.vital`, `LASTNAME_Pad.vital`
-
-### 5. Habit Check-In
-
-Continue your weekly habit documentation.
+If relevant to your habits, share how you applied this week's lecture topic (genre study through imitation) to your practice.
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
-| **Sound Quality** | Distinctive, usable, well-designed sounds | Good sounds with minor issues | Basic sounds | Poor or unusable sounds |
-| **Signal Flow** | Clear understanding, intentional design | Good documentation | Basic documentation | Unclear process |
-| **Variety** | Three clearly different, purposeful sounds | Good variety | Some variety | All sounds too similar |
-| **Habit Check-In** | Complete and insightful | Adequate | Basic | Missing or minimal |
-
-## Tips
-
-- Start from init and add one element at a time
-- Use your ears—if it sounds good, it is good
-- Modulation adds life to static sounds
-- Save your work frequently!
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
+| **Completion** | Completed most/all planned sessions | Completed majority | Completed some | Few or none |
+| **Reflection** | Thoughtful insights, honest about challenges | Good reflection | Basic reflection | Minimal |
+| **Evidence** | Clear documentation of progress | Adequate evidence | Some evidence | Little/none |
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Intro to Synthesis|Intro to Synthesis]]
-- [[Digital Garden/Knowledge Database/Vital Synthesis Tutorials|Vital Tutorials]]
-- [[Digital Garden/Knowledge Database/Assignment Make Something with Vital|Make Something with Vital]]
+- [[Habits-Framework]]

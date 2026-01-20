@@ -10,78 +10,59 @@ status: complete
 tags:
   - studio
   - week-09
-  - solo
-  - performance
-  - ableton
 created: 2026-01-19T16:33:23-06:00
 modified: 2026-01-19T16:33:23-06:00
 ---
 
 # Studio Session - Week 09 (Solo)
 
-## Session Type: Solo Studio
+## Purpose
 
-Individual focused work time for building a live performance setup.
+- Practice concentration and deep focus
+- Achieve "flow" state in creative work
+- Build individual skills through sustained practice
 
-## Session Focus
-
-Following Monday's lecture on live performance, this session is dedicated to **building your own performance version** of one of your projects.
-
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:10 | Choose project, set goals |
-| 0:10-0:55 | Build performance setup |
-| 0:55-1:10 | Test and document |
-| 1:10-1:20 | Optional practice run |
+| 0:00-0:10 | Setup & set intentions |
+| 0:10-1:00 | Deep work time (individual focus) |
+| 1:00-1:10 | Document progress |
+| 1:10-1:20 | Brief share-out (optional) |
 
-## Today's Goals
+## Skills to Practice
 
-By the end of this session, you should have:
+- Concentration and focus
+- Entering and maintaining "flow"
+- Self-directed learning
+- Time management
+- Working through challenges independently
 
-1. **Converted a project to Session View** (or equivalent in your DAW)
-2. **Organized clips into scenes**
-3. **Practiced launching clips with timing**
-4. **Documented your organization strategy**
+## Guidelines
 
-## Step-by-Step Guide
+- **Use headphones** to create a focused environment
+- **Minimize distractions**—close non-essential apps, silence phone
+- **Set a specific goal** for the session
+- **Protect your focus time**—instructor available but won't interrupt
 
-### 1. Choose Your Source Material
-- Pick an existing project or stems
-- Something with at least 8-10 elements
-- Familiar material you can manipulate
+## What to Work On
 
-### 2. Organize into Clips
-- Break elements into launchable clips
-- Consider variations (full, stripped, processed)
-- Keep clips to reasonable lengths (2-8 bars typical)
-
-### 3. Create Scene Flow
-- Build scenes that work together
-- Create "builds" and "drops"
-- Plan transitions
-
-### 4. Add Performance Controls
-- Map key parameters to controllers (if available)
-- Set up effects for live manipulation
-- Consider tempo/launch quantization
-
-### 5. Practice!
-- Run through your set
-- Note what feels natural
-- Identify weak points
+- Practice your weekly habits
+- Explore tools and techniques
+- Work on personal projects
+- Experiment with new ideas
 
 ## Documentation
 
-For your assignment, document:
-- Screenshots of your Session View layout
-- Your organizational logic (why clips are arranged this way)
-- Performance notes (what you'd do when)
+At the end of each session, note:
+
+1. What you worked on
+2. What you accomplished
+3. What challenges you encountered
+4. What you want to continue next time
 
 ## Resources
 
 - [[Studio-Session-Guide]]
-- [[Digital Garden/Knowledge Database/Performing with Ableton & Push|Performing with Ableton & Push]]
-- [[Digital Garden/Knowledge Database/Performance Assignment Learning Ableton & Push|Learning Ableton & Push]]
-- [[Final-Project-Guide]] (Start gathering evidence!)
+- [[Habits-Framework]]

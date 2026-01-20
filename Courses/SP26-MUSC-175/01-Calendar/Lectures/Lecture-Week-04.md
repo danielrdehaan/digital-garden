@@ -5,78 +5,88 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 4
-topic: Mixing Deep Dive
-status: complete
+topic: "Sound Design: Recreate Iconic Sounds"
+status: draft
 tags:
   - lecture
   - week-04
-  - mixing
-  - effects
-  - compression
+  - sound-design
+  - synthesis
+  - imitation
 created: 2026-01-19T16:30:53-06:00
-modified: 2026-01-19T16:30:53-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 04: Mixing Deep Dive
+# Lecture - Week 04: Sound Design — Recreate Iconic Sounds
 
 ## Overview
 
-Building on last week's fundamentals, we go deeper into specific mixing techniques—focusing on compression, EQ strategies, and creative effects processing.
+Sound design is the art of creating sounds from scratch. This week, we approach synthesis through imitation: by reverse-engineering iconic sounds, you'll learn the principles that make them work—and develop your own sound design vocabulary.
 
 ## Topics
 
-### Compression In-Depth
-- How compressors work (threshold, ratio, attack, release)
-- When to compress (and when not to)
-- Parallel compression techniques
-- Sidechain compression basics
+### The Imitation Approach to Sound Design
+- Why recreating sounds teaches more than making presets
+- Listening critically to production sounds
+- Breaking down what you hear into synthesis parameters
+- The skill of "hearing" a signal flow
 
-### EQ Strategies
-- Subtractive vs. additive EQ
-- High-pass filtering everything
-- Creating space through frequency carving
-- EQ before or after compression?
+### Sound Design Fundamentals (Review)
+- Oscillators: waveforms and their character
+- Filters: shaping frequency content
+- Envelopes: controlling change over time
+- LFOs and modulation: adding movement
 
-### Creative Effects
-- Reverb types and applications
-- Delay as a mixing tool
-- Saturation and harmonic distortion
-- Modulation effects in context
+### Iconic Sounds to Study
+- Classic synth sounds and their origins
+- Recognizing synthesis techniques by ear
+- The sounds that defined genres
+- Modern sounds worth studying
 
-### Advanced Concepts
-- Automation for movement
-- Bus processing and glue compression
-- Mid/Side processing introduction
-- The "less is more" principle
+### The Recreation Process
+1. **Listen:** Isolate the sound, loop it, study it
+2. **Describe:** Put into words what you hear
+3. **Hypothesize:** What oscillators? What filter? What modulation?
+4. **Build:** Start from init, build step by step
+5. **Compare:** A/B your version against the original
+6. **Iterate:** Refine until it's close
+
+### Tools for This Week
+- Vital (or your synth of choice)
+- Reference tracks with isolated/clear synth sounds
+- Spectrum analyzers for visual feedback
 
 ## In-Class Activities
 
-1. **Compression A/B Testing** (20 min)
-   - Compare uncompressed vs. compressed tracks
-   - Experiment with different attack/release settings
+1. **Sound Analysis** (15 min)
+   - Listen to three iconic synth sounds
+   - As a class, describe what we hear
+   - Hypothesize the synthesis approach
 
-2. **EQ Surgery** (20 min)
-   - Find and fix problematic frequencies
-   - Practice frequency carving between elements
+2. **Recreation Challenge** (35 min)
+   - Choose one sound to recreate
+   - Work in Vital from an initialized patch
+   - Focus on getting the character, not perfection
 
-3. **Effect Chain Building** (20 min)
-   - Create a vocal effects chain
-   - Create a drum bus chain
-   - Share and compare approaches
+3. **Compare and Discuss** (10 min)
+   - A/B your recreation against the original
+   - What did you get right? What's still off?
+   - Share discoveries with the class
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Audio Mixing The Basic Concepts & Workflows|Audio Mixing: Basic Concepts & Workflows]]
-- [[Digital Garden/Knowledge Database/Audio Effects - Explained|Audio Effects Explained]]
-- [[Digital Garden/Knowledge Database/Assignment Experiment with Audio Effects|Experiment with Audio Effects Assignment]]
+- [[Digital Garden/Knowledge Database/Intro to Synthesis|Introduction to Synthesis]]
+- [[Digital Garden/Knowledge Database/Vital Synthesis Tutorials|Vital Synthesis Tutorials]]
+- [[Assignment-Week-04]]
 
 ## Connection to Wednesday
 
-**Feedback Session:** Present your mixing work from the Week 3 assignment. Get specific feedback on your EQ and compression choices.
+**Feedback Session:** Present your habit documentation from Week 3. Share your reference track library and any early observations.
 
 ## Assignment Preview
 
-[[Assignment-Week-04]] - Mixing + Habit Documentation
-- Continue developing your mix from Week 3
-- Apply compression and EQ techniques covered today
-- Include habit check-in with evidence
+[[Assignment-Week-04]] - Sound Recreation
+- Recreate 2-3 iconic sounds from reference tracks
+- Document your process (screenshots of signal flow)
+- Reflect: What did you learn about synthesis through imitation?
+- Include habit check-in

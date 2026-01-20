@@ -5,78 +5,77 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 2
-topic: Problems of Beginning
-status: complete
+topic: Refining Your Habits
+status: draft
 tags:
   - lecture
   - week-02
-  - productivity
-  - creativity
+  - habits
+  - refinement
 created: 2026-01-19T16:30:52-06:00
-modified: 2026-01-19T16:30:52-06:00
+modified: 2026-01-20T15:09:39-06:00
 ---
 
-# Lecture - Week 02: Problems of Beginning
+# Lecture - Week 02: Refining Your Habits
 
 ## Overview
 
-Starting is often the hardest part of any creative endeavor. This week we confront the psychological and practical barriers that prevent us from beginning—and develop strategies to overcome them.
+This week we workshop and refine the habits you designed last week. Through peer feedback and troubleshooting, you'll strengthen your habit statements and prepare to begin your weekly practice next Monday.
 
 ## Topics
 
-### The Resistance
-- Steven Pressfield's concept of "The Resistance"
-- Fear of failure vs. fear of success
-- Perfectionism as procrastination
-- The blank canvas problem
+### Review: The Habits Framework
+- Quick recap of identity-based habits
+- The habit loop: Cue → Routine → Reward
+- Common pitfalls in habit design
 
-### Strategies for Starting
-- The Two-Minute Rule (from Atomic Habits)
-- Lowering the activation energy
-- "Shitty first drafts" - permission to be bad
-- Starting in the middle
-- Environmental design for creativity
+### Refining Your Habits
+- What makes a habit statement effective?
+- Specificity: time, place, duration
+- The "two-minute rule" for starting small
+- Building in flexibility without losing accountability
 
-### Habit Check-In
-- How did Week 1 go?
-- Common early challenges
-- Troubleshooting habit difficulties
+### Troubleshooting Common Obstacles
+- Anticipating barriers before they happen
+- Implementation intentions: "If X happens, then I will Y"
+- The difference between motivation and discipline
+- What to do when you miss a day
 
-### Building Creative Momentum
-- The compound effect of small starts
-- Creating "launch rituals"
-- Templates and starting points
-- Constraints as creative fuel
+### Preparing to Start
+- Setting up your environment for success
+- Habit stacking: linking new habits to existing routines
+- Documentation strategies for tracking progress
+- What "showing up" looks like when you don't feel like it
 
 ## In-Class Activities
 
-1. **Start Something Ugly** (20 min)
-   - Open your DAW with a 5-minute timer
-   - Create the worst 8-bar loop you can
-   - No judgment, no revision—just output
+1. **Habit Statement Workshop** (25 min)
+   - Small groups review each other's habit statements
+   - Identify vague language and strengthen specificity
+   - Test against the "would a stranger know exactly what to do?" standard
 
-2. **Habit Troubleshooting** (15 min)
-   - Share challenges from Week 1
-   - Peer problem-solving
-   - Habit adjustment strategies
+2. **Obstacle Mapping** (15 min)
+   - List three likely obstacles for each habit
+   - Write implementation intentions for each
+   - Share strategies with a partner
 
-3. **Template Creation** (25 min)
-   - Build a personal "starting point" template
-   - Include basic structure, favorite sounds, go-to plugins
+3. **Environment Design** (15 min)
+   - Identify one change to your physical or digital workspace
+   - Reduce friction for your desired habits
+   - Increase friction for distracting behaviors
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Life management systems & strategies|Life Management Systems]]
-- [[Digital Garden/Knowledge Database/Our Habits This Semester|Habits Framework]]
-- [[Digital Garden/Knowledge Database/Ten Rules for Students and Teachers - Sister Corit|Ten Rules for Students and Teachers]]
+- [[Habits-Framework]]
+- [[Assignment-Week-02]]
 
 ## Connection to Wednesday
 
-**Feedback Session:** Bring your "ugly start" from today's exercise. Practice presenting work-in-progress and receiving early-stage feedback.
+**Feedback Session:** Present your refined habit statements to the class. Receive final feedback before habits officially begin next week.
 
 ## Assignment Preview
 
-[[Assignment-Week-02]] - Habit Check-In #1
-- Document habit progress from Weeks 1-2
-- Reflect on challenges and successes
-- Adjust habits if needed (with justification)
+[[Assignment-Week-02]] - Habit Refinement
+- Submit refined habit statements
+- Document your environment design changes
+- Prepare for habits to begin Monday of Week 3

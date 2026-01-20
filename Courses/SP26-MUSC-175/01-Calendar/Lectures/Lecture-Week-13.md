@@ -5,85 +5,90 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 13
-topic: Final Project Prep
-status: complete
+topic: "Artist Study: Deep Dive on One Producer"
+status: draft
 tags:
   - lecture
   - week-13
-  - final-project
-  - portfolio
-  - preparation
+  - artist-study
+  - analysis
+  - imitation
 created: 2026-01-19T16:30:56-06:00
-modified: 2026-01-19T16:30:56-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 13: Final Project Prep
+# Lecture - Week 13: Artist Study — Deep Dive on One Producer
 
 ## Overview
 
-With two weeks remaining, we focus entirely on preparing your Final Project evidence portfolios. This week covers practical strategies for gathering, organizing, and presenting your semester's work.
+This week synthesizes everything we've learned about imitation by focusing deeply on a single artist or producer. By studying one person's entire body of work—their sound design, mixing, arrangement, workflow, and artistic evolution—we gain insights that scattered listening can't provide.
 
 ## Topics
 
-### Portfolio Review
-- [[Final-Project-Guide]] detailed walkthrough
-- Rubric analysis
-- Common pitfalls to avoid
+### The Imitation Approach to Artist Study
+- Why deep study of one artist accelerates growth
+- The difference between casual listening and intentional study
+- What we can learn from consistency and evolution
+- Finding your own voice through understanding others
 
-### Gathering Evidence
-- What counts as evidence?
-- Finding your early work (Week 1-2 baselines)
-- Selecting representative examples
-- Quality vs. quantity
+### How to Study an Artist
+1. **Survey:** Listen to their full discography (or a representative selection)
+2. **Identify:** What patterns emerge across their work?
+3. **Isolate:** Pick 3-5 signature elements
+4. **Research:** Interviews, tutorials, gear/plugin information
+5. **Recreate:** Attempt to capture their sound
+6. **Reflect:** What did you learn? How does this inform your own work?
 
-### Documentation Strategies
-- Before/after comparisons
-- Screen recordings and process videos
-- Written reflection approaches
-- Visual presentation tips
+### Dimensions of Artist Study
+- **Sound design:** Signature synth sounds, textures, timbres
+- **Mixing:** Characteristic balance, space, processing
+- **Arrangement:** Structural patterns, transitions, energy flow
+- **Composition:** Harmonic language, melodic tendencies, rhythmic signatures
+- **Evolution:** How has their sound changed over time?
 
-### Technical Preparation
-- File organization for submission
-- Audio format requirements
-- Video compression guidelines
-- Backup everything
+### Case Study: [Artist TBD]
+- Background and context
+- Signature sounds and techniques
+- Key tracks to study
+- What makes them distinctive
+- Live analysis demonstration
 
-### Presentation Skills
-- Structuring your presentation
-- Speaking about your work
-- Handling Q&A
-- Time management during presentation
+### From Artist Study to Personal Style
+- Imitation as a step, not the destination
+- Combining influences from multiple artists
+- Finding what resonates with you
+- Building your own sonic identity
 
 ## In-Class Activities
 
-1. **Evidence Inventory** (25 min)
-   - List all potential evidence you have
-   - Identify gaps in your documentation
-   - Plan how to fill gaps this week
+1. **Artist Presentation Prep** (15 min)
+   - Review your chosen artist's work
+   - Identify 3 signature elements
+   - Prepare to share with the class
 
-2. **Peer Portfolio Preview** (20 min)
-   - Share your portfolio plan with a partner
-   - Give feedback on organization and completeness
-   - Identify strengths and areas to develop
+2. **Quick Artist Shares** (30 min)
+   - Each student briefly presents their artist
+   - Share one key insight or technique
+   - Class discussion
 
-3. **Work Session** (15 min)
-   - Begin gathering and organizing evidence
-   - Address any technical questions
+3. **Synthesis Challenge** (15 min)
+   - Attempt to recreate one signature element
+   - Share and discuss approaches
 
 ## Resources
 
-- [[Final-Project-Guide]]
-- [[Habits-Framework]]
-- [[Digital Garden/Knowledge Database/MUSC-175 Final Project|MUSC-175 Final Project]]
+- [[Assignment-Week-13]]
+- [[Digital Garden/Knowledge Database/Artist Study Framework|Artist Study Framework]]
 
 ## Connection to Wednesday
 
-**Studio Session (Solo):** Dedicated work session for Final Project preparation. Use this time to gather evidence, record demonstrations, or write reflections.
+**Studio Session (Solo):** Dedicated time for portfolio work. Gather evidence, record demonstrations, write reflections.
 
 ## Assignment Preview
 
-[[Assignment-Week-13]] - Portfolio Draft
-- Submit a draft of your evidence portfolio
-- Include at least 50% of final content
-- Written reflection draft (at least 250 words)
-- This draft will receive feedback before final submission
+[[Assignment-Week-13]] - Artist Study Project
+- Choose one artist/producer to study deeply
+- Document their signature elements across multiple dimensions
+- Recreate one track or element in their style
+- Written reflection: What did you learn? How will it influence your work?
+- **Portfolio Draft Due Sunday, May 3**

@@ -5,76 +5,86 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 3
-topic: Audio Mixing Basics
-status: complete
+topic: Deliberate Practice & Learning Through Imitation
+status: draft
 tags:
   - lecture
   - week-03
-  - mixing
-  - audio
+  - habits
+  - deliberate-practice
+  - imitation
 created: 2026-01-19T16:30:53-06:00
-modified: 2026-01-19T16:30:53-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 03: Audio Mixing Basics
+# Lecture - Week 03: Deliberate Practice & Learning Through Imitation
 
 ## Overview
 
-Mixing is the art of balancing and shaping individual elements into a cohesive whole. This week we cover fundamental concepts and workflows that apply regardless of genre or DAW.
+Today marks the official start of your weekly habits. This lecture introduces the semester's core learning method: **learning through imitation**. From this week forward, every production lecture will approach topics through the lens of studying, analyzing, and recreating the work of professionals.
 
 ## Topics
 
-### What Is Mixing?
-- Definition and goals of mixing
-- The difference between mixing and mastering
-- Listening environment considerations
+### Habits Begin Today
+- Your habits officially start this week
+- Setting expectations for documentation
+- How weekly check-ins will work
+- The compound effect: small actions over time
 
-### The Core Mixing Tools
-- **Volume/Gain:** The most important tool
-- **Panning:** Creating width and space
-- **EQ:** Frequency shaping
-- **Compression:** Dynamic control
-- **Reverb/Delay:** Creating depth
+### What Is Deliberate Practice?
+- Practice vs. deliberate practice
+- The role of focused attention
+- Feedback loops and iteration
+- Why "just doing it" isn't enough
 
-### The Mixing Workflow
-- Gain staging basics
-- Static mix approach
-- Working in passes (volume, EQ, compression, effects)
-- Reference track methodology
+### Learning Through Imitation
+- How masters have always learned (apprenticeship, copying, study)
+- Imitation as a tool, not plagiarism
+- The progression: Copy → Understand → Adapt → Create
+- Why analyzing others' work accelerates your growth
 
-### Fundamental Concepts
-- Frequency spectrum awareness
-- The "mix in mono" technique
-- Headroom and levels
-- Organization and labeling
+### The Imitation Framework
+- **Listen/Watch:** Active, critical consumption
+- **Analyze:** Break down what you hear/see
+- **Recreate:** Attempt to reproduce it
+- **Reflect:** What did you learn? What's still unclear?
+
+### Applying This to Music Production
+- How we'll use this framework all semester
+- Preview of upcoming topics through the imitation lens
+- Building a reference library
+- Documentation as learning
 
 ## In-Class Activities
 
-1. **Frequency Ear Training** (15 min)
-   - Identify frequency ranges
-   - Practice boosting/cutting specific bands
+1. **Listening Exercise** (20 min)
+   - Listen to a professional track together
+   - Identify 5 specific production choices
+   - Discuss what makes each choice effective
 
-2. **Static Mix Exercise** (30 min)
-   - Given multitracks, create a static mix using only volume and panning
-   - Compare results across class
+2. **Quick Imitation Challenge** (25 min)
+   - Attempt to recreate one element from the track
+   - Focus on process, not perfection
+   - Share and compare approaches
 
-3. **Reference Track Analysis** (15 min)
-   - Listen to a professional mix
-   - Identify balance, panning, and frequency choices
+3. **Habit Launch** (15 min)
+   - Confirm your two habits are ready to begin
+   - Set up your documentation system
+   - Commit to your first week
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Audio Mixing The Basic Concepts & Workflows|Audio Mixing: Basic Concepts & Workflows]]
-- [[Digital Garden/Knowledge Database/Audio Effects - Explained|Audio Effects Explained]]
-- [[Digital Garden/Knowledge Database/Assignment Practice Mixing|Practice Mixing Assignment]]
+- [[Habits-Framework]]
+- [[Assignment-Week-03]]
+- [[Digital Garden/Knowledge Database/Learning Through Imitation|Learning Through Imitation]]
 
 ## Connection to Wednesday
 
-**Studio Session (Group):** Work in teams to mix a provided multitrack session. Each team member focuses on different elements; combine your work at the end.
+**Studio Session (Solo):** Your first full habit practice session. Focus on executing your habits and documenting your baseline. Begin building your reference track library.
 
 ## Assignment Preview
 
-[[Assignment-Week-03]] - Mixing Practice
-- Apply basic mixing techniques to a provided or personal project
-- Document your process with before/after screenshots
-- Habit check-in continues
+[[Assignment-Week-03]] - Habit Check-In #1
+- Document your first week of habit practice
+- Begin building your reference track library (collect 3-5 tracks to study)
+- Short reflection on the imitation framework

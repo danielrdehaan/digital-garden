@@ -10,81 +10,68 @@ status: complete
 tags:
   - studio
   - week-11
-  - group
-  - collaboration
 created: 2026-01-19T16:33:23-06:00
 modified: 2026-01-19T16:33:23-06:00
 ---
 
 # Studio Session - Week 11 (Group)
 
-## Session Type: Group Studio
+## Purpose
 
-Full collaborative production session—create a piece together from scratch.
+- Collaborate with peers on creative work
+- Practice group dynamics and communication
+- Learn from different perspectives and approaches
 
-## Session Focus
-
-Put this week's lecture on collaboration into practice. Work in teams to create a short musical piece, with each person contributing different elements.
-
-## Group Formation
-
-- Teams of 3-4 students
-- Self-selected based on complementary skills/interests
-- Diverse skill sets encouraged (producer + vocalist, beatmaker + melodist, etc.)
-
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:15 | Form groups, plan approach, assign roles |
-| 0:15-0:55 | Collaborative production |
-| 0:55-1:10 | Playback and discussion |
-| 1:10-1:20 | Reflection on process |
+| 0:00-0:10 | Setup & form groups |
+| 0:10-0:55 | Collaborative work time |
+| 0:55-1:10 | Group share-out |
+| 1:10-1:20 | Debrief & takeaways |
 
-## Today's Activity: Collaborative Creation
+## Skills to Practice
 
-### Phase 1: Planning (15 min)
-- Decide on a direction (genre, vibe, tempo)
-- Assign initial roles:
-  - **Drums/Rhythm** person
-  - **Bass/Low end** person
-  - **Melody/Harmony** person
-  - **Texture/Effects** person
-- Agree on key and tempo
+- Group dynamics and communication
+- Adopting roles (driver, navigator, researcher, documenter)
+- Giving and receiving creative input
+- Collaborative decision-making
+- Learning from peers
 
-### Phase 2: Production (40 min)
-- Work in rounds—each person adds their element
-- Build iteratively—start simple, add complexity
-- Communicate constantly
-- Be willing to adapt to what emerges
+## Guidelines
 
-### Phase 3: Playback (15 min)
-- Listen back as a group
-- Make quick tweaks if time allows
-- Prepare to share with the class
+- **Rotate roles** throughout the session
+- **Ensure all voices are heard**—share speaking time
+- **Be open** to different approaches
+- **Document decisions together**—keep a shared record
 
-### Phase 4: Reflection (10 min)
-- What worked well in your collaboration?
-- What was challenging?
-- What did you learn from your teammates?
+## Group Roles
 
-## Collaboration Tips
+Consider rotating through these roles:
 
-- **Establish BPM and key immediately**
-- **Take turns** adding elements
-- **Listen** before suggesting changes
-- **"Yes, and..."** instead of "No, but..."
-- **Save versions** frequently
+- **Driver**: Hands on the controls, implementing ideas
+- **Navigator**: Directing the creative direction
+- **Researcher**: Looking up techniques or solutions
+- **Documenter**: Recording decisions and progress
 
-## Deliverables for Assignment
+## What to Work On
 
-Each group member should:
-- Save their contribution (stems)
-- Save the group's final bounce
-- Write individual reflection on the collaboration process
+- Practice your weekly habits together
+- Explore tools and techniques as a group
+- Work on shared projects or help with individual projects
+- Experiment with collaborative workflows
+
+## Documentation
+
+At the end of each session, note:
+
+1. What you worked on as a group
+2. What you accomplished together
+3. What challenges you encountered
+4. What you learned from your peers
 
 ## Resources
 
 - [[Studio-Session-Guide]]
-- [[Digital Garden/Knowledge Database/Giving Feedback|Giving Feedback]]
-- [[Digital Garden/Knowledge Database/Sync Ableton & Pro Tools|Sync DAWs]]
+- [[Habits-Framework]]

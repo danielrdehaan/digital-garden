@@ -5,99 +5,89 @@ time: 23:59
 location: online
 type: assignment
 week: 2
-status: complete
+status: draft
 tags:
   - assignment
   - week-02
   - habits
-  - check-in
+  - refinement
 created: 2026-01-19T16:39:14-06:00
-modified: 2026-01-19T16:39:14-06:00
+modified: 2026-01-20T16:00:00-06:00
 ---
 
-# Assignment - Week 02: Habit Check-In #1
+# Assignment - Week 02: Habit Refinement
 
 **Due:** Sunday, February 8, 2026 @ 11:59 PM
 
 ## Overview
 
-Your first habit check-in! Reflect on your first two weeks of practice and document your progress.
+Refine your habit statements based on peer feedback and prepare to begin your habits next Monday. This is your last chance to adjust before you commit.
 
 ## Deliverables
 
 Submit to Canvas:
 
-### 1. Habit Progress Report
+### 1. Refined Habit Statements
 
 For **each of your two habits**, provide:
 
-**Habit completion this week:**
-- How many times did you complete each habit?
-- What days/times did you practice?
+**Original Habit Statement:** (from Week 1)
 
-**What I did:**
-- Describe your habit activities in detail
-- What specifically did you work on?
+**Refined Habit Statement:**
+> "I will [SPECIFIC ACTION] for [TIME/AMOUNT] [WHEN/HOW OFTEN]."
 
-**What I learned:**
-- Any insights or discoveries?
-- What surprised you?
+**What changed and why?**
+- How did you make the habit more specific?
+- What feedback did you incorporate?
+- If nothing changed, explain why the original was already effective
 
-**Challenges:**
-- What made it difficult?
-- How did you (or will you) address these challenges?
+### 2. Environment Design
 
-### 2. Evidence of Practice
+For **each habit**, describe:
 
-For **each habit**, include:
-- Screenshots, audio clips, or descriptions of your work
-- This continues building your Final Project evidence
+**Physical/Digital Setup:**
+- What changes will you make to your environment?
+- How will you reduce friction for your desired behavior?
+- How will you increase friction for distracting behaviors?
 
-### 3. Adjustment Request (if needed)
+**Example:**
+> "For my mixing habit, I'll save a template with my reference track already loaded and gain-matched. I'll also close Slack and put my phone in another room during practice."
 
-If you need to adjust your habits:
-- Explain what you want to change and why
-- Propose the new habit statement
-- Adjustments require instructor approval
+### 3. Obstacle Planning
 
-## Weekly Check-In Format (Template)
+For **each habit**, identify:
 
-```markdown
-## Habit 1: [Name]
+**Three likely obstacles:**
+1. [Obstacle]
+2. [Obstacle]
+3. [Obstacle]
 
-**Completion:** [X/X planned sessions]
+**Implementation intentions:**
+- "If [obstacle 1], then I will [response]."
+- "If [obstacle 2], then I will [response]."
+- "If [obstacle 3], then I will [response]."
 
-**Activities:**
-- Day 1: [What I did]
-- Day 2: [What I did]
-...
+### 4. Commitment Statement
 
-**Insights:** [What I learned]
-
-**Challenges:** [What was difficult]
-
-**Evidence:** [Link/attachment]
-
----
-
-## Habit 2: [Name]
-
-[Same format]
-```
+Write a brief commitment (50-100 words):
+- Confirm you're ready to begin Monday of Week 3
+- Acknowledge what consistent practice means to you
+- Note how you'll handle missing a day (it will happen!)
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
-| **Completion** | Completed most/all planned habit sessions | Completed majority of sessions | Completed some sessions | Few or no sessions completed |
-| **Reflection** | Thoughtful insights; honest about challenges | Good reflection | Basic reflection | Minimal reflection |
-| **Evidence** | Clear documentation of progress | Adequate evidence | Some evidence | Little/no evidence |
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
+| **Refined Habits** | Specific, measurable, clearly improved | Clear habits with good refinement | Some refinement | Little/no refinement |
+| **Environment Design** | Thoughtful, specific changes planned | Good planning | Basic planning | Vague or missing |
+| **Obstacle Planning** | Realistic obstacles with concrete responses | Good planning | Basic planning | Missing or unrealistic |
+| **Commitment** | Clear, honest commitment | Good commitment | Basic | Missing or vague |
 
-## Reminder
+## Important
 
-This is the first of many check-ins. The goal is consistent practice and honest reflection, not perfection. If you struggled this week, that's valuable information—share it!
+**Habits officially begin Monday of Week 3.** After this assignment, habit adjustments require instructor approval and documented justification.
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Assignment Weekly Habits Update|Weekly Habits Update Guide]]
 - [[Habits-Framework]]
+- [[Lecture-Week-02]]

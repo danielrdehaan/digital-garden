@@ -5,83 +5,89 @@ time: 23:59
 location: online
 type: assignment
 week: 3
-status: complete
+status: draft
 tags:
   - assignment
   - week-03
-  - mixing
   - habits
+  - progress-update
 created: 2026-01-19T16:39:14-06:00
-modified: 2026-01-19T16:39:14-06:00
+modified: 2026-01-20T16:00:00-06:00
 ---
 
-# Assignment - Week 03: Mixing Practice
+# Assignment - Week 03: Habit Progress Update
 
 **Due:** Sunday, February 15, 2026 @ 11:59 PM
 
 ## Overview
 
-Apply the mixing fundamentals from this week's lecture. Create a rough mix focusing on volume, panning, and basic processing.
+Your first week of official habit practice! Document your progress and share what you're learning.
 
 ## Deliverables
 
-Submit to Canvas:
+Submit to Canvas Discussion:
 
-### 1. Mixing Project
+### Habit Progress Update
 
-Create a rough mix of either:
-- **Option A:** The provided multitrack session (posted on Canvas)
-- **Option B:** Your own multitrack project (minimum 8 tracks)
+For **each of your two habits**, provide:
 
-Your mix should demonstrate:
-- Volume balancing between elements
-- Panning decisions for stereo image
-- Basic gain staging
-- At least one EQ move (with explanation)
-- At least one compressor (with explanation)
+**1. Completion Record**
+- How many times did you complete each habit this week?
+- What days/times did you practice?
 
-### 2. Mix Documentation
+**2. What I Did**
+- Describe your habit activities in detail
+- What specifically did you work on?
 
-**Before/After Screenshots:**
-- Show your session before mixing (just loaded)
-- Show your session after mixing (with plugins)
+**3. What I Learned**
+- Any insights or discoveries?
+- What surprised you?
 
-**Decision Rationale:** (200-300 words)
-- What was your mixing approach?
-- Why did you make specific panning choices?
-- What EQ decisions did you make and why?
-- What compression decisions did you make and why?
+**4. Challenges**
+- What made it difficult?
+- How did you (or will you) address these challenges?
 
-### 3. Audio Export
+**5. Evidence**
+- Screenshots, audio clips, or descriptions of your work
+- This builds your Final Project portfolio!
 
-Export your mix as:
-- WAV or AIFF, 44.1kHz/24-bit
-- Name: `LASTNAME_Week03_Mix.wav`
+### Weekly Template
 
-### 4. Habit Check-In
+```markdown
+## Habit 1: [Name]
 
-Continue your weekly habit documentation:
-- Completion record
-- Brief reflection
-- Evidence of practice
+**Completion:** [X/X planned sessions]
+
+**What I Did:**
+- [Detailed description]
+
+**What I Learned:**
+- [Insights]
+
+**Challenges:**
+- [What was difficult and how you addressed it]
+
+**Evidence:** [Link/attachment/description]
+
+---
+
+## Habit 2: [Name]
+
+[Same format]
+```
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
-| **Mix Quality** | Well-balanced, clear stereo image, appropriate processing | Good balance with minor issues | Basic mix, some balance problems | Poor balance or missing elements |
-| **Documentation** | Clear before/after, thoughtful rationale | Good documentation | Basic documentation | Missing or unclear |
-| **Technical** | Proper levels, clean export | Minor technical issues | Some technical problems | Significant issues |
-| **Habit Check-In** | Complete and thoughtful | Adequate | Basic | Missing or minimal |
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
+| **Completion** | Completed most/all planned sessions | Completed majority | Completed some | Few or none |
+| **Reflection** | Thoughtful insights, honest about challenges | Good reflection | Basic reflection | Minimal |
+| **Evidence** | Clear documentation of progress | Adequate evidence | Some evidence | Little/none |
 
-## Tips
+## Remember
 
-- Start with volume only—get a good static mix before adding plugins
-- Reference a professional track in a similar style
-- Take breaks—ear fatigue affects judgment
-- Don't over-process; subtlety is usually better
+The goal is consistent practice and honest reflection, not perfection. If you struggled this week, that's valuable information—share it!
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Audio Mixing The Basic Concepts & Workflows|Audio Mixing Basics]]
-- [[Digital Garden/Knowledge Database/Assignment Practice Mixing|Practice Mixing Guide]]
+- [[Habits-Framework]]

@@ -5,91 +5,63 @@ time: 23:59
 location: online
 type: assignment
 week: 5
-status: complete
+status: draft
 tags:
   - assignment
   - week-05
-  - daw
-  - workflow
   - habits
+  - progress-update
 created: 2026-01-19T16:39:16-06:00
-modified: 2026-01-19T16:39:16-06:00
+modified: 2026-01-20T16:00:00-06:00
 ---
 
-# Assignment - Week 05: DAW Exploration
+# Assignment - Week 05: Habit Progress Update
 
 **Due:** Sunday, March 1, 2026 @ 11:59 PM
 
 ## Overview
 
-Deep dive into your DAW. Learn new features, optimize your workflow, and build or refine a production template.
+Continue documenting your habit practice. This week's lecture covered mixing through imitation—consider how studying professional mixes might enhance your habit practice.
 
 ## Deliverables
 
-Submit to Canvas:
+Submit to Canvas Discussion:
 
-### 1. Feature Discovery Log
+### Habit Progress Update
 
-Document **at least 10 new features or shortcuts** you learned:
+For **each of your two habits**, provide:
 
-| # | Feature/Shortcut | What It Does | How I'll Use It |
-|---|------------------|--------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| ... | | | |
-| 10 | | | |
+**1. Completion Record**
+- How many times did you complete each habit this week?
+- What days/times did you practice?
 
-For at least 3 of these, include screenshots or brief video clips demonstrating the feature.
+**2. What I Did**
+- Describe your habit activities in detail
+- What specifically did you work on?
 
-### 2. Production Template
+**3. What I Learned**
+- Any insights or discoveries?
+- What surprised you?
 
-Create or significantly update a production template:
+**4. Challenges**
+- What made it difficult?
+- How did you (or will you) address these challenges?
 
-**Template Contents:**
-- List all tracks included (with routing if applicable)
-- Default plugins and why you chose them
-- Organizational structure (folders, colors, etc.)
-- Any automation or macros
+**5. Evidence**
+- Screenshots, audio clips, or descriptions of your work
 
-**Template Screenshot:**
-- Include a full screenshot of your template session
+### Optional Bonus
 
-**Template File:**
-- Export/save your template file for submission
-
-### 3. Workflow Analysis
-
-Write a brief analysis (200-300 words):
-- What are your 3 biggest workflow bottlenecks?
-- How do the features you learned address these?
-- What would you still like to improve?
-
-### 4. Habit Check-In
-
-Continue your weekly habit documentation:
-- Completion record
-- Reflection on progress
-- Evidence of practice
+If relevant to your habits, share how you applied this week's lecture topic (mixing through imitation) to your practice.
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
-| **Feature Discovery** | 10+ genuinely useful features with clear documentation | 8-10 features, good documentation | 5-7 features, basic documentation | Few features or poor documentation |
-| **Template** | Comprehensive, well-organized, thoughtfully designed | Good template with clear logic | Basic template | Minimal or no template |
-| **Analysis** | Insightful understanding of workflow | Good analysis | Basic analysis | Little analysis |
-| **Habit Check-In** | Complete and insightful | Adequate | Basic | Missing or minimal |
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
+| **Completion** | Completed most/all planned sessions | Completed majority | Completed some | Few or none |
+| **Reflection** | Thoughtful insights, honest about challenges | Good reflection | Basic reflection | Minimal |
+| **Evidence** | Clear documentation of progress | Adequate evidence | Some evidence | Little/none |
 
-## Tips
+## Resources
 
-- Explore menus you've never opened
-- Search your DAW's documentation for hidden features
-- Watch tutorial videos for advanced techniques
-- Ask classmates what features they use
-
-## DAW-Specific Resources
-
-- [[Digital Garden/Knowledge Database/Ableton Live Quantizing Audio|Ableton Live]]
-- [[Digital Garden/Knowledge Database/Logic Pro Quantizing Audio|Logic Pro]]
-- [[Digital Garden/Knowledge Database/FL Studio Resources|FL Studio]]
-- [[Digital Garden/Knowledge Database/Learn your DAW + Expand Your Sound Pallete|General DAW Learning]]
+- [[Habits-Framework]]

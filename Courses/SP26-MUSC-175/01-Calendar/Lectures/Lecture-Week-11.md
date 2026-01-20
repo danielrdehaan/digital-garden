@@ -5,85 +5,91 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 11
-topic: Collaborative Production
-status: complete
+topic: "Performance: Study a Live Set"
+status: draft
 tags:
   - lecture
   - week-11
-  - collaboration
-  - teamwork
-  - production
+  - performance
+  - live
+  - imitation
 created: 2026-01-19T16:30:55-06:00
-modified: 2026-01-19T16:30:55-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 11: Collaborative Production
+# Lecture - Week 11: Performance — Study a Live Set
 
 ## Overview
 
-Music is often a collaborative endeavor. This week we explore how to work effectively with other musicians, producers, and creatives—whether in the same room or across the globe.
+Taking your music from the studio to a live context requires a different set of skills. This week, we study how professional performers structure their sets, interact with their tools, and engage audiences—then apply those insights to our own performance practice.
 
 ## Topics
 
-### The Value of Collaboration
-- Different perspectives and skills
-- Accountability and motivation
-- Networking and community
-- Learning through working with others
+### The Imitation Approach to Performance
+- Why studying live sets accelerates learning
+- The gap between production and performance
+- What makes a compelling live electronic set?
+- Learning from different performance styles
 
-### Collaboration Models
-- Co-writing sessions
-- Producer/artist partnerships
-- Remote collaboration
-- Beat leasing and sample packs
+### Studying Live Performances
+- Watching full live sets critically
+- Identifying structure and flow
+- Noting transitions and energy management
+- Hardware/software choices and why they matter
 
-### Technical Workflow for Collaboration
-- Project organization standards
-- Stem/trackout preparation
-- Version control basics
-- File sharing and naming conventions
+### Performance Structures
+- The arc of a live set
+- Building and releasing tension
+- Improvisation vs. pre-planned elements
+- Balancing safety with spontaneity
 
-### Communication and Creative Process
-- Giving and receiving creative feedback
-- Managing creative differences
-- Defining roles and expectations
-- Contracts and credits (brief overview)
+### Performance Techniques to Study
+- Clip launching and scene organization
+- Live effects processing
+- Controller mapping strategies
+- Stage presence and audience connection
 
-### Tools for Remote Collaboration
-- File sharing platforms
-- Real-time collaboration tools
-- Video conferencing for sessions
-- Staying organized across time zones
+### Tools for Live Performance
+- Ableton Live Session View
+- Hardware controllers (Push, Launchpad, etc.)
+- Hybrid setups
+- Backup and redundancy planning
+
+### From Study to Practice
+- Recreating a simple set structure
+- Building your own performance version of a track
+- Practice strategies for live performance
+- Overcoming performance anxiety
 
 ## In-Class Activities
 
-1. **Collaboration Planning** (15 min)
-   - Pair up with a classmate
-   - Define roles and goals for a mini-collaboration
+1. **Live Set Analysis** (25 min)
+   - Watch a live set together
+   - Map the structure: energy, transitions, key moments
+   - Discuss the performer's choices
 
-2. **Stem Preparation Exercise** (20 min)
-   - Export stems from one of your projects
-   - Ensure they're properly labeled and organized
+2. **Set Building** (25 min)
+   - Take one of your projects
+   - Convert it to a live-playable format
+   - Identify what you'd trigger, manipulate, improvise
 
-3. **Remote Collab Simulation** (25 min)
-   - Exchange stems with your partner
-   - Add something to their project
-   - Share results and discuss
+3. **Mini Performance** (10 min)
+   - Brave volunteers demo their setup
+   - Feedback and discussion
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Sync Ableton & Pro Tools|Sync Ableton & Pro Tools]]
-- [[Digital Garden/Knowledge Database/Pro Tools Session Prep|Pro Tools Session Prep]]
-- [[Digital Garden/Knowledge Database/Assignment Organize Your Files|Organize Your Files Assignment]]
+- [[Digital Garden/Knowledge Database/Performing with Ableton & Push|Performing with Ableton & Push]]
+- [[Assignment-Week-11]]
 
 ## Connection to Wednesday
 
-**Studio Session (Group):** Full collaborative production session. Work in teams of 3-4 to create a short piece from scratch, with each person contributing different elements.
+**Studio Session (Group):** Performance workshop. Practice your live setups, give and receive feedback on performance approaches.
 
 ## Assignment Preview
 
-[[Assignment-Week-11]] - Collaborative Project
-- Work with a partner to create a collaborative piece
-- Document the collaboration process
-- Reflect on what worked and what was challenging
+[[Assignment-Week-11]] - Live Set Study
+- Watch and analyze a full live set (document structure, transitions, techniques)
+- Create a performance-ready version of one of your tracks
+- Short reflection: What did you learn from studying a live performer?
 - Include habit check-in

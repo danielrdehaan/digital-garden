@@ -5,80 +5,91 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 7
-topic: Foundations of Synthesis
-status: complete
+topic: "Production Style: Genre Deep Dive"
+status: draft
 tags:
   - lecture
   - week-07
-  - synthesis
-  - sound-design
-  - vital
+  - genre
+  - production-style
+  - imitation
 created: 2026-01-19T16:30:54-06:00
-modified: 2026-01-19T16:30:54-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 07: Foundations of Synthesis
+# Lecture - Week 07: Production Style — Genre Deep Dive
 
 ## Overview
 
-Synthesis is the art of creating sound from scratch. Understanding synthesis fundamentals empowers you to design unique sounds and understand how your favorite presets work.
+Every genre has its own sonic fingerprint—characteristic sounds, mixing approaches, arrangement patterns, and production techniques. This week, we dive deep into a specific genre to understand what makes it tick, then apply those conventions to our own work.
 
 ## Topics
 
-### What Is Synthesis?
-- Creating sound vs. sampling sound
-- Why learn synthesis?
-- Brief history of synthesizers
+### The Imitation Approach to Genre
+- Why genre study accelerates learning
+- Conventions as a starting point, not a cage
+- Learning the rules before breaking them
+- Building versatility through genre fluency
 
-### The Building Blocks
-- **Oscillators:** Waveform generators (sine, saw, square, triangle)
-- **Filters:** Shaping frequency content
-- **Amplifiers:** Controlling volume over time
-- **Envelopes:** ADSR and beyond
-- **LFOs:** Adding movement and modulation
+### Anatomy of a Genre
+- Sonic characteristics (instrumentation, timbres, textures)
+- Rhythmic patterns and grooves
+- Harmonic tendencies
+- Arrangement conventions
+- Mixing and mastering aesthetics
 
-### Types of Synthesis
-- Subtractive synthesis (classic analog approach)
-- FM synthesis (overview)
-- Wavetable synthesis (modern approach)
-- Additive and granular (brief overview)
+### Genre Deep Dive Method
+1. **Survey:** Listen to 10+ tracks in the genre
+2. **Identify:** What patterns emerge?
+3. **Isolate:** Pick 3-5 defining characteristics
+4. **Study:** Find tutorials/breakdowns of these elements
+5. **Recreate:** Build a track using these conventions
+6. **Reflect:** What did you learn?
 
-### Introduction to Vital
-- Why Vital? (Free, powerful, modern)
-- Interface overview
-- Creating your first patch from scratch
-- Saving and organizing presets
+### Case Study: [Genre TBD]
+- Historical context and origins
+- Key artists and defining tracks
+- Signature sounds and techniques
+- Common tools and plugins
+- Live demonstration
+
+### From Genre to Personal Style
+- How genre study informs your own voice
+- Blending influences from multiple genres
+- The balance between convention and innovation
+- Building a versatile production toolkit
 
 ## In-Class Activities
 
-1. **Waveform Listening** (10 min)
-   - Hear and identify basic waveforms
-   - Understand harmonic content differences
+1. **Genre Identification** (15 min)
+   - Listen to tracks blind
+   - Identify genre markers
+   - Discuss what makes each genre recognizable
 
-2. **Build a Basic Patch** (30 min)
-   - Start from initialized state
-   - Add oscillator, filter, envelope
-   - Shape a usable sound
+2. **Convention Breakdown** (20 min)
+   - As a class, analyze one genre in depth
+   - List its defining characteristics
+   - Identify specific techniques we can learn
 
-3. **Preset Analysis** (20 min)
-   - Load a preset in Vital
-   - Reverse-engineer how it works
-   - Modify it to make it your own
+3. **Genre Recreation Start** (25 min)
+   - Begin building a track in the studied genre
+   - Focus on capturing 2-3 key conventions
+   - This continues as the week's assignment
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Intro to Synthesis|Introduction to Synthesis]]
-- [[Digital Garden/Knowledge Database/Vital Synthesis Tutorials|Vital Synthesis Tutorials]]
-- [[Digital Garden/Knowledge Database/Assignment Make Something with Vital|Make Something with Vital Assignment]]
-- [[Digital Garden/Knowledge Database/Assignment 8-Bar Loop Using only Vital|8-Bar Loop Using Only Vital Assignment]]
+- [[Assignment-Week-07]]
+- [[Digital Garden/Knowledge Database/Genre Analysis Framework|Genre Analysis Framework]]
 
 ## Connection to Wednesday
 
-**Studio Session (Group):** Sound design challenge! Work in teams to create a specific sound (bass, lead, pad, etc.) using only Vital. Compare approaches at the end.
+**Studio Session (Group):** Genre exploration continues. Work in small groups focused on the same genre, share discoveries and techniques.
 
 ## Assignment Preview
 
-[[Assignment-Week-07]] - Vital Synthesis
-- Create 3 original patches in Vital from scratch
-- Document your process (screenshot signal flow)
+[[Assignment-Week-07]] - Genre Study Project
+- Choose a genre different from your default style
+- Document 5+ defining characteristics
+- Create a short piece (1-2 min) in that genre's style
+- Reflect: What did you learn that you can apply to your own music?
 - Include habit check-in

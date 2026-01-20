@@ -5,90 +5,97 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 12
-topic: Workflow & Organization
-status: complete
+topic: "Mastering: Match a Reference"
+status: draft
 tags:
   - lecture
   - week-12
-  - workflow
-  - organization
-  - productivity
+  - mastering
+  - reference
+  - imitation
 created: 2026-01-19T16:30:55-06:00
-modified: 2026-01-19T16:30:55-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 12: Workflow & Organization
+# Lecture - Week 12: Mastering — Match a Reference
 
 ## Overview
 
-As you've accumulated projects, samples, presets, and knowledge throughout this course, now is the time to establish systems that will serve you long-term. Good organization is invisible when it works and painful when it doesn't.
+Mastering is the final polish that prepares music for release. This week, we approach mastering through imitation: using reference tracks to guide our decisions, matching the tonal balance and loudness of professional releases, and learning to hear the subtle differences that matter.
 
 ## Topics
 
-### File Organization
-- Folder structures that scale
-- Naming conventions that work
-- Sample library management
-- Project archival strategies
+### The Imitation Approach to Mastering
+- Why reference matching is the key to mastering
+- Training your ears through comparison
+- What you can (and can't) fix in mastering
+- The goal: competitive but not crushed
 
-### Digital Hygiene
-- Backup strategies (3-2-1 rule)
-- Cloud vs. local storage
-- Data security basics
-- Cleaning up old projects
+### What Is Mastering?
+- The role of mastering in the production chain
+- DIY vs. professional mastering
+- When to master yourself vs. hire out
+- Managing expectations
 
-### Workflow Optimization
-- Identifying bottlenecks
-- Templates and presets
-- Keyboard shortcuts mastery
-- Batch processing techniques
+### Reference Track Methodology
+- Choosing appropriate references
+- Level-matching for honest comparison
+- What to listen for: tonal balance, dynamics, width, loudness
+- A/B switching techniques
 
-### Long-Term Career Systems
-- Building a portfolio
-- Social media presence
-- Networking strategies
-- Continuing education
+### The Mastering Chain
+- Metering and analysis first
+- EQ for tonal balance (match the reference)
+- Compression for glue and dynamics
+- Stereo imaging adjustments
+- Limiting for loudness (match the reference)
 
-### Habit Reflection
-- Mid-semester habit assessment
-- What's working? What isn't?
-- Adjustments for the home stretch
-- Connecting habits to Final Project
+### Loudness Standards
+- Understanding LUFS, RMS, and peak levels
+- Platform normalization (Spotify, Apple Music, YouTube)
+- The loudness war: lessons learned
+- Preserving dynamics while achieving competitiveness
+
+### Practical Workflow
+- Analyzing your reference
+- Applying changes incrementally
+- Constant A/B comparison
+- Knowing when to stop
 
 ## In-Class Activities
 
-1. **Audit Your Files** (20 min)
-   - Review your current project folder structure
-   - Identify organizational issues
-   - Create a plan for improvement
+1. **Reference Analysis** (20 min)
+   - Analyze a professional master together
+   - Measure LUFS, note tonal balance, stereo width
+   - This becomes our target
 
-2. **Backup Check** (10 min)
-   - Verify your backup strategy
-   - Test that you can restore from backup
+2. **Mastering Match** (30 min)
+   - Apply a mastering chain to a provided mixdown
+   - Goal: match the reference as closely as possible
+   - Focus on tonal balance and loudness
 
-3. **Habit Reflection Writing** (15 min)
-   - Written reflection on habit progress
-   - Identify patterns and insights
-
-4. **Optimization Planning** (15 min)
-   - List 5 workflow pain points
-   - Research solutions for each
+3. **Compare and Discuss** (10 min)
+   - A/B your master against the reference
+   - What's close? What's different?
+   - Share techniques that worked
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Staying Organized, Maximizing Productivity, and St|Staying Organized & Maximizing Productivity]]
-- [[Digital Garden/Knowledge Database/Good Digital Hygiene|Good Digital Hygiene]]
-- [[Digital Garden/Knowledge Database/Long-Term Data Storage & Management|Long-Term Data Storage & Management]]
-- [[Digital Garden/Knowledge Database/Assignment Organize Your Files|Organize Your Files Assignment]]
+- [[Digital Garden/Knowledge Database/Mastering Overview|Mastering Overview]]
+- [[Assignment-Week-12]]
 
 ## Connection to Wednesday
 
-**Feedback Session:** Present collaborative projects from Week 11. Discuss the collaboration process and what you learned from working with others.
+**Feedback Session:** Share live set studies and performance setups from Week 11. Demo your performance-ready tracks.
 
 ## Assignment Preview
 
-[[Assignment-Week-12]] - Habit Reflection
-- Comprehensive written reflection on your habits (500+ words)
-- Organize your project files according to a consistent system
-- Document your organization system
-- Include updated habit check-in
+[[Assignment-Week-12]] - Reference Mastering
+- Choose a reference track in your genre
+- Master one of your mixes to match the reference
+- Document your process: settings, decisions, before/after measurements
+- Include habit check-in
+
+## Reminder
+
+**Course Evaluations** are now open and close Sunday, May 10. Please take time to provide feedback!

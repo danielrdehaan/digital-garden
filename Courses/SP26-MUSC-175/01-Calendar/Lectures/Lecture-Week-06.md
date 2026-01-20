@@ -5,82 +5,86 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 6
-topic: Composing with BBCSO/LABS
-status: complete
+topic: "Arrangement: Study Song Structures"
+status: draft
 tags:
   - lecture
   - week-06
-  - composition
-  - orchestral
-  - bbcso
-  - spitfire
+  - arrangement
+  - song-structure
+  - imitation
 created: 2026-01-19T16:30:54-06:00
-modified: 2026-01-19T16:30:54-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 06: Composing with BBCSO/LABS
+# Lecture - Week 06: Arrangement — Study Song Structures
 
 ## Overview
 
-Orchestral and cinematic composition is more accessible than ever thanks to free tools like BBC Symphony Orchestra Discover and Spitfire LABS. This week we explore how to write for these instruments and create compelling arrangements.
+Arrangement is the architecture of a song—how sections flow, when elements enter and exit, and how energy builds and releases. This week, we study arrangement by mapping out professional tracks and understanding the choices that make them work.
 
 ## Topics
 
-### Introduction to Virtual Orchestras
-- What is a sample library?
-- BBCSO Discover overview
-- Spitfire LABS collection
-- Other free orchestral resources
+### The Imitation Approach to Arrangement
+- Why arrangement is often overlooked
+- The difference between a good idea and a good song
+- Learning structure through deconstruction
+- Building an arrangement vocabulary
 
-### Orchestral Fundamentals
-- The four sections (strings, woodwinds, brass, percussion)
-- Register and range considerations
-- Articulations and expression
-- Writing idiomatically for each section
+### Mapping Song Structure
+- Identifying sections (intro, verse, chorus, bridge, outro)
+- Tracking element entrances and exits
+- Energy curves and emotional arcs
+- Transitions and how they work
 
-### Compositional Approaches
-- Starting with piano sketches
-- Building from a melody
-- Building from harmony
-- Layering and orchestration basics
+### Common Arrangement Patterns
+- Pop/electronic structures
+- Hip-hop/R&B patterns
+- Ambient/experimental approaches
+- Genre-specific conventions worth knowing
 
-### Practical Workflow
-- Setting up BBCSO in your DAW
-- Using expression/dynamics (CC1, CC11)
-- Reverb and space considerations
-- Exporting and bouncing
+### Arrangement Techniques to Study
+- The "additive" approach (building up)
+- The "subtractive" approach (taking away)
+- Call and response
+- Tension and release
+- The power of space and silence
+
+### From Analysis to Application
+- Borrowing structures intentionally
+- Adapting arrangements to your style
+- When to follow conventions vs. break them
+- Using arrangement templates
 
 ## In-Class Activities
 
-1. **BBCSO Setup** (15 min)
-   - Verify installation
-   - Load template or create basic setup
-   - Test all sections
+1. **Arrangement Mapping** (25 min)
+   - Listen to a track together
+   - Create a visual map: sections, elements, energy
+   - Identify key arrangement decisions
 
-2. **Melody Harmonization** (25 min)
-   - Given a simple melody, add string accompaniment
-   - Experiment with different voicings
+2. **Structure Borrowing** (25 min)
+   - Choose a reference track's structure
+   - Apply that exact structure to a simple project
+   - Focus on section lengths and element flow
 
-3. **Texture Building** (20 min)
-   - Create an ambient pad using sustained strings
-   - Add subtle movement with dynamics
+3. **Discussion** (10 min)
+   - What did the structure force you to do?
+   - How did constraints help creativity?
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Getting Started BBCSO Discover - Ableton Live 10|Getting Started: BBCSO Discover - Ableton Live]]
-- [[Digital Garden/Knowledge Database/Getting Started BBCSO Discover - Logic Pro|Getting Started: BBCSO Discover - Logic Pro]]
-- [[Digital Garden/Knowledge Database/Getting Started BBCSO Discover - Reaper|Getting Started: BBCSO Discover - Reaper]]
-- [[Digital Garden/Knowledge Database/Getting Started BBCSO Discover - GarageBand|Getting Started: BBCSO Discover - GarageBand]]
-- [[Digital Garden/Knowledge Database/Getting Started BBCSO Discover - Cubase|Getting Started: BBCSO Discover - Cubase]]
-- [[Digital Garden/Knowledge Database/Assignment 16 Bars of Music with BBCSO Discover an|16 Bars with BBCSO Assignment]]
+- [[Assignment-Week-06]]
+- [[Digital Garden/Knowledge Database/Song Structure & Arrangement|Song Structure & Arrangement]]
 
 ## Connection to Wednesday
 
-**Feedback Session:** Present your DAW exploration findings from Week 5. Share shortcuts and features you discovered.
+**Feedback Session:** Present your mix deconstructions from Week 5. Share insights about what you learned from studying professional mixes.
 
 ## Assignment Preview
 
-[[Assignment-Week-06]] - Composition with BBCSO
-- Compose 16-32 bars using BBCSO Discover and/or LABS
-- Focus on dynamics and expression
+[[Assignment-Week-06]] - Arrangement Study
+- Map out the arrangement of 2 reference tracks (visual diagram)
+- Create an 8-16 bar section using a borrowed structure
+- Reflect: What did you learn about arrangement through imitation?
 - Include habit check-in

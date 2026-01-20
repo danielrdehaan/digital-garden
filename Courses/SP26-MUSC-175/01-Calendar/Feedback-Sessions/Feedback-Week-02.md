@@ -9,59 +9,59 @@ status: complete
 tags:
   - feedback
   - week-02
-  - presentation
 created: 2026-01-19T16:34:53-06:00
 modified: 2026-01-19T16:34:53-06:00
 ---
 
 # Feedback Session - Week 02
 
-## Session Focus
+## Purpose
 
-Present your "ugly starts" from Monday's exercise and share early habit experiences. This is our first feedback session—a low-stakes environment to practice presenting work-in-progress.
+- Share work in progress
+- Receive constructive feedback from peers and instructor
+- Learn from peers' approaches
 
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:05 | Setup and announcements |
-| 0:05-1:10 | Student presentations + feedback |
-| 1:10-1:20 | Wrap-up and key takeaways |
+| 0:00-0:05 | Setup & announcements |
+| 0:05-1:10 | Student presentations + feedback (5-7 min per student) |
+| 1:10-1:20 | Wrap-up & takeaways |
 
 ## What to Present
 
-Choose one or both:
+Bring anything you're working on:
 
-1. **Your "Ugly Start"** from Monday's in-class exercise
-   - It's supposed to be rough—that's the point!
-   - Focus on what you learned from starting without perfectionism
-
-2. **Early Habit Work**
-   - Share what you've done with your habits so far
-   - Show baseline documentation
-   - Discuss challenges you're encountering
+- Habit practice evidence
+- Personal projects
+- Experiments and sketches
+- Questions about techniques
+- Works in progress at any stage
 
 ## Presentation Format
 
-- **2-3 minutes** to share
+- **2-3 minutes** to share your work
 - **2-3 minutes** for feedback
-- Focus on: What did you try? What did you learn?
+- Be specific about what feedback you want
 
-## Feedback Prompts
+## Feedback Framework
 
-When giving feedback, consider:
-- What worked about their approach to starting?
-- What's one suggestion for their habit practice?
-- What can you learn from their experience?
+When giving feedback, use this structure:
 
-## Remember
+1. **What's Working** — Start with genuine positives
+2. **Observations** — Describe what you notice (not judgments)
+3. **Suggestions** — Offer specific, actionable ideas
+4. **Questions** — Ask clarifying questions if needed
 
-- This is practice for giving and receiving feedback
+## Guidelines
+
 - Early-stage work is valuable to share
-- Focus on the process, not the polish
+- Focus on the process, not just the polish
+- Take notes on feedback you receive
+- Be supportive and constructive
 
 ## Resources
 
 - [[Feedback-Session-Guide]]
-- [[Digital Garden/Knowledge Database/How-To Feedback Session|How-To: Feedback Session]]
 - [[Digital Garden/Knowledge Database/Giving Feedback|Giving Feedback]]

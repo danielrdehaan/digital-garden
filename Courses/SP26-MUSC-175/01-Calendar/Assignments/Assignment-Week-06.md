@@ -5,89 +5,63 @@ time: 23:59
 location: online
 type: assignment
 week: 6
-status: complete
+status: draft
 tags:
   - assignment
   - week-06
-  - composition
-  - bbcso
-  - orchestral
   - habits
+  - progress-update
 created: 2026-01-19T16:39:17-06:00
-modified: 2026-01-19T16:39:17-06:00
+modified: 2026-01-20T15:24:37-06:00
 ---
 
-# Assignment - Week 06: Composition with BBCSO
+# Assignment - Week 06: Habit Progress Update
 
 **Due:** Sunday, March 8, 2026 @ 11:59 PM
 
 ## Overview
 
-Compose a short piece using BBC Symphony Orchestra Discover and/or Spitfire LABS. Focus on expression, dynamics, and idiomatic writing for virtual instruments.
+Continue documenting your habit practice. This week's lecture covered arrangement through imitation—consider how studying song structures might enhance your habit practice.
 
 ## Deliverables
 
-Submit to Canvas:
+Submit to Canvas Discussion:
 
-### 1. Composition
+### Habit Progress Update
 
-Create a piece that is:
-- **16-32 bars** in length
-- Uses **at least 3 different instrument sections** from BBCSO or LABS
-- Demonstrates **dynamic expression** (CC1/CC11 automation)
-- Has a clear **beginning, middle, and end** (even if brief)
+For **each of your two habits**, provide:
 
-### 2. Project Documentation
+**1. Completion Record**
+- How many times did you complete each habit this week?
+- What days/times did you practice?
 
-**Instrument List:**
-| Instrument | Role in Piece | Articulation(s) Used |
-|------------|---------------|---------------------|
-| | | |
-| | | |
-| | | |
+**2. What I Did**
+- Describe your habit activities in detail
+- What specifically did you work on?
 
-**Expression/Dynamics:**
-- Screenshot showing your CC automation
-- Explain how you used dynamics musically
+**3. What I Learned**
+- Any insights or discoveries?
+- What surprised you?
 
-**Compositional Notes:** (150-200 words)
-- What was your starting point (melody, harmony, mood)?
-- What challenges did you encounter writing for these instruments?
-- What would you do differently with more time?
+**4. Challenges**
+- What made it difficult?
+- How did you (or will you) address these challenges?
 
-### 3. Audio Export
+**5. Evidence**
+- Screenshots, audio clips, or descriptions of your work
 
-Export your composition as:
-- WAV or AIFF, 44.1kHz/24-bit
-- Include appropriate reverb for the orchestral sound
-- Name: `LASTNAME_Week06_BBCSO.wav`
+### Optional Bonus
 
-### 4. Habit Check-In
-
-Continue your weekly habit documentation:
-- Completion record
-- Reflection on progress
-- Evidence of practice
+If relevant to your habits, share how you applied this week's lecture topic (arrangement through imitation) to your practice.
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
-| **Composition** | Musical, expressive, well-structured | Good musical ideas, minor issues | Basic composition | Unmusical or incomplete |
-| **Instrument Use** | Idiomatic, expressive, good orchestration | Good use with some issues | Basic instrument use | Poor instrument choices |
-| **Expression** | Dynamic, alive, musical automation | Good dynamics | Some dynamics | Flat, no expression |
-| **Habit Check-In** | Complete and insightful | Adequate | Basic | Missing or minimal |
-
-## Tips
-
-- Start simple—a single melody with accompaniment works well
-- Use dynamics to create interest and movement
-- Listen to orchestral music for inspiration
-- Reverb is essential for orchestral realism
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
+| **Completion** | Completed most/all planned sessions | Completed majority | Completed some | Few or none |
+| **Reflection** | Thoughtful insights, honest about challenges | Good reflection | Basic reflection | Minimal |
+| **Evidence** | Clear documentation of progress | Adequate evidence | Some evidence | Little/none |
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Getting Started BBCSO Discover - Ableton Live 10|BBCSO: Ableton]]
-- [[Digital Garden/Knowledge Database/Getting Started BBCSO Discover - Logic Pro|BBCSO: Logic Pro]]
-- [[Digital Garden/Knowledge Database/Getting Started BBCSO Discover - Reaper|BBCSO: Reaper]]
-- [[Digital Garden/Knowledge Database/Assignment 16 Bars of Music with BBCSO Discover an|16 Bars with BBCSO]]
+- [[Habits-Framework]]

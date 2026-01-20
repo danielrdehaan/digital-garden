@@ -5,84 +5,98 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 8
-topic: Synthesis Deep Dive
-status: complete
+topic: "Workflow: How the Pros Organize"
+status: draft
 tags:
   - lecture
   - week-08
-  - synthesis
-  - sound-design
-  - modulation
+  - workflow
+  - organization
+  - imitation
 created: 2026-01-19T16:30:54-06:00
-modified: 2026-01-19T16:30:54-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 08: Synthesis Deep Dive
+# Lecture - Week 08: Workflow — How the Pros Organize
 
 ## Overview
 
-Building on last week's foundations, we explore advanced synthesis techniques—modulation, wavetables, effects processing, and strategies for creating specific types of sounds.
+Behind every great producer is a refined workflow—templates, organizational systems, and habits that make the creative process smooth. This week, we study how professional producers organize their work, then build systems that work for us.
 
 ## Topics
 
-### Advanced Modulation
-- Modulation matrix deep dive
-- LFO shapes and sync
-- Envelope followers
-- Velocity and aftertouch mapping
-- Macro controls
+### The Imitation Approach to Workflow
+- Why workflow matters as much as skill
+- Learning from those who've solved these problems
+- Efficiency as a creative advantage
+- The compounding benefits of good organization
 
-### Wavetable Synthesis
-- What are wavetables?
-- Vital's wavetable capabilities
-- Creating/importing custom wavetables
-- Morphing between wavetables
+### Studying Pro Workflows
+- What we can learn from studio tours and walkthroughs
+- Common patterns among successful producers
+- DAW-agnostic principles
+- Balancing structure with creative flexibility
 
-### Sound Design Strategies
-- **Bass sounds:** Sub, mid, growl
-- **Lead sounds:** Plucks, pads, arps
-- **Texture/atmosphere:** Evolving, ambient
-- **Drums/percussion:** Kicks, snares, hats from synthesis
+### Templates and Starting Points
+- Why templates accelerate creativity
+- What to include in a production template
+- Session organization strategies
+- Color coding and labeling conventions
 
-### Effects and Processing
-- Vital's built-in effects
-- Effect order considerations
-- Creative effect use
-- Resampling techniques
+### File and Project Management
+- Folder structures that scale
+- Naming conventions that work
+- Version control basics
+- Sample library organization
+
+### Keyboard Shortcuts and Efficiency
+- The shortcuts that matter most
+- Building muscle memory
+- Custom key commands
+- Macro/automation tools
+
+### Backup and Archive
+- The 3-2-1 backup rule
+- Project archival strategies
+- What to keep, what to delete
+- Long-term storage considerations
 
 ## In-Class Activities
 
-1. **Modulation Mapping** (20 min)
-   - Create a patch where multiple parameters modulate
-   - Use at least 3 modulation sources
+1. **Workflow Analysis** (20 min)
+   - Watch a pro producer walkthrough video
+   - Identify organizational patterns
+   - Note techniques worth adopting
 
-2. **Sound Recreation** (25 min)
-   - Listen to a reference sound
-   - Attempt to recreate it from scratch
-   - Compare and discuss approaches
+2. **Template Building** (25 min)
+   - Create or refine your production template
+   - Implement at least 3 ideas from the analysis
+   - Focus on reducing friction
 
-3. **Wavetable Exploration** (15 min)
-   - Browse Vital's wavetable library
-   - Create variations using wavetable position modulation
+3. **Shortcut Challenge** (15 min)
+   - Learn 5 new shortcuts for your DAW
+   - Practice until they're automatic
+   - Share useful shortcuts with the class
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Intro to Synthesis|Introduction to Synthesis]]
-- [[Digital Garden/Knowledge Database/Vital Synthesis Tutorials|Vital Synthesis Tutorials]]
-- [[Digital Garden/Knowledge Database/Assignment Make Something with Vital|Make Something with Vital Assignment]]
+- [[Digital Garden/Knowledge Database/Staying Organized, Maximizing Productivity, and St|Staying Organized & Maximizing Productivity]]
+- [[Digital Garden/Knowledge Database/Good Digital Hygiene|Good Digital Hygiene]]
+- [[Assignment-Week-08]]
 
 ## Connection to Wednesday
 
-**Feedback Session:** Present your Vital patches from Week 7. Walk through your signal flow and receive feedback on your sound design approach.
+**Feedback Session:** Present your genre study projects from Week 7. Discuss what you learned about production conventions in unfamiliar genres.
 
 ## Assignment Preview
 
-[[Assignment-Week-08]] - Sound Design Portfolio
-- Create a mini sound design portfolio with 5+ original sounds
-- Include at least one bass, one lead, and one pad/texture
-- Document techniques used
+[[Assignment-Week-08]] - Workflow Documentation
+- Document your current workflow (honestly)
+- Identify 3 inefficiencies or pain points
+- Implement solutions inspired by pro workflows
+- Create or update your production template
 - Include habit check-in
 
 ---
 
-**Note:** Spring Break follows this week. No class March 23-27.
+**Note:** Spring Break follows this week (March 23-27). No class, but continue your habit practice!

@@ -13,7 +13,7 @@ tags:
   - habits
   - introduction
 created: 2026-01-19T16:30:52-06:00
-modified: 2026-01-19T16:30:52-06:00
+modified: 2026-01-20T14:37:00-06:00
 ---
 
 # Lecture - Week 01: Introduction & Habits Framework
@@ -63,9 +63,9 @@ Welcome to Applied Music II! This week we establish the foundation for the semes
 ## Resources
 
 - [[Habits-Framework]]
-- [[Digital Garden/Knowledge Database/Assignment - Design Two Weekly Habits|Design Two Weekly Habits Assignment]]
-- [[Digital Garden/Knowledge Database/Life management systems & strategies|Life Management Systems]]
-- [[Digital Garden/Knowledge Database/Good Digital Hygiene|Good Digital Hygiene]]
+- [[Assignment - Design Two Weekly Habits]]
+- [[Life management systems & strategies]]
+- [[Good Digital Hygiene]]
 
 ## Connection to Wednesday
 

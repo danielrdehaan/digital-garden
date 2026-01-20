@@ -6,7 +6,7 @@ location: in-person
 type: lecture
 week: 15
 topic: Final Presentations
-status: complete
+status: draft
 tags:
   - lecture
   - week-15
@@ -14,14 +14,14 @@ tags:
   - presentations
   - conclusion
 created: 2026-01-19T16:30:56-06:00
-modified: 2026-01-19T16:30:56-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
 # Lecture - Week 15: Final Presentations
 
 ## Overview
 
-This is it—the culmination of your semester's work. Today and Wednesday, you'll present your Evidence Portfolios to the class, sharing your growth journey and demonstrating the skills you've developed through consistent habit practice.
+This is the culmination of your semester's work. Today and Wednesday, you'll present your Evidence Portfolios to the class—sharing your growth journey and demonstrating the skills you've developed through consistent habit practice and learning through imitation.
 
 ## Presentation Schedule
 
@@ -40,16 +40,17 @@ Each student will have:
 
 2. **The Journey** (2-3 min)
    - Where you started (baseline evidence)
-   - Key moments along the way
-   - Challenges you faced
+   - Key moments and milestones
+   - Challenges you faced and how you addressed them
 
 3. **Demonstration** (2-3 min)
-   - Show your growth with before/after evidence
+   - Before/after evidence showing growth
    - Demonstrate current skill level
    - Play audio examples if relevant
 
 4. **Reflection** (1 min)
-   - What you learned about learning
+   - What you learned about learning through imitation
+   - How habits and systems supported your growth
    - How you'll continue after this course
 
 5. **Q&A** (2-3 min)
@@ -57,7 +58,7 @@ Each student will have:
 
 ## Guidelines for Presenters
 
-- **Be prepared:** Have all materials ready and tested
+- **Be prepared:** Have all materials ready and tested before your slot
 - **Practice:** Run through your presentation at least twice
 - **Be authentic:** Share your real experience, including struggles
 - **Manage time:** Respect the time limits
@@ -66,7 +67,7 @@ Each student will have:
 ## Guidelines for Audience
 
 - **Be present:** Give full attention to each presenter
-- **Be supportive:** Applause and positive energy
+- **Be supportive:** This takes courage—show appreciation
 - **Ask questions:** Thoughtful questions help everyone learn
 - **Take notes:** You might learn something useful for yourself
 
@@ -74,14 +75,15 @@ Each student will have:
 
 ### Course Wrap-Up Discussion
 - Semester highlights
-- Key takeaways
+- Key takeaways from the imitation framework
+- What will you continue doing?
 - Resources for continued learning
-- Staying connected
 
-### Final Reminders
+## Final Reminders
+
 - **Final Project Submission:** Friday, May 16 @ 11:59 PM
-- **Course Evaluations Close:** Sunday, May 11
-- Submit portfolio even if you presented—the submission is separately graded
+- **Course Evaluations Close:** Sunday, May 10 (today!)
+- Submit your portfolio even if you presented—the submission is separately graded
 
 ## What's Next?
 
@@ -90,15 +92,16 @@ Your habits don't end with this course. Consider:
 - Continuing your two habits over the summer
 - Adjusting habits based on what you've learned
 - Adding new habits as you master current ones
+- Applying the imitation framework to new skills
 - Sharing what you've learned with others
 
 ## Thank You
 
-It has been a privilege to spend this semester with you. Your growth has been inspiring to witness. Keep building those habits, keep creating, and keep pushing forward.
+It has been a privilege to spend this semester with you. Your growth has been inspiring to witness. Keep building those habits, keep learning through imitation, keep creating, and keep pushing forward.
 
 ---
 
-> "The secret of getting ahead is getting started." — Mark Twain
+> "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Will Durant (summarizing Aristotle)
 
 ---
 
@@ -107,9 +110,9 @@ It has been a privilege to spend this semester with you. Your growth has been in
 Before Friday, May 16 @ 11:59 PM, ensure you have:
 
 - [ ] Written reflection (500-750 words)
-- [ ] Before/After evidence for Habit 1
-- [ ] Before/After evidence for Habit 2
-- [ ] Process documentation
+- [ ] Before/after evidence for Habit 1
+- [ ] Before/after evidence for Habit 2
+- [ ] Process documentation from throughout the semester
 - [ ] Final demonstration video or materials
 - [ ] All files organized and clearly named
-- [ ] Submitted to Canvas as ZIP or shared folder
+- [ ] Submitted to Canvas

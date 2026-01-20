@@ -63,8 +63,8 @@ Show how you'll track your habits:
 
 ## Rubric
 
-| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
-|----------|---------------------|---------------|-------------------|-------------------|
+| Criteria | Excellent (4) | Good (3) | Adequate (2) | Needs Work (1) |
+|----------|---------------|----------|--------------|----------------|
 | **Habit Design** | Specific, measurable habits with clear timing; thoughtful rationale | Clear habits with good rationale | Habits are somewhat vague; basic rationale | Vague or missing habit statements |
 | **Baseline Documentation** | Clear, honest documentation of current skill level | Adequate baseline shown | Minimal baseline documentation | Missing or unclear baseline |
 | **Planning** | Detailed tracker setup; obstacles identified with solutions | Good planning shown | Basic planning | Little evidence of planning |

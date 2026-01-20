@@ -6,7 +6,6 @@ tags:
   - feedback
   - wednesday
   - session-guide
-  - presentation
 created: 2026-01-19T16:13:37-06:00
 modified: 2026-01-19T16:13:37-06:00
 ---
@@ -15,70 +14,50 @@ modified: 2026-01-19T16:13:37-06:00
 
 ## Overview
 
-Feedback Sessions occur on **Wednesday of even weeks** (2, 4, 6, 8, 10, 12, 14). These sessions focus on presenting your work, receiving constructive feedback, and learning from your peers' projects.
+Feedback Sessions occur on **Wednesday of even weeks** (2, 4, 6, 8, 10, 12, 14, 15). These sessions provide opportunities to share your work, receive constructive feedback, and learn from your peers.
 
 ## Purpose
 
-1. **Practice presenting** your creative work professionally
-2. **Receive constructive feedback** to improve your projects
-3. **Give thoughtful feedback** to support your peers
-4. **Learn from others'** approaches, techniques, and solutions
+- Share work in progress
+- Receive constructive feedback from peers and instructor
+- Learn from peers' approaches
 
-## Session Structure
+## Session Format (80 minutes)
+
+Every Feedback Session follows the same structure:
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:05 | Setup and announcements |
-| 0:05-1:10 | Student presentations + feedback (5-7 min each) |
-| 1:10-1:20 | Wrap-up and key takeaways |
+| 0:00-0:05 | Setup & announcements |
+| 0:05-1:10 | Student presentations + feedback (5-7 min per student) |
+| 1:10-1:20 | Wrap-up & takeaways |
 
-*Timing adjusts based on class size.*
+## What to Present
 
----
+Bring anything you're working on:
 
-## Presenting Your Work
+- Habit practice evidence
+- Personal projects
+- Experiments and sketches
+- Questions about techniques
+- Works in progress at any stage
 
-### What to Present
+## Presentation Format
 
-- Current work-in-progress from the week's assignment
-- Recent habit practice results
-- Projects that connect to lecture topics
-- Anything you want feedback on
-
-### Presentation Format
-
-1. **Context (30 seconds):** What are we listening to? What stage is it in?
-2. **Playback (1-2 minutes):** Let the work speak for itself
-3. **Specific questions (30 seconds):** What feedback do you want?
-4. **Feedback (2-3 minutes):** Receive input from peers and instructor
-
-### Tips for Good Presentations
-
-- **Be specific about what you want.** "Does the bass sit well in the mix?" is better than "What do you think?"
-- **Provide context.** Reference track? Target genre? Intent?
-- **Don't apologize excessively.** We're all learning.
-- **Take notes.** You won't remember everything said.
-- **Listen openly.** Feedback is a gift, even when it's hard to hear.
-
-### Technical Setup
-
-- Have your project ready to play before your turn
-- Test audio levels before presenting
-- Have relevant sections cued up
-- Prepare any visual aids (arrangement view, plugin chains)
+- **2-3 minutes** to share your work
+- **2-3 minutes** for feedback
+- Be specific about what feedback you want
 
 ---
 
-## Giving Feedback
+## The Feedback Framework
 
-### The Feedback Framework
+When giving feedback, use this structure:
 
-Use this structure for constructive feedback:
-
-1. **What's Working:** Start with genuine positives
-2. **Observations:** Describe what you hear (not judgments)
-3. **Suggestions:** Offer specific, actionable ideas
-4. **Questions:** Ask clarifying questions if needed
+1. **What's Working** — Start with genuine positives
+2. **Observations** — Describe what you notice (not judgments)
+3. **Suggestions** — Offer specific, actionable ideas
+4. **Questions** — Ask clarifying questions if needed
 
 ### Good Feedback Examples
 
@@ -94,14 +73,6 @@ Use this structure for constructive feedback:
 - **Vague praise:** "It's good" (instead: "The sound design on the lead synth is really unique")
 - **Harsh criticism:** "The drums are terrible" (instead: "The drums might benefit from more velocity variation")
 - **Off-topic suggestions:** Suggesting complete stylistic changes when not asked
-- **Talking too much:** Be concise—others need time too
-
-### The "Yes, And" Approach
-
-When giving feedback, try to build on what's there rather than tear down:
-
-- "Yes, the melody is strong, and it might hit even harder if the bass came in at the second phrase."
-- "I like the texture you've created, and I wonder what it would sound like with some subtle sidechain compression."
 
 ---
 
@@ -120,47 +91,20 @@ When giving feedback, try to build on what's there rather than tear down:
 1. Review your notes while they're fresh
 2. Identify 2-3 actionable items
 3. Try the suggestions that resonate with you
-4. Bring the updated version to a future session if relevant
 
 ---
 
 ## Participation Requirements
 
 ### As a Presenter
-- Present at least once every 2-3 feedback sessions
+- Present regularly throughout the semester
 - Come prepared with something to share
 - Be receptive to feedback
 
 ### As an Audience Member
-- Give feedback to at least 2 presenters per session
+- Give feedback to multiple presenters per session
 - Use the feedback framework
 - Be engaged and respectful
-
-### Grading Connection
-
-Your participation in feedback sessions contributes to your Class Preparedness/Attendance grade (40%). This includes:
-
-- Quality of presentations
-- Thoughtfulness of feedback given
-- Engagement during others' presentations
-
----
-
-## Room Setup
-
-During feedback sessions:
-
-- Main monitor/speakers used for presentations
-- Presenter connects to house system
-- Audience takes notes
-- Instructor facilitates and provides additional feedback
-
----
-
-## Resources
-
-- [[Digital Garden/Knowledge Database/How-To Feedback Session|How-To: Feedback Session]]
-- [[Digital Garden/Knowledge Database/Giving Feedback|Giving Feedback]]
 
 ---
 
@@ -175,8 +119,11 @@ Yes! Showing iteration based on previous feedback is valuable.
 **What if I disagree with feedback I receive?**
 That's okay. Not all feedback will fit your vision. Listen respectfully, consider it, and then decide what serves your work.
 
-**Can I pass on presenting this week?**
-Occasionally, but you should present regularly. If you're consistently not presenting, let's talk about what's holding you back.
+---
+
+## Resources
+
+- [[Digital Garden/Knowledge Database/Giving Feedback|Giving Feedback]]
 
 ---
 

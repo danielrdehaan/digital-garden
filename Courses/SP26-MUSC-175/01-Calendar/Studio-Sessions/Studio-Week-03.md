@@ -10,68 +10,68 @@ status: complete
 tags:
   - studio
   - week-03
-  - group
-  - mixing
 created: 2026-01-19T16:33:21-06:00
 modified: 2026-01-19T16:33:21-06:00
 ---
 
 # Studio Session - Week 03 (Group)
 
-## Session Type: Group Studio
+## Purpose
 
-Collaborative work session focused on mixing practice.
+- Collaborate with peers on creative work
+- Practice group dynamics and communication
+- Learn from different perspectives and approaches
 
-## Session Focus
-
-Work in teams to mix a provided multitrack session. Each team member contributes different skills; combine your efforts for a group mix.
-
-## Group Formation
-
-- Teams of 3-4 students
-- Mixed experience levels encouraged
-- Self-select or instructor-assigned
-
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:10 | Form groups, review activity, load session |
-| 0:10-0:50 | Collaborative mixing work |
-| 0:50-1:10 | Group presentations and comparisons |
-| 1:10-1:20 | Debrief and key takeaways |
+| 0:00-0:10 | Setup & form groups |
+| 0:10-0:55 | Collaborative work time |
+| 0:55-1:10 | Group share-out |
+| 1:10-1:20 | Debrief & takeaways |
 
-## Today's Activity: Team Mix Challenge
+## Skills to Practice
 
-1. **Load the provided multitrack session** (instructor will share)
-2. **Assign roles within your group:**
-   - Drums/Bass person
-   - Melodic elements person
-   - Effects/Space person
-   - Driver (controls the DAW)
-3. **Create a rough mix together** focusing on:
-   - Volume balance
-   - Panning decisions
-   - Basic EQ and compression
-4. **Present your mix** to the class
-   - Explain your approach
-   - Discuss what worked and what was challenging
+- Group dynamics and communication
+- Adopting roles (driver, navigator, researcher, documenter)
+- Giving and receiving creative input
+- Collaborative decision-making
+- Learning from peers
 
-## Collaboration Guidelines
+## Guidelines
 
-- Rotate who's controlling the DAW
-- Everyone contributes ideas
-- Document decisions as you make them
-- Be open to different approaches
+- **Rotate roles** throughout the session
+- **Ensure all voices are heard**—share speaking time
+- **Be open** to different approaches
+- **Document decisions together**—keep a shared record
 
-## Discussion Questions
+## Group Roles
 
-- How did collaborative decisions differ from working alone?
-- What did you learn from your teammates?
-- How did you resolve creative disagreements?
+Consider rotating through these roles:
+
+- **Driver**: Hands on the controls, implementing ideas
+- **Navigator**: Directing the creative direction
+- **Researcher**: Looking up techniques or solutions
+- **Documenter**: Recording decisions and progress
+
+## What to Work On
+
+- Practice your weekly habits together
+- Explore tools and techniques as a group
+- Work on shared projects or help with individual projects
+- Experiment with collaborative workflows
+
+## Documentation
+
+At the end of each session, note:
+
+1. What you worked on as a group
+2. What you accomplished together
+3. What challenges you encountered
+4. What you learned from your peers
 
 ## Resources
 
 - [[Studio-Session-Guide]]
-- [[Digital Garden/Knowledge Database/Audio Mixing The Basic Concepts & Workflows|Audio Mixing Basics]]
-- [[Digital Garden/Knowledge Database/Giving Feedback|Giving Feedback]]
+- [[Habits-Framework]]

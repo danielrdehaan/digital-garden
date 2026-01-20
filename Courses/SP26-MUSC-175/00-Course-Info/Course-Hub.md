@@ -6,7 +6,7 @@ tags:
   - hub
   - navigation
 created: 2026-01-19T16:40:06-06:00
-modified: 2026-01-19T20:11:17-06:00
+modified: 2026-01-20T14:28:12-06:00
 ---
 
 # MUSC 175 - Course Hub
@@ -21,12 +21,11 @@ modified: 2026-01-19T20:11:17-06:00
 ## Quick Links
 
 ### Course Documents
-- [[Digital Garden/Courses/SP26-MUSC-175/00-Course-Info/Syllabus]]
+- [[Digital Garden/Courses/SP26-MUSC-175/00-Course-Info/Syllabus|Syllabus]]
 - [[Habits-Framework|Habits Framework]]
 - [[Final-Project-Guide|Final Project Guide]]
 - [[Studio-Session-Guide|Studio Session Guide]]
 - [[Feedback-Session-Guide|Feedback Session Guide]]
-- [[Student-Roster|Student Roster]]
 
 ### External Resources
 - [Canvas LMS](https://colum.instructure.com)

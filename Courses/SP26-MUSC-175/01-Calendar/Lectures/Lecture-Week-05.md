@@ -5,80 +5,87 @@ time: 14:00-15:20
 location: in-person
 type: lecture
 week: 5
-topic: DAW Features & Functions
-status: complete
+topic: "Mixing: Deconstruct a Pro Mix"
+status: draft
 tags:
   - lecture
   - week-05
-  - daw
-  - workflow
+  - mixing
+  - analysis
+  - imitation
 created: 2026-01-19T16:30:53-06:00
-modified: 2026-01-19T16:30:53-06:00
+modified: 2026-01-20T15:00:00-06:00
 ---
 
-# Lecture - Week 05: DAW Features & Functions
+# Lecture - Week 05: Mixing — Deconstruct a Pro Mix
 
 ## Overview
 
-Your DAW is your primary creative tool—mastering it accelerates everything you do. This week we explore features you might not know exist and workflows that save time.
+Great mixes don't happen by accident. This week, we learn mixing by deconstructing professional mixes—identifying the choices engineers made and understanding why they work. Then we'll apply those insights to our own work.
 
 ## Topics
 
-### Know Your DAW
-- Deep features most people miss
-- Keyboard shortcuts that matter
-- Templates and defaults
-- Project organization
+### The Imitation Approach to Mixing
+- Why reference tracks are essential
+- Active listening vs. passive listening
+- Training your ears through comparison
+- Building a mental library of "what good sounds like"
 
-### Essential Workflows
-- Recording Audio and MIDI efficiently
-- Quantization and groove
-- Comping and takes
-- Time-stretching and pitch-shifting
+### Deconstructing a Mix
+- **Balance:** What's loud? What's quiet? Why?
+- **Panning:** How is the stereo field used?
+- **Frequency:** Where does each element sit?
+- **Depth:** What's upfront? What's distant?
+- **Dynamics:** What moves? What stays steady?
 
-### Automation & Modulation
-- Track automation basics
-- Clip/region automation
-- LFOs and modulation sources
-- Creative automation techniques
+### Reference Track Methodology
+- Choosing appropriate references
+- Level-matching for honest comparison
+- A/B switching techniques
+- What to listen for at each stage
 
-### DAW-Specific Resources
-- Logic Pro users
-- Ableton Live users
-- FL Studio users
-- Reaper users
-- GarageBand/other users
+### Mixing Principles Through Examples
+- How pros handle low end
+- Vocal treatment patterns
+- Drum processing approaches
+- The role of effects in creating space
+
+### Applying What You Hear
+- Translating analysis into action
+- "My mix should feel like X because..."
+- Knowing when to break the rules
+- The iterative comparison process
 
 ## In-Class Activities
 
-1. **Shortcut Challenge** (15 min)
-   - Learn 5 new shortcuts for your DAW
-   - Practice until they're automatic
+1. **Mix Deconstruction** (25 min)
+   - Listen to a professional mix together
+   - Map out: balance, panning, frequency, depth
+   - Discuss the engineer's likely choices
 
-2. **Workflow Optimization** (25 min)
-   - Identify 3 repetitive tasks you do
-   - Find faster ways to accomplish them
-   - Document your discoveries
+2. **Reference Matching** (25 min)
+   - Open one of your projects
+   - Import a reference track (level-matched)
+   - Identify three differences and attempt to close the gap
 
-3. **Template Building** (20 min)
-   - Create or refine a production template
-   - Include routing, default plugins, and organization
+3. **Ear Training** (10 min)
+   - Quick frequency identification exercise
+   - Practice hearing EQ moves
 
 ## Resources
 
-- [[Digital Garden/Knowledge Database/Learn your DAW + Expand Your Sound Pallete|Learn Your DAW + Expand Your Sound Palette]]
-- [[Digital Garden/Knowledge Database/Recording and Editing Audio & MIDI|Recording and Editing Audio & MIDI]]
-- [[Digital Garden/Knowledge Database/FL Studio Resources|FL Studio Resources]] (FL users)
-- [[Digital Garden/Knowledge Database/Ableton Live Quantizing Audio|Ableton: Quantizing Audio]] (Ableton users)
-- [[Digital Garden/Knowledge Database/Logic Pro Quantizing Audio|Logic Pro: Quantizing Audio]] (Logic users)
+- [[Digital Garden/Knowledge Database/Audio Mixing The Basic Concepts & Workflows|Audio Mixing: Basic Concepts & Workflows]]
+- [[Digital Garden/Knowledge Database/Audio Effects - Explained|Audio Effects Explained]]
+- [[Assignment-Week-05]]
 
 ## Connection to Wednesday
 
-**Studio Session (Solo):** Deep-dive into your DAW. Spend the session exploring features you've never used. Document what you discover.
+**Studio Session (Group):** Mix deconstruction workshop. In small groups, analyze assigned reference tracks and present your findings.
 
 ## Assignment Preview
 
-[[Assignment-Week-05]] - DAW Exploration
-- Learn and document 10 new features/shortcuts in your DAW
-- Create or update a production template
+[[Assignment-Week-05]] - Reference Mix Analysis
+- Choose a professional mix in your genre
+- Write a detailed deconstruction (balance, panning, frequency, depth, dynamics)
+- Apply 3 insights to one of your own mixes
 - Include habit check-in

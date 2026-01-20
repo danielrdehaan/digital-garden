@@ -9,66 +9,59 @@ status: complete
 tags:
   - feedback
   - week-04
-  - mixing
-  - presentation
 created: 2026-01-19T16:34:53-06:00
 modified: 2026-01-19T16:34:53-06:00
 ---
 
 # Feedback Session - Week 04
 
-## Session Focus
+## Purpose
 
-Present your mixing work from Week 3. Get specific feedback on your EQ, compression, and balance choices.
+- Share work in progress
+- Receive constructive feedback from peers and instructor
+- Learn from peers' approaches
 
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:05 | Setup and announcements |
-| 0:05-1:10 | Student presentations + feedback |
-| 1:10-1:20 | Wrap-up and common themes |
+| 0:00-0:05 | Setup & announcements |
+| 0:05-1:10 | Student presentations + feedback (5-7 min per student) |
+| 1:10-1:20 | Wrap-up & takeaways |
 
 ## What to Present
 
-Bring your **mixing project** from Week 3 assignment:
+Bring anything you're working on:
 
-- Play your mix (30-60 seconds of a key section)
-- Show your plugin chains (EQ, compression)
-- Explain your decision-making process
-
-## Specific Feedback Questions
-
-Prepare to ask for feedback on specific aspects:
-
-- "How does the low end sit?"
-- "Is the vocal balanced correctly?"
-- "Does the compression sound natural?"
-- "What frequency areas need attention?"
+- Habit practice evidence
+- Personal projects
+- Experiments and sketches
+- Questions about techniques
+- Works in progress at any stage
 
 ## Presentation Format
 
-- **3-4 minutes** to present
+- **2-3 minutes** to share your work
 - **2-3 minutes** for feedback
-- Use the main monitors for accurate playback
+- Be specific about what feedback you want
 
-## Feedback Guidelines
+## Feedback Framework
 
-When giving feedback on mixes:
+When giving feedback, use this structure:
 
-- Listen before speaking
-- Be specific about frequencies/elements
-- Use observations before judgments
-- Offer actionable suggestions
+1. **What's Working** — Start with genuine positives
+2. **Observations** — Describe what you notice (not judgments)
+3. **Suggestions** — Offer specific, actionable ideas
+4. **Questions** — Ask clarifying questions if needed
 
-### Example Feedback
+## Guidelines
 
-**Good:** "The kick seems to be fighting with the bass around 80Hz. You might try sidechaining or carving some space with EQ."
-
-**Less helpful:** "The low end is muddy."
+- Early-stage work is valuable to share
+- Focus on the process, not just the polish
+- Take notes on feedback you receive
+- Be supportive and constructive
 
 ## Resources
 
 - [[Feedback-Session-Guide]]
-- [[Digital Garden/Knowledge Database/Audio Mixing The Basic Concepts & Workflows|Audio Mixing Basics]]
 - [[Digital Garden/Knowledge Database/Giving Feedback|Giving Feedback]]

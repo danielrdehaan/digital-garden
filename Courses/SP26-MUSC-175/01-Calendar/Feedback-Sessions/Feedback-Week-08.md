@@ -9,67 +9,59 @@ status: complete
 tags:
   - feedback
   - week-08
-  - synthesis
-  - sound-design
-  - presentation
 created: 2026-01-19T16:34:54-06:00
 modified: 2026-01-19T16:34:54-06:00
 ---
 
 # Feedback Session - Week 08
 
-## Session Focus
+## Purpose
 
-Present your Vital patches from Week 7. Walk through your signal flow and receive feedback on your sound design approach.
+- Share work in progress
+- Receive constructive feedback from peers and instructor
+- Learn from peers' approaches
 
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:05 | Setup and announcements |
-| 0:05-1:10 | Student presentations + feedback |
-| 1:10-1:20 | Wrap-up + Spring Break reminders |
+| 0:00-0:05 | Setup & announcements |
+| 0:05-1:10 | Student presentations + feedback (5-7 min per student) |
+| 1:10-1:20 | Wrap-up & takeaways |
 
 ## What to Present
 
-Share your **Vital sound designs** from Week 7:
+Bring anything you're working on:
 
-- Play 1-2 of your original patches
-- Walk through the signal flow (oscillator → filter → amp → effects)
-- Explain your modulation routing
-- Discuss what you were trying to achieve
+- Habit practice evidence
+- Personal projects
+- Experiments and sketches
+- Questions about techniques
+- Works in progress at any stage
 
 ## Presentation Format
 
-- **4-5 minutes** to present (sounds take time to explain!)
+- **2-3 minutes** to share your work
 - **2-3 minutes** for feedback
-- Have Vital open to show the patch visually
+- Be specific about what feedback you want
 
-## Feedback Focus Areas
+## Feedback Framework
 
-When giving feedback on sound design:
+When giving feedback, use this structure:
 
-- Does the sound achieve its intended purpose?
-- How could the modulation be enhanced?
-- What frequencies could use attention?
-- How might this sound fit in a mix?
+1. **What's Working** — Start with genuine positives
+2. **Observations** — Describe what you notice (not judgments)
+3. **Suggestions** — Offer specific, actionable ideas
+4. **Questions** — Ask clarifying questions if needed
 
-## Sound Design Discussion Questions
+## Guidelines
 
-- What was your starting point?
-- What unexpected sounds did you discover?
-- How did you approach the modulation?
-- What would you do differently next time?
-
-## Pre-Spring Break Reminder
-
-- No class March 23-27
-- Week 8 assignment due as scheduled (Sunday, Mar 15)
-- Use the break to continue habit practice!
+- Early-stage work is valuable to share
+- Focus on the process, not just the polish
+- Take notes on feedback you receive
+- Be supportive and constructive
 
 ## Resources
 
 - [[Feedback-Session-Guide]]
-- [[Digital Garden/Knowledge Database/Intro to Synthesis|Intro to Synthesis]]
-- [[Digital Garden/Knowledge Database/Vital Synthesis Tutorials|Vital Tutorials]]
 - [[Digital Garden/Knowledge Database/Giving Feedback|Giving Feedback]]

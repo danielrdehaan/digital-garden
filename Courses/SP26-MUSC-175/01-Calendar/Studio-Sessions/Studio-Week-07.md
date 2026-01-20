@@ -10,80 +10,68 @@ status: complete
 tags:
   - studio
   - week-07
-  - group
-  - synthesis
-  - vital
 created: 2026-01-19T16:33:22-06:00
 modified: 2026-01-19T16:33:22-06:00
 ---
 
 # Studio Session - Week 07 (Group)
 
-## Session Type: Group Studio
+## Purpose
 
-Collaborative sound design challenge using Vital synthesizer.
+- Collaborate with peers on creative work
+- Practice group dynamics and communication
+- Learn from different perspectives and approaches
 
-## Session Focus
-
-Work in teams to tackle a sound design challenge. Each group will create specific types of sounds and share their approaches with the class.
-
-## Group Formation
-
-- Teams of 3-4 students
-- Mixed experience with synthesis encouraged
-- Assigned by instructor based on experience levels
-
-## Session Structure
+## Session Format (80 minutes)
 
 | Time | Activity |
 |------|----------|
-| 0:00-0:10 | Form groups, receive challenge assignment |
-| 0:10-0:50 | Group sound design work |
-| 0:50-1:10 | Presentations and comparisons |
-| 1:10-1:20 | Debrief and techniques review |
+| 0:00-0:10 | Setup & form groups |
+| 0:10-0:55 | Collaborative work time |
+| 0:55-1:10 | Group share-out |
+| 1:10-1:20 | Debrief & takeaways |
 
-## Today's Activity: Sound Design Challenge
+## Skills to Practice
 
-Each group will be assigned a sound design target. Create the sound **from scratch** using Vital (no presets!).
+- Group dynamics and communication
+- Adopting roles (driver, navigator, researcher, documenter)
+- Giving and receiving creative input
+- Collaborative decision-making
+- Learning from peers
 
-### Possible Challenges (assigned by instructor)
+## Guidelines
 
-1. **Punchy Bass:** Deep sub with character in the mids
-2. **Evolving Pad:** Slowly morphing texture, 8+ seconds
-3. **Plucky Lead:** Bright, percussive melodic sound
-4. **Aggressive Lead:** Distorted, in-your-face synth lead
-5. **Atmospheric Texture:** Dark, ambient soundscape
-6. **Rhythmic Sequence:** Movement through modulation
+- **Rotate roles** throughout the session
+- **Ensure all voices are heard**—share speaking time
+- **Be open** to different approaches
+- **Document decisions together**—keep a shared record
 
-### Group Roles
+## Group Roles
 
-| Role | Responsibility |
-|------|----------------|
-| **Sound Architect** | Main patch designer |
-| **Modulation Specialist** | Handles LFOs, envelopes |
-| **Effects Engineer** | Manages Vital's effects |
-| **Documenter** | Screenshots, notes, explains to class |
+Consider rotating through these roles:
 
-Rotate roles throughout the session.
+- **Driver**: Hands on the controls, implementing ideas
+- **Navigator**: Directing the creative direction
+- **Researcher**: Looking up techniques or solutions
+- **Documenter**: Recording decisions and progress
 
-## Presentation Requirements
+## What to Work On
 
-When presenting your sound, explain:
+- Practice your weekly habits together
+- Explore tools and techniques as a group
+- Work on shared projects or help with individual projects
+- Experiment with collaborative workflows
 
-- What oscillator settings you used
-- How you shaped with filters
-- What modulation you applied
-- What effects you added
-- Any unexpected discoveries
+## Documentation
 
-## Discussion Questions
+At the end of each session, note:
 
-- How did different approaches lead to similar sounds?
-- What techniques did you learn from other groups?
-- What would you do differently next time?
+1. What you worked on as a group
+2. What you accomplished together
+3. What challenges you encountered
+4. What you learned from your peers
 
 ## Resources
 
 - [[Studio-Session-Guide]]
-- [[Digital Garden/Knowledge Database/Intro to Synthesis|Intro to Synthesis]]
-- [[Digital Garden/Knowledge Database/Vital Synthesis Tutorials|Vital Tutorials]]
+- [[Habits-Framework]]
