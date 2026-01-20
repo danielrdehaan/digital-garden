@@ -75,4 +75,4 @@ Please be prepared to present your DAW project to the class so that we can colle
 
 # Additional Practice
 
-[Example-Video_Starting-Shortly_Loop_1080p.mp4](Digital%20Garden/Shared%20Knowledge/Attachments/Composition%20Assignment%20Ambient%20Music%20Loop%20-%20Part%202/Example-Video_Starting-Shortly_Loop_1080p.mp4)
+![](https://youtu.be/FCvr329hEeo)

@@ -264,7 +264,7 @@ To use these script:
 
 ## Split Chords to New Tracks
 
-[Split MIDI Chords.mp4](Split_MIDI_Chords.mp4)
+![](https://youtu.be/erNgr1JoNBM)
 
 **Here is the script:**
 
