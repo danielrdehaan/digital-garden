@@ -1,0 +1,42 @@
+filters:
+  and:
+    - file.folder == "Digital Garden/Free Audio Resources"
+properties:
+  file.name:
+    displayName: Name
+  URL:
+    displayName: URL
+  Date Added:
+    displayName: Date Added
+  Tags:
+    displayName: Tags
+  🌟:
+    displayName: 🌟
+  Last Edited:
+    displayName: Last Edited
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - URL
+    sort:
+      - property: Date Added
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 1
+    cardSize: 150
+    imageFit: contain
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - URL
+      - Date Added
+      - Tags
+      - 🌟
+      - Last Edited
+    columnSize:
+      file.name: 504
+      note.Date Added: 228
+      note.tags: 392

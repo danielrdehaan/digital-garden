@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Reaper backup files
+*.reapeaks
+*.rpp-bak
+*-RPP-bak
+
+# Obsidian workspace (user-specific, changes frequently)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache
+
+# Trash folder
+.trash/

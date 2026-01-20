@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Digital Garden/Shared Knowledge")
+        - file.name != "_Index.base"
+        - '!file.path.startsWith("Digital Garden/Shared Knowledge/Attachments/")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - Status
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    markers: none
+    indentProperties: true
+    columnSize:
+      file.name: 472
+      note.Status: 184

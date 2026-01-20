@@ -1,0 +1,108 @@
+---
+title: Assignment - Week 14
+due_date: 2026-05-10
+time: 23:59
+location: online
+type: assignment
+week: 14
+status: complete
+tags:
+  - assignment
+  - week-14
+  - final-project
+  - revision
+created: 2026-01-19T16:39:22-06:00
+modified: 2026-01-19T16:39:22-06:00
+---
+
+# Assignment - Week 14: Portfolio Feedback Integration
+
+**Due:** Sunday, May 10, 2026 @ 11:59 PM
+
+## Overview
+
+Integrate feedback from your portfolio draft and prepare for final presentation and submission.
+
+## Deliverables
+
+Submit to Canvas:
+
+### 1. Feedback Response
+
+Document how you addressed feedback from your Week 13 draft:
+
+| Feedback Received | How I Addressed It |
+|-------------------|-------------------|
+| | |
+| | |
+| | |
+
+If you chose not to incorporate specific feedback, explain why.
+
+### 2. Completed Written Reflection
+
+Finalize your reflection (500-750 words):
+- All sections complete
+- Revised based on feedback
+- Proofread for clarity
+
+### 3. Updated Evidence
+
+Add any missing evidence:
+- Fill gaps identified in Week 13
+- Ensure before/after comparisons are clear
+- Organize files with final naming conventions
+
+### 4. Presentation Preparation
+
+Prepare for your Week 15 presentation:
+
+**Create or finalize your demonstration:**
+- Video (recommended) or live presentation materials
+- 3-5 minutes of content
+- Covers your journey, evidence, and reflection
+
+**Practice run:**
+- Time yourself
+- Note any issues to address
+- Confirm technical setup works
+
+### 5. Final Habit Check-In
+
+Your **last weekly check-in** before the Final Project!
+
+Make it comprehensive:
+- Full documentation of final week's practice
+- Reflection on completing your habit journey
+- Any final evidence to capture
+
+## Rubric
+
+| Criteria | Excellent (90-100%) | Good (80-89%) | Adequate (70-79%) | Needs Work (<70%) |
+|----------|---------------------|---------------|-------------------|-------------------|
+| **Feedback Integration** | All feedback addressed thoughtfully | Most feedback addressed | Some feedback addressed | Little response to feedback |
+| **Reflection** | Complete, polished, compelling | Good reflection | Adequate | Incomplete |
+| **Presentation Prep** | Ready to present confidently | Good preparation | Some preparation | Not prepared |
+| **Final Check-In** | Complete and meaningful | Adequate | Basic | Missing |
+
+## Pre-Submission Checklist
+
+Before Week 15, verify you have:
+
+- [ ] Written reflection (500-750 words, complete)
+- [ ] Habit 1: Baseline, mid-semester, final evidence
+- [ ] Habit 2: Baseline, mid-semester, final evidence
+- [ ] Process documentation
+- [ ] Demonstration video or presentation materials
+- [ ] All files organized with clear names
+
+## Important Dates
+
+- **Week 15 Monday:** Presentations begin (check schedule)
+- **Week 15 Wednesday:** Presentations continue
+- **Friday, May 16 @ 11:59 PM:** Final portfolio submission
+
+## Resources
+
+- [[Final-Project-Guide]]
+- [[Feedback-Session-Guide]] (for presentation tips)
