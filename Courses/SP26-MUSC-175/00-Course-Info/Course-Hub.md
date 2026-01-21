@@ -6,22 +6,22 @@ tags:
   - hub
   - navigation
 created: 2026-01-19T16:40:06-06:00
-modified: 2026-01-20T14:28:12-06:00
+modified: 2026-01-20T16:55:04-06:00
 ---
 
 # MUSC 175 - Course Hub
 
 **Applied Music II** | Spring 2026 | Sections 04 & 05
 
-| Section | Schedule |
-|---------|----------|
-| 04 | M/W 2:00 – 3:20 PM |
-| 05 | M/W 3:30 – 4:50 PM |
+| Section | Schedule           |
+|---------|--------------------|
+| 04      | M/W 2:00 – 3:20 PM |
+| 05      | M/W 3:30 – 4:50 PM |
 
 ## Quick Links
 
 ### Course Documents
-- [[Digital Garden/Courses/SP26-MUSC-175/00-Course-Info/Syllabus|Syllabus]]
+- [[Syllabus]]
 - [[Habits-Framework|Habits Framework]]
 - [[Final-Project-Guide|Final Project Guide]]
 - [[Studio-Session-Guide|Studio Session Guide]]
@@ -47,154 +47,84 @@ This semester you'll design and maintain **two weekly habits** that support your
 
 ---
 
+## Learning Through Imitation
+
+Every production topic this semester will be approached through **learning by imitation**—studying, analyzing, and recreating the work of professionals.
+
+**The Framework:**
+1. **Listen/Watch:** Active, critical consumption of professional work
+2. **Analyze:** Break down what you hear/see into specific choices
+3. **Recreate:** Attempt to reproduce elements of what you studied
+4. **Reflect:** What did you learn? How does this inform your own work?
+
+**Progression:** Copy → Understand → Adapt → Create
+
+---
+
 ## Course Calendar
 
-### Week 1 (Jan 26-Feb 1)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Intro & Habits Framework | [[Lecture-Week-01]] |
-| Wed | **Studio (Solo)** | Habit Exploration | [[Studio-Week-01]] |
-| Sun | Assignment | Design Two Habits | [[Assignment-Week-01]] |
-
-### Week 2 (Feb 2-8)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Problems of Beginning | [[Lecture-Week-02]] |
-| Wed | **Feedback** | Present & Review | [[Feedback-Week-02]] |
-| Sun | Assignment | Habit Check-In | [[Assignment-Week-02]] |
-
-### Week 3 (Feb 9-15)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Audio Mixing Basics | [[Lecture-Week-03]] |
-| Wed | **Studio (Group)** | Mixing Practice | [[Studio-Week-03]] |
-| Sun | Assignment | Mixing Practice | [[Assignment-Week-03]] |
-
-### Week 4 (Feb 16-22)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Mixing Deep Dive | [[Lecture-Week-04]] |
-| Wed | **Feedback** | Mix Reviews | [[Feedback-Week-04]] |
-| Sun | Assignment | Mixing + Habits | [[Assignment-Week-04]] |
-
-### Week 5 (Feb 23-Mar 1)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | DAW Features & Functions | [[Lecture-Week-05]] |
-| Wed | **Studio (Solo)** | DAW Exploration | [[Studio-Week-05]] |
-| Sun | Assignment | DAW Exploration | [[Assignment-Week-05]] |
-
-### Week 6 (Mar 2-8)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Composing with BBCSO/LABS | [[Lecture-Week-06]] |
-| Wed | **Feedback** | DAW Discoveries | [[Feedback-Week-06]] |
-| Sun | Assignment | Composition | [[Assignment-Week-06]] |
-
-### Week 7 (Mar 9-15)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Foundations of Synthesis | [[Lecture-Week-07]] |
-| Wed | **Studio (Group)** | Vital Sound Design | [[Studio-Week-07]] |
-| Sun | Assignment | Vital Synthesis | [[Assignment-Week-07]] |
-
-### Week 8 (Mar 16-22)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Synthesis Deep Dive | [[Lecture-Week-08]] |
-| Wed | **Feedback** | Sound Design Reviews | [[Feedback-Week-08]] |
-| Sun | Assignment | Sound Design Portfolio | [[Assignment-Week-08]] |
-
-### Spring Break (Mar 23-27)
-[[Spring-Break]]
-*No classes held. Continue your habit practice!*
-
-### Week 9 (Mar 30-Apr 5)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Live Performance + Final Project Intro | [[Lecture-Week-09]] |
-| Wed | **Studio (Solo)** | Performance Setup | [[Studio-Week-09]] |
-| Sun | Assignment | Performance Prep | [[Assignment-Week-09]] |
-
-### Week 10 (Apr 6-12)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Mastering Basics | [[Lecture-Week-10]] |
-| Wed | **Feedback** | Performance Demos | [[Feedback-Week-10]] |
-| Sun | Assignment | Mastering Practice | [[Assignment-Week-10]] |
-
-### Week 11 (Apr 13-19)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Collaborative Production | [[Lecture-Week-11]] |
-| Wed | **Studio (Group)** | Collaborative Creation | [[Studio-Week-11]] |
-| Sun | Assignment | Collaborative Project | [[Assignment-Week-11]] |
-
-### Week 12 (Apr 20-26)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Workflow & Organization | [[Lecture-Week-12]] |
-| Wed | **Feedback** | Collaboration Reviews | [[Feedback-Week-12]] |
-| Sun | Assignment | Habit Reflection | [[Assignment-Week-12]] |
-
-### Week 13 (Apr 27-May 3)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Final Project Prep | [[Lecture-Week-13]] |
-| Wed | **Studio (Solo)** | Portfolio Work | [[Studio-Week-13]] |
-| Sun | Assignment | **Portfolio Draft** | [[Assignment-Week-13]] |
-
-### Week 14 (May 4-10)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Lecture | Final Project Workshop | [[Lecture-Week-14]] |
-| Wed | **Feedback** | Portfolio Feedback | [[Feedback-Week-14]] |
-| Sun | Assignment | Feedback Integration | [[Assignment-Week-14]] |
-
-### Week 15 (May 11-17)
-| Day | Type | Topic | Link |
-|---|---|---|---|
-| Mon | Presentations | Final Presentations | [[Lecture-Week-15]] |
-| Wed | Presentations | Final Presentations | [[Feedback-Week-15]] |
-| **Fri May 16** | **DUE** | **Final Portfolio** | [[Assignment-Week-15]] |
+| Week | Date | Type | Topic | Link |
+|------|------|------|-------|------|
+| **1** | | | ***Habits Phase*** | |
+| | Mon 1/26 | Lecture | Introduction & Habits Framework | [[01-Week-01/01-Lecture\|Lecture]] |
+| | Wed 1/28 | **Studio (Solo)** | Habit Exploration | [[01-Week-01/02-Studio-Session\|Studio Session]] |
+| | Sun 2/1 | Assignment | Design Two Weekly Habits | [[01-Week-01/03-Assignment\|Assignment]] |
+| **2** | | | ***Habits Phase*** | |
+| | Mon 2/2 | Lecture | Refining Your Habits | [[02-Week-02/01-Lecture\|Lecture]] |
+| | Wed 2/4 | **Feedback** | Habit Statements Review | [[02-Week-02/02-Feedback-Session\|Feedback Session]] |
+| | Sun 2/8 | Assignment | Habit Refinement | [[02-Week-02/03-Assignment\|Assignment]] |
+| **3** | | | ***Habits Begin + Imitation Introduced*** | |
+| | Mon 2/9 | Lecture | Deliberate Practice & Learning Through Imitation | [[03-Week-03/01-Lecture\|Lecture]] |
+| | Wed 2/11 | **Studio (Solo)** | First Habit Practice + Reference Library | [[03-Week-03/02-Studio-Session\|Studio Session]] |
+| | Sun 2/15 | Assignment | Habit Check-In #1 + Reference Track Library | [[03-Week-03/03-Assignment\|Assignment]] |
+| **4** | | | ***Imitation: Sound Design*** | |
+| | Mon 2/16 | Lecture | Sound Design — Recreate Iconic Sounds | [[04-Week-04/01-Lecture\|Lecture]] |
+| | Wed 2/18 | **Feedback** | Habit Progress | [[04-Week-04/02-Feedback-Session\|Feedback Session]] |
+| | Sun 2/22 | Assignment | Sound Recreation Project | [[04-Week-04/03-Assignment\|Assignment]] |
+| **5** | | | ***Imitation: Mixing*** | |
+| | Mon 2/23 | Lecture | Mixing — Deconstruct a Pro Mix | [[05-Week-05/01-Lecture\|Lecture]] |
+| | Wed 2/25 | **Studio (Group)** | Mix Deconstruction Workshop | [[05-Week-05/02-Studio-Session\|Studio Session]] |
+| | Sun 3/1 | Assignment | Reference Mix Analysis | [[05-Week-05/03-Assignment\|Assignment]] |
+| **6** | | | ***Imitation: Arrangement*** | |
+| | Mon 3/2 | Lecture | Arrangement — Study Song Structures | [[06-Week-06/01-Lecture\|Lecture]] |
+| | Wed 3/4 | **Feedback** | Mix Deconstructions | [[06-Week-06/02-Feedback-Session\|Feedback Session]] |
+| | Sun 3/8 | Assignment | Arrangement Study | [[06-Week-06/03-Assignment\|Assignment]] |
+| **7** | | | ***Imitation: Genre*** | |
+| | Mon 3/9 | Lecture | Production Style — Genre Deep Dive | [[07-Week-07/01-Lecture\|Lecture]] |
+| | Wed 3/11 | **Studio (Group)** | Genre Exploration | [[07-Week-07/02-Studio-Session\|Studio Session]] |
+| | Sun 3/15 | Assignment | Genre Study Project | [[07-Week-07/03-Assignment\|Assignment]] |
+| **8** | | | ***Imitation: Workflow*** | |
+| | Mon 3/16 | Lecture | Workflow — How the Pros Organize | [[08-Week-08/01-Lecture\|Lecture]] |
+| | Wed 3/18 | **Feedback** | Genre Projects | [[08-Week-08/02-Feedback-Session\|Feedback Session]] |
+| | Sun 3/22 | Assignment | Workflow Documentation | [[08-Week-08/03-Assignment\|Assignment]] |
+| | **3/23-27** | | ***Spring Break — No Classes*** | |
+| **9** | | | ***Mid-Semester Check-In*** | |
+| | Mon 3/30 | Lecture | Final Project Introduction & Progress Review | [[09-Week-09/01-Lecture\|Lecture]] |
+| | Wed 4/1 | **Studio (Solo)** | Portfolio Planning | [[09-Week-09/02-Studio-Session\|Studio Session]] |
+| | Sun 4/5 | Assignment | Mid-Semester Check-In | [[09-Week-09/03-Assignment\|Assignment]] |
+| **10** | | | ***Imitation: Sampling*** | |
+| | Mon 4/6 | Lecture | Sampling — Learn from Sample-Based Producers | [[10-Week-10/01-Lecture\|Lecture]] |
+| | Wed 4/8 | **Feedback** | Progress Reviews | [[10-Week-10/02-Feedback-Session\|Feedback Session]] |
+| | Sun 4/12 | Assignment | Sample Flip Project | [[10-Week-10/03-Assignment\|Assignment]] |
+| **11** | | | ***Imitation: Performance*** | |
+| | Mon 4/13 | Lecture | Performance — Study a Live Set | [[11-Week-11/01-Lecture\|Lecture]] |
+| | Wed 4/15 | **Studio (Group)** | Performance Workshop | [[11-Week-11/02-Studio-Session\|Studio Session]] |
+| | Sun 4/19 | Assignment | Live Set Study | [[11-Week-11/03-Assignment\|Assignment]] |
+| **12** | | | ***Imitation: Mastering*** | |
+| | Mon 4/20 | Lecture | Mastering — Match a Reference | [[12-Week-12/01-Lecture\|Lecture]] |
+| | Wed 4/22 | **Feedback** | Performance Setups | [[12-Week-12/02-Feedback-Session\|Feedback Session]] |
+| | Sun 4/26 | Assignment | Reference Mastering | [[12-Week-12/03-Assignment\|Assignment]] |
+| **13** | | | ***Imitation: Artist Study*** | |
+| | Mon 4/27 | Lecture | Artist Study — Deep Dive on One Producer | [[13-Week-13/01-Lecture\|Lecture]] |
+| | Wed 4/29 | **Studio (Solo)** | Portfolio Work | [[13-Week-13/02-Studio-Session\|Studio Session]] |
+| | Sun 5/3 | Assignment | Artist Study Project + **Portfolio Draft** | [[13-Week-13/03-Assignment\|Assignment]] |
+| **14** | | | ***Final Project*** | |
+| | Mon 5/4 | Lecture | Portfolio Workshop | [[14-Week-14/01-Lecture\|Lecture]] |
+| | Wed 5/6 | **Feedback** | Portfolio Feedback | [[14-Week-14/02-Feedback-Session\|Feedback Session]] |
+| | Sun 5/10 | Assignment | Portfolio Finalization | [[14-Week-14/03-Assignment\|Assignment]] |
+| **15** | | | ***Presentations*** | |
+| | Mon 5/11 | Presentations | Final Presentations | [[15-Week-15/01-Lecture\|Lecture]] |
+| | Wed 5/13 | Presentations | Final Presentations | [[15-Week-15/02-Feedback-Session\|Feedback Session]] |
+| | **Fri 5/16** | **DUE** | **Final Portfolio** | [[15-Week-15/03-Assignment\|Assignment]] |
 
 ---
-
-## Important Dates
-
-| Date | Event |
-|---|---|
-| Jan 27 | Semester Start |
-| Feb 3 | Add Deadline |
-| Feb 10 | Drop Deadline |
-| Mar 23-27 | Spring Break |
-| Mar 30 | Final Project Introduced |
-| Apr 11 | Withdrawal Deadline |
-| Apr 21 | Course Evaluations Open |
-| May 3 | Portfolio Draft Due |
-| May 11 | Course Evaluations Close |
-| May 16 | Semester End / **Final Project Due** |
-
----
-
-## Grading Breakdown
-
-| Component | Weight |
-|-----------|--------|
-| Class Preparedness/Attendance | 40% |
-| Assignments/Discussions | 40% |
-| Final Project | 20% |
-
----
-
-## Wednesday Session Types
-
-### Studio Sessions (Odd Weeks: 1, 3, 5, 7, 9, 11, 13)
-Hands-on work time applying lecture concepts.
-- **Solo** (Weeks 1, 5, 9, 13): Individual focused practice
-- **Group** (Weeks 3, 7, 11): Collaborative activities
-
-### Feedback Sessions (Even Weeks: 2, 4, 6, 8, 10, 12, 14)
-Present work and receive constructive feedback from peers and instructor.
-
-See [[Studio-Session-Guide]] and [[Feedback-Session-Guide]] for details.

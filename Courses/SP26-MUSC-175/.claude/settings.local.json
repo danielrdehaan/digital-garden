@@ -1,7 +1,26 @@
 {
   "permissions": {
     "allow": [
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(zip:*)",
+      "Bash(done)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(cd:*)",
+      "Bash(pkill:*)",
+      "Bash(launchctl load:*)",
+      "Bash(kill:*)",
+      "Bash(launchctl unload:*)",
+      "Bash(npm install)",
+      "Bash(npm run build:*)",
+      "Bash(COURSE_DIR=\"/Users/danielrdehaan/Obsidian/DRD_Vault/Website/Digital Garden/Courses/SP26-MUSC-175\" echo \"=== MUSC-175 New Structure ===\" echo \"\" echo \"Folders:\" ls -d \"$COURSE_DIR\"/*/)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: Canvas Sync Obsidian Plugin\n\nFeatures:\n- Sync Obsidian markdown to Canvas LMS pages/discussions\n- Multi-course support with multiple Canvas section IDs\n- Frontmatter-driven configuration \\(canvas_type, canvas_title, etc.\\)\n- Wiki-link resolution to Canvas internal links\n- Shared content discovery via wiki-link parsing\n- Watch mode for auto-sync on file save\n- YouTube embed conversion\n- Obsidian callout to styled div conversion\n- Status bar with sync state and last sync time\n- Ribbon icon with sync menu\n- File and folder context menus\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git remote:*)"
     ]
   }
 }

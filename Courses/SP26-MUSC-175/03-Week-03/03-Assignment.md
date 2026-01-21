@@ -1,27 +1,28 @@
 ---
-title: Assignment - Week 11
-due_date: 2026-04-19
+title: Assignment - Week 03
+due_date: 2026-02-15
 time: 23:59
 location: online
 type: assignment
-week: 11
+week: 3
 status: draft
 tags:
   - assignment
-  - week-11
+  - week-03
   - habits
   - progress-update
-created: 2026-01-19T16:39:20-06:00
+created: 2026-01-19T16:39:14-06:00
 modified: 2026-01-20T16:00:00-06:00
+canvas_type: discussion
 ---
 
-# Assignment - Week 11: Habit Progress Update
+# Assignment - Week 03: Habit Progress Update
 
-**Due:** Sunday, April 19, 2026 @ 11:59 PM
+**Due:** Sunday, February 15, 2026 @ 11:59 PM
 
 ## Overview
 
-Continue documenting your habit practice. This week's lecture covered performance through imitation—consider how studying live sets might enhance your habit practice.
+Your first week of official habit practice! Document your progress and share what you're learning.
 
 ## Deliverables
 
@@ -49,11 +50,32 @@ For **each of your two habits**, provide:
 
 **5. Evidence**
 - Screenshots, audio clips, or descriptions of your work
-- **Remember:** Keep gathering evidence for your Final Project!
+- This builds your Final Project portfolio!
 
-### Optional Bonus
+### Weekly Template
 
-If relevant to your habits, share how you applied this week's lecture topic (performance through imitation) to your practice.
+```markdown
+## Habit 1: [Name]
+
+**Completion:** [X/X planned sessions]
+
+**What I Did:**
+- [Detailed description]
+
+**What I Learned:**
+- [Insights]
+
+**Challenges:**
+- [What was difficult and how you addressed it]
+
+**Evidence:** [Link/attachment/description]
+
+---
+
+## Habit 2: [Name]
+
+[Same format]
+```
 
 ## Rubric
 
@@ -62,6 +84,10 @@ If relevant to your habits, share how you applied this week's lecture topic (per
 | **Completion** | Completed most/all planned sessions | Completed majority | Completed some | Few or none |
 | **Reflection** | Thoughtful insights, honest about challenges | Good reflection | Basic reflection | Minimal |
 | **Evidence** | Clear documentation of progress | Adequate evidence | Some evidence | Little/none |
+
+## Remember
+
+The goal is consistent practice and honest reflection, not perfection. If you struggled this week, that's valuable information—share it!
 
 ## Resources
 

@@ -1,27 +1,28 @@
 ---
-title: Assignment - Week 10
-due_date: 2026-04-12
+title: Assignment - Week 07
+due_date: 2026-03-15
 time: 23:59
 location: online
 type: assignment
-week: 10
+week: 7
 status: draft
 tags:
   - assignment
-  - week-10
+  - week-07
   - habits
   - progress-update
-created: 2026-01-19T16:39:19-06:00
+created: 2026-01-19T16:39:17-06:00
 modified: 2026-01-20T16:00:00-06:00
+canvas_type: discussion
 ---
 
-# Assignment - Week 10: Habit Progress Update
+# Assignment - Week 07: Habit Progress Update
 
-**Due:** Sunday, April 12, 2026 @ 11:59 PM
+**Due:** Sunday, March 15, 2026 @ 11:59 PM
 
 ## Overview
 
-Continue documenting your habit practice. This week's lecture covered sampling through imitation—consider how studying sample-based producers might enhance your habit practice.
+Continue documenting your habit practice. This week's lecture covered genre study through imitation—consider how studying specific genre conventions might enhance your habit practice.
 
 ## Deliverables
 
@@ -49,11 +50,10 @@ For **each of your two habits**, provide:
 
 **5. Evidence**
 - Screenshots, audio clips, or descriptions of your work
-- **Remember:** Keep gathering evidence for your Final Project!
 
 ### Optional Bonus
 
-If relevant to your habits, share how you applied this week's lecture topic (sampling through imitation) to your practice.
+If relevant to your habits, share how you applied this week's lecture topic (genre study through imitation) to your practice.
 
 ## Rubric
 

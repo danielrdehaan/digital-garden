@@ -1,27 +1,28 @@
 ---
-title: Assignment - Week 07
-due_date: 2026-03-15
+title: Assignment - Week 04
+due_date: 2026-02-22
 time: 23:59
 location: online
 type: assignment
-week: 7
+week: 4
 status: draft
 tags:
   - assignment
-  - week-07
+  - week-04
   - habits
   - progress-update
-created: 2026-01-19T16:39:17-06:00
+created: 2026-01-19T16:39:15-06:00
 modified: 2026-01-20T16:00:00-06:00
+canvas_type: discussion
 ---
 
-# Assignment - Week 07: Habit Progress Update
+# Assignment - Week 04: Habit Progress Update
 
-**Due:** Sunday, March 15, 2026 @ 11:59 PM
+**Due:** Sunday, February 22, 2026 @ 11:59 PM
 
 ## Overview
 
-Continue documenting your habit practice. This week's lecture covered genre study through imitation—consider how studying specific genre conventions might enhance your habit practice.
+Continue documenting your habit practice. This week's lecture covered sound design through imitation—consider how the imitation framework might enhance your habit practice.
 
 ## Deliverables
 
@@ -52,7 +53,7 @@ For **each of your two habits**, provide:
 
 ### Optional Bonus
 
-If relevant to your habits, share how you applied this week's lecture topic (genre study through imitation) to your practice.
+If relevant to your habits, share how you applied this week's lecture topic (sound design through imitation) to your practice.
 
 ## Rubric
 

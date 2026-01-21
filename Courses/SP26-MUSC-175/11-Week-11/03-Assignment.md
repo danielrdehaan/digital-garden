@@ -1,27 +1,28 @@
 ---
-title: Assignment - Week 05
-due_date: 2026-03-01
+title: Assignment - Week 11
+due_date: 2026-04-19
 time: 23:59
 location: online
 type: assignment
-week: 5
+week: 11
 status: draft
 tags:
   - assignment
-  - week-05
+  - week-11
   - habits
   - progress-update
-created: 2026-01-19T16:39:16-06:00
+created: 2026-01-19T16:39:20-06:00
 modified: 2026-01-20T16:00:00-06:00
+canvas_type: discussion
 ---
 
-# Assignment - Week 05: Habit Progress Update
+# Assignment - Week 11: Habit Progress Update
 
-**Due:** Sunday, March 1, 2026 @ 11:59 PM
+**Due:** Sunday, April 19, 2026 @ 11:59 PM
 
 ## Overview
 
-Continue documenting your habit practice. This week's lecture covered mixing through imitation—consider how studying professional mixes might enhance your habit practice.
+Continue documenting your habit practice. This week's lecture covered performance through imitation—consider how studying live sets might enhance your habit practice.
 
 ## Deliverables
 
@@ -49,10 +50,11 @@ For **each of your two habits**, provide:
 
 **5. Evidence**
 - Screenshots, audio clips, or descriptions of your work
+- **Remember:** Keep gathering evidence for your Final Project!
 
 ### Optional Bonus
 
-If relevant to your habits, share how you applied this week's lecture topic (mixing through imitation) to your practice.
+If relevant to your habits, share how you applied this week's lecture topic (performance through imitation) to your practice.
 
 ## Rubric
 

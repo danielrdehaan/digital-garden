@@ -13,7 +13,7 @@ tags:
   - musc-175
   - spring-2026
 created: 2026-01-19T16:42:10-06:00
-modified: 2026-01-20T15:21:10-06:00
+modified: 2026-01-20T17:14:10-06:00
 ---
 
 # Columbia College Chicago
@@ -134,62 +134,6 @@ A laptop that meets the [School of Audio and Music requirements](https://student
 
 ---
 
-# The Habit System
-
-This semester, you will design and maintain **two weekly habits** that support your growth as a musician and producer. Inspired by James Clear's *Atomic Habits*, this system emphasizes consistent practice over intensive cramming.
-
-## How It Works
-
-**Weeks 1-2:** Design and refine two habits from these skill areas:
-- **Production skills:** mixing, sound design, synthesis, mastering
-- **Creative practice:** composition, ear training, improvisation
-- **Technical workflow:** DAW proficiency, organization, shortcuts
-
-**Week 3:** Your habits officially begin. This is also when we introduce the semester's core learning method: Learning Through Imitation.
-
-**Throughout the Semester:** Document your habit practice weekly through Canvas discussion posts.
-
-**Final Project:** Create an Evidence Portfolio showcasing your growth through:
-- Before/after evidence demonstrating improvement
-- Process documentation from throughout the semester
-- Written reflection on your learning journey
-- Demonstration video or presentation
-
-See [[Habits-Framework]] for detailed guidance.
-
----
-
-# Learning Through Imitation
-
-This semester, every production topic will be approached through **learning by imitation**—studying, analyzing, and recreating the work of professionals. This is how masters have always learned: through apprenticeship, copying, and careful study.
-
-## The Framework
-
-1. **Listen/Watch:** Active, critical consumption of professional work
-2. **Analyze:** Break down what you hear/see into specific choices
-3. **Recreate:** Attempt to reproduce elements of what you studied
-4. **Reflect:** What did you learn? How does this inform your own work?
-
-## The Progression
-
-**Copy → Understand → Adapt → Create**
-
-Imitation is not the destination—it's the path. By deeply studying others' work, you develop the vocabulary and techniques to find your own voice.
-
-## Topics Through This Lens
-
-- **Sound Design:** Recreate iconic sounds
-- **Mixing:** Deconstruct professional mixes
-- **Arrangement:** Study song structures
-- **Genre:** Deep dive into production conventions
-- **Workflow:** Learn how pros organize their sessions
-- **Sampling:** Study sample-based producers
-- **Performance:** Analyze live sets
-- **Mastering:** Match a reference track
-- **Artist Study:** Deep dive on one producer
-
----
-
 # **Course-Specific Policies:**
 
 ## **Grading Policy:**
@@ -230,6 +174,12 @@ Columbia College Chicago respects the right of and encourages all students to ob
 
 AI may not be used for the completion of course-related work unless indicated otherwise by the instructor for specific assignments or projects. (see Columbia College Chicago's [AI and Current Academic Integrity Policies](https://about.colum.edu/faculty-development/faculty-development-resources/ai-resources/college-policy-on-ai/policy) for more information).
 
+## **Student Course Evaluations:**
+
+An important part of every semester is your evaluation of your courses and instructors. During this time, you will have the opportunity to provide your assessment of the course structure and content and my ability to help you meet the course learning outcomes and support your success in this course. Please take this opportunity to provide constructive feedback so that your instructors may make use of your ideas and experiences when planning for future semesters. Course evaluations are anonymous and reviewed by school directors.
+
+Course Evaluations for the Spring 2026 15-week session open Monday, April 20, 2026 and close Sunday, May 10, 2026.
+
 ---
 
 # **Course Calendar:**
@@ -243,175 +193,68 @@ AI may not be used for the completion of course-related work unless indicated ot
 
 ---
 
-**Week 1: January 26 – February 1** *(Habits Phase)*
-
-- **Monday, Jan 26**
-    - Lecture: Introduction & Habits Framework
-- **Wednesday, Jan 28**
-    - Studio Session (Solo): Habit Exploration
-- **Assignment Due:** Sunday, Feb 1 by 11:59 PM
-    - Design Two Weekly Habits
-
-**Week 2: February 2 – February 8** *(Habits Phase)*
-
-- **Monday, Feb 2**
-    - Lecture: Refining Your Habits
-- **Wednesday, Feb 4**
-    - Feedback Session: Habit Statements Review
-- **Assignment Due:** Sunday, Feb 8 by 11:59 PM
-    - Habit Refinement
-
-**Week 3: February 9 – February 15** *(Habits Begin + Imitation Introduced)*
-
-- **Monday, Feb 9**
-    - Lecture: Deliberate Practice & Learning Through Imitation
-    - **Habits Officially Begin**
-- **Wednesday, Feb 11**
-    - Studio Session (Solo): First Habit Practice + Reference Library
-- **Assignment Due:** Sunday, Feb 15 by 11:59 PM
-    - Habit Check-In #1 + Reference Track Library
-
-**Week 4: February 16 – February 22** *(Imitation: Sound Design)*
-
-- **Monday, Feb 16**
-    - Lecture: Sound Design — Recreate Iconic Sounds
-- **Wednesday, Feb 18**
-    - Feedback Session: Habit Progress
-- **Assignment Due:** Sunday, Feb 22 by 11:59 PM
-    - Sound Recreation Project
-
-**Week 5: February 23 – March 1** *(Imitation: Mixing)*
-
-- **Monday, Feb 23**
-    - Lecture: Mixing — Deconstruct a Pro Mix
-- **Wednesday, Feb 25**
-    - Studio Session (Group): Mix Deconstruction Workshop
-- **Assignment Due:** Sunday, Mar 1 by 11:59 PM
-    - Reference Mix Analysis
-
-**Week 6: March 2 – March 8** *(Imitation: Arrangement)*
-
-- **Monday, Mar 2**
-    - Lecture: Arrangement — Study Song Structures
-- **Wednesday, Mar 4**
-    - Feedback Session: Mix Deconstructions
-- **Assignment Due:** Sunday, Mar 8 by 11:59 PM
-    - Arrangement Study
-
-**Week 7: March 9 – March 15** *(Imitation: Genre)*
-
-- **Monday, Mar 9**
-    - Lecture: Production Style — Genre Deep Dive
-- **Wednesday, Mar 11**
-    - Studio Session (Group): Genre Exploration
-- **Assignment Due:** Sunday, Mar 15 by 11:59 PM
-    - Genre Study Project
-
-**Week 8: March 16 – March 22** *(Imitation: Workflow)*
-
-- **Monday, Mar 16**
-    - Lecture: Workflow — How the Pros Organize
-- **Wednesday, Mar 18**
-    - Feedback Session: Genre Projects
-- **Assignment Due:** Sunday, Mar 22 by 11:59 PM
-    - Workflow Documentation
-
-**Spring Break: March 23 – March 27**
-
-- **No Classes Held**
-- **Note:** No assignments due. Continue your habit practice!
-
-**Week 9: March 30 – April 5** *(Mid-Semester Check-In)*
-
-- **Monday, Mar 30**
-    - Lecture: Final Project Introduction & Progress Review
-    - **Final Project Introduced**
-- **Wednesday, Apr 1**
-    - Studio Session (Solo): Portfolio Planning
-- **Assignment Due:** Sunday, Apr 5 by 11:59 PM
-    - Mid-Semester Check-In
-
-**Week 10: April 6 – April 12** *(Imitation: Sampling)*
-
-- **Monday, Apr 6**
-    - Lecture: Sampling — Learn from Sample-Based Producers
-- **Wednesday, Apr 8**
-    - Feedback Session: Progress Reviews
-- **Assignment Due:** Sunday, Apr 12 by 11:59 PM
-    - Sample Flip Project
-
-**Week 11: April 13 – April 19** *(Imitation: Performance)*
-
-- **Monday, Apr 13**
-    - Lecture: Performance — Study a Live Set
-- **Wednesday, Apr 15**
-    - Studio Session (Group): Performance Workshop
-- **Assignment Due:** Sunday, Apr 19 by 11:59 PM
-    - Live Set Study
-
-**Week 12: April 20 – April 26** *(Imitation: Mastering)*
-
-- **Monday, Apr 20**
-    - Lecture: Mastering — Match a Reference
-- **Wednesday, Apr 22**
-    - Feedback Session: Performance Setups
-- **Assignment Due:** Sunday, Apr 26 by 11:59 PM
-    - Reference Mastering
-
-**Week 13: April 27 – May 3** *(Imitation: Artist Study)*
-
-- **Monday, Apr 27**
-    - Lecture: Artist Study — Deep Dive on One Producer
-- **Wednesday, Apr 29**
-    - Studio Session (Solo): Portfolio Work
-- **Assignment Due:** Sunday, May 3 by 11:59 PM
-    - Artist Study Project + **Portfolio Draft**
-
-**Week 14: May 4 – May 10** *(Final Project)*
-
-- **Monday, May 4**
-    - Lecture: Portfolio Workshop
-- **Wednesday, May 6**
-    - Feedback Session: Portfolio Feedback
-- **Assignment Due:** Sunday, May 10 by 11:59 PM
-    - Portfolio Finalization
-
-**Week 15: May 11 – May 16** *(Presentations)*
-
-- **Monday, May 11**
-    - Final Project Presentations
-- **Wednesday, May 13**
-    - Final Project Presentations (continued)
-- **Final Project Due:** Friday, May 16 by 11:59 PM
-    - Evidence Portfolio Submission
+| Week | Date | Type | Topic | Link |
+|------|------|------|-------|------|
+| **1** | | | ***Habits Phase*** | |
+| | Mon 1/26 | Lecture | Introduction & Habits Framework | [[01-Week-01/01-Lecture\|Lecture]] |
+| | Wed 1/28 | **Studio (Solo)** | Habit Exploration | [[01-Week-01/02-Studio-Session\|Studio Session]] |
+| | Sun 2/1 | Assignment | Design Two Weekly Habits | [[01-Week-01/03-Assignment\|Assignment]] |
+| **2** | | | ***Habits Phase*** | |
+| | Mon 2/2 | Lecture | Refining Your Habits | [[02-Week-02/01-Lecture\|Lecture]] |
+| | Wed 2/4 | **Feedback** | Habit Statements Review | [[02-Week-02/02-Feedback-Session\|Feedback Session]] |
+| | Sun 2/8 | Assignment | Habit Refinement | [[02-Week-02/03-Assignment\|Assignment]] |
+| **3** | | | ***Habits Begin + Imitation Introduced*** | |
+| | Mon 2/9 | Lecture | Deliberate Practice & Learning Through Imitation | [[03-Week-03/01-Lecture\|Lecture]] |
+| | Wed 2/11 | **Studio (Solo)** | First Habit Practice + Reference Library | [[03-Week-03/02-Studio-Session\|Studio Session]] |
+| | Sun 2/15 | Assignment | Habit Check-In #1 + Reference Track Library | [[03-Week-03/03-Assignment\|Assignment]] |
+| **4** | | | ***Imitation: Sound Design*** | |
+| | Mon 2/16 | Lecture | Sound Design — Recreate Iconic Sounds | [[04-Week-04/01-Lecture\|Lecture]] |
+| | Wed 2/18 | **Feedback** | Habit Progress | [[04-Week-04/02-Feedback-Session\|Feedback Session]] |
+| | Sun 2/22 | Assignment | Sound Recreation Project | [[04-Week-04/03-Assignment\|Assignment]] |
+| **5** | | | ***Imitation: Mixing*** | |
+| | Mon 2/23 | Lecture | Mixing — Deconstruct a Pro Mix | [[05-Week-05/01-Lecture\|Lecture]] |
+| | Wed 2/25 | **Studio (Group)** | Mix Deconstruction Workshop | [[05-Week-05/02-Studio-Session\|Studio Session]] |
+| | Sun 3/1 | Assignment | Reference Mix Analysis | [[05-Week-05/03-Assignment\|Assignment]] |
+| **6** | | | ***Imitation: Arrangement*** | |
+| | Mon 3/2 | Lecture | Arrangement — Study Song Structures | [[06-Week-06/01-Lecture\|Lecture]] |
+| | Wed 3/4 | **Feedback** | Mix Deconstructions | [[06-Week-06/02-Feedback-Session\|Feedback Session]] |
+| | Sun 3/8 | Assignment | Arrangement Study | [[06-Week-06/03-Assignment\|Assignment]] |
+| **7** | | | ***Imitation: Genre*** | |
+| | Mon 3/9 | Lecture | Production Style — Genre Deep Dive | [[07-Week-07/01-Lecture\|Lecture]] |
+| | Wed 3/11 | **Studio (Group)** | Genre Exploration | [[07-Week-07/02-Studio-Session\|Studio Session]] |
+| | Sun 3/15 | Assignment | Genre Study Project | [[07-Week-07/03-Assignment\|Assignment]] |
+| **8** | | | ***Imitation: Workflow*** | |
+| | Mon 3/16 | Lecture | Workflow — How the Pros Organize | [[08-Week-08/01-Lecture\|Lecture]] |
+| | Wed 3/18 | **Feedback** | Genre Projects | [[08-Week-08/02-Feedback-Session\|Feedback Session]] |
+| | Sun 3/22 | Assignment | Workflow Documentation | [[08-Week-08/03-Assignment\|Assignment]] |
+| | **3/23-27** | | ***Spring Break — No Classes*** | |
+| **9** | | | ***Mid-Semester Check-In*** | |
+| | Mon 3/30 | Lecture | Final Project Introduction & Progress Review | [[09-Week-09/01-Lecture\|Lecture]] |
+| | Wed 4/1 | **Studio (Solo)** | Portfolio Planning | [[09-Week-09/02-Studio-Session\|Studio Session]] |
+| | Sun 4/5 | Assignment | Mid-Semester Check-In | [[09-Week-09/03-Assignment\|Assignment]] |
+| **10** | | | ***Imitation: Sampling*** | |
+| | Mon 4/6 | Lecture | Sampling — Learn from Sample-Based Producers | [[10-Week-10/01-Lecture\|Lecture]] |
+| | Wed 4/8 | **Feedback** | Progress Reviews | [[10-Week-10/02-Feedback-Session\|Feedback Session]] |
+| | Sun 4/12 | Assignment | Sample Flip Project | [[10-Week-10/03-Assignment\|Assignment]] |
+| **11** | | | ***Imitation: Performance*** | |
+| | Mon 4/13 | Lecture | Performance — Study a Live Set | [[11-Week-11/01-Lecture\|Lecture]] |
+| | Wed 4/15 | **Studio (Group)** | Performance Workshop | [[11-Week-11/02-Studio-Session\|Studio Session]] |
+| | Sun 4/19 | Assignment | Live Set Study | [[11-Week-11/03-Assignment\|Assignment]] |
+| **12** | | | ***Imitation: Mastering*** | |
+| | Mon 4/20 | Lecture | Mastering — Match a Reference | [[12-Week-12/01-Lecture\|Lecture]] |
+| | Wed 4/22 | **Feedback** | Performance Setups | [[12-Week-12/02-Feedback-Session\|Feedback Session]] |
+| | Sun 4/26 | Assignment | Reference Mastering | [[12-Week-12/03-Assignment\|Assignment]] |
+| **13** | | | ***Imitation: Artist Study*** | |
+| | Mon 4/27 | Lecture | Artist Study — Deep Dive on One Producer | [[13-Week-13/01-Lecture\|Lecture]] |
+| | Wed 4/29 | **Studio (Solo)** | Portfolio Work | [[13-Week-13/02-Studio-Session\|Studio Session]] |
+| | Sun 5/3 | Assignment | Artist Study Project + **Portfolio Draft** | [[13-Week-13/03-Assignment\|Assignment]] |
+| **14** | | | ***Final Project*** | |
+| | Mon 5/4 | Lecture | Portfolio Workshop | [[14-Week-14/01-Lecture\|Lecture]] |
+| | Wed 5/6 | **Feedback** | Portfolio Feedback | [[14-Week-14/02-Feedback-Session\|Feedback Session]] |
+| | Sun 5/10 | Assignment | Portfolio Finalization | [[14-Week-14/03-Assignment\|Assignment]] |
+| **15** | | | ***Presentations*** | |
+| | Mon 5/11 | Presentations | Final Presentations | [[15-Week-15/01-Lecture\|Lecture]] |
+| | Wed 5/13 | Presentations | Final Presentations | [[15-Week-15/02-Feedback-Session\|Feedback Session]] |
+| | **Fri 5/16** | **DUE** | **Final Portfolio** | [[15-Week-15/03-Assignment\|Assignment]] |
 
 ---
-
-## **Student Course Evaluations:**
-
-An important part of every semester is your evaluation of your courses and instructors. During this time, you will have the opportunity to provide your assessment of the course structure and content and my ability to help you meet the course learning outcomes and support your success in this course. Please take this opportunity to provide constructive feedback so that your instructors may make use of your ideas and experiences when planning for future semesters. Course evaluations are anonymous and reviewed by school directors.
-
-Course Evaluations for the Spring 2026 15-week session open Monday, April 20, 2026 and close Sunday, May 10, 2026.
-
-### **Class Assignments:**
-
-Weekly assignments due every Sunday before 11:59 PM
-
-### **Papers:**
-
-none
-
-### **Midterm Exam:**
-
-none
-
-### **Final Exam:**
-
-Final Project - Evidence Portfolio (introduced Week 9, due May 16)
-
-### **Other Class Assignments:**
-
-Weekly habit documentation via Canvas discussions
-
-> [!warning] Disclaimer
-> The course calendar is intended to give you (the student) guidance in what may be covered during the semester and will be followed as closely as possible. However, your instructor reserve the right to modify, supplement, and make changes as course needs arise.

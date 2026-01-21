@@ -1,20 +1,20 @@
 ---
-title: Studio Session - Week 03
-date: 2026-02-12
+title: Studio Session - Week 05
+date: 2026-02-25
 time: 14:00-15:20
 location: in-person
 type: studio
 session_type: group
-week: 3
+week: 5
 status: complete
 tags:
   - studio
-  - week-03
-created: 2026-01-19T16:33:21-06:00
-modified: 2026-01-19T16:33:21-06:00
+  - week-05
+created: 2026-01-19T16:33:22-06:00
+modified: 2026-01-19T16:33:22-06:00
 ---
 
-# Studio Session - Week 03 (Group)
+# Studio Session - Week 05 (Group)
 
 ## Purpose
 

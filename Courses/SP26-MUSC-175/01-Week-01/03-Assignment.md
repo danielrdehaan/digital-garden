@@ -1,9 +1,9 @@
 ---
 title: Assignment - Week 01
-due_date: 2026-02-01
+due_date: 2026-02-01T23:59:00
 time: 23:59
 location: online
-type: assignment
+type: graded_discussion
 week: 1
 status: complete
 tags:
@@ -11,12 +11,12 @@ tags:
   - week-01
   - habits
 created: 2026-01-19T16:39:13-06:00
-modified: 2026-01-20T07:36:41-06:00
+modified: 2026-01-20T20:28:15-06:00
+canvas_type: discussion
 ---
+## Due
 
-# Assignment - Week 01: Design Two Weekly Habits
-
-**Due:** Sunday, February 1, 2026 @ 11:59 PM
+**Sunday, February 1, 2026 @ 11:59 PM**
 
 ## Overview
 
@@ -30,8 +30,7 @@ Submit to Canvas:
 
 For **each of your two habits**, provide:
 
-**Habit Statement** (fill in the blanks):
-> "I will [SPECIFIC ACTION] for [TIME/AMOUNT] [WHEN/HOW OFTEN]."
+**Habit Statement** (fill in the blanks): _"I will [SPECIFIC ACTION] for [TIME/AMOUNT] [WHEN/HOW OFTEN]."_
 
 **Skill Area:** (Production, Creative, or Technical)
 

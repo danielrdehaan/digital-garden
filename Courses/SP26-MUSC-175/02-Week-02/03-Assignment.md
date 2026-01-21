@@ -12,12 +12,13 @@ tags:
   - habits
   - refinement
 created: 2026-01-19T16:39:14-06:00
-modified: 2026-01-20T16:00:00-06:00
+modified: 2026-01-20T17:35:37-06:00
+canvas_type: discussion
 ---
 
-# Assignment - Week 02: Habit Refinement
+## Due
 
-**Due:** Sunday, February 8, 2026 @ 11:59 PM
+**Sunday, February 8, 2026 @ 11:59 PM**
 
 ## Overview
 

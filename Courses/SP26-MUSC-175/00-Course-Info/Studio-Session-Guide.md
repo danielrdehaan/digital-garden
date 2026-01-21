@@ -21,8 +21,8 @@ Sessions alternate between **solo** and **group** formats:
 | Week | Session Type |
 |------|--------------|
 | 1 | Solo |
-| 3 | Group |
-| 5 | Solo |
+| 3 | Solo |
+| 5 | Group |
 | 7 | Group |
 | 9 | Solo |
 | 11 | Group |
@@ -30,7 +30,7 @@ Sessions alternate between **solo** and **group** formats:
 
 ---
 
-## Solo Studio Sessions (Weeks 1, 5, 9, 13)
+## Solo Studio Sessions (Weeks 1, 3, 9, 13)
 
 ### Purpose
 
@@ -64,7 +64,7 @@ Sessions alternate between **solo** and **group** formats:
 
 ---
 
-## Group Studio Sessions (Weeks 3, 7, 11)
+## Group Studio Sessions (Weeks 5, 7, 11)
 
 ### Purpose
 

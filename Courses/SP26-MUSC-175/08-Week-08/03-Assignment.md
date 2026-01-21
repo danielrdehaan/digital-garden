@@ -13,6 +13,7 @@ tags:
   - progress-update
 created: 2026-01-19T16:39:18-06:00
 modified: 2026-01-20T16:00:00-06:00
+canvas_type: discussion
 ---
 
 # Assignment - Week 08: Habit Progress Update

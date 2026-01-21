@@ -9,12 +9,10 @@ tags:
   - "#topic/daw/reaper"
   - "#course/musc-174"
 created: 2026-01-19T15:58:15-06:00
-modified: 2026-01-19T20:57:51.552346
+modified: 2026-01-20T22:38:19-06:00
 ---
 
-# Good Digital Hygiene
-
-# Getting Organized
+## Getting Organized
 
 Creators often get lost in a sea of files named things like, `My Cool Beat`, `My Cool Beat Final` ,`My Cool Beat Final Final` , `My Cool Beat Final Final Final`, so it can be really helpful to develop good file naming practice. Clear file names combined with logical folder structures and a healthy backup system can be the difference between success and failure.
 
@@ -93,7 +91,7 @@ Once I am inside either the `Projects` or `Program Files/Program Name` folder Iâ
 
 ## Backup Systems
 
-[https://giphy.com/embed/3oKIPs1EVbbNZYq7EA](https://giphy.com/embed/3oKIPs1EVbbNZYq7EA)
+![](https://media.giphy.com/media/3oKIPs1EVbbNZYq7EA/giphy.gif)
 
 Something **will** happen to your computer. Let me say that again: **SOMETHING WILL HAPPEN TO YOUR COMPUTER!!!** So youâ€™ll always want to make sure that all of your files are saved in at least two locations: on your computer and in the cloud.
 

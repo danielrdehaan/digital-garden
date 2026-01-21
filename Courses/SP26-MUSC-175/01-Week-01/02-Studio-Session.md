@@ -1,5 +1,5 @@
 ---
-title: Studio Session - Week 01
+title: Studio Session - Week 01 (Solo)
 date: 2026-01-28
 time: 14:00-15:20
 location: in-person
@@ -11,10 +11,8 @@ tags:
   - studio
   - week-01
 created: 2026-01-19T16:33:21-06:00
-modified: 2026-01-20T15:39:32-06:00
+modified: 2026-01-20T21:10:01-06:00
 ---
-
-# Studio Session - Week 01 (Solo)
 
 ## Purpose
 

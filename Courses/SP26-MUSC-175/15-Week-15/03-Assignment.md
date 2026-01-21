@@ -15,6 +15,7 @@ tags:
   - submission
 created: 2026-01-19T16:39:22-06:00
 modified: 2026-01-19T16:39:22-06:00
+canvas_type: discussion
 ---
 
 # Assignment - Week 15: Final Project Submission

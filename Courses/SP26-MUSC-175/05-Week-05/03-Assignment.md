@@ -1,27 +1,28 @@
 ---
-title: Assignment - Week 03
-due_date: 2026-02-15
+title: Assignment - Week 05
+due_date: 2026-03-01
 time: 23:59
 location: online
 type: assignment
-week: 3
+week: 5
 status: draft
 tags:
   - assignment
-  - week-03
+  - week-05
   - habits
   - progress-update
-created: 2026-01-19T16:39:14-06:00
+created: 2026-01-19T16:39:16-06:00
 modified: 2026-01-20T16:00:00-06:00
+canvas_type: discussion
 ---
 
-# Assignment - Week 03: Habit Progress Update
+# Assignment - Week 05: Habit Progress Update
 
-**Due:** Sunday, February 15, 2026 @ 11:59 PM
+**Due:** Sunday, March 1, 2026 @ 11:59 PM
 
 ## Overview
 
-Your first week of official habit practice! Document your progress and share what you're learning.
+Continue documenting your habit practice. This week's lecture covered mixing through imitation—consider how studying professional mixes might enhance your habit practice.
 
 ## Deliverables
 
@@ -49,32 +50,10 @@ For **each of your two habits**, provide:
 
 **5. Evidence**
 - Screenshots, audio clips, or descriptions of your work
-- This builds your Final Project portfolio!
 
-### Weekly Template
+### Optional Bonus
 
-```markdown
-## Habit 1: [Name]
-
-**Completion:** [X/X planned sessions]
-
-**What I Did:**
-- [Detailed description]
-
-**What I Learned:**
-- [Insights]
-
-**Challenges:**
-- [What was difficult and how you addressed it]
-
-**Evidence:** [Link/attachment/description]
-
----
-
-## Habit 2: [Name]
-
-[Same format]
-```
+If relevant to your habits, share how you applied this week's lecture topic (mixing through imitation) to your practice.
 
 ## Rubric
 
@@ -83,10 +62,6 @@ For **each of your two habits**, provide:
 | **Completion** | Completed most/all planned sessions | Completed majority | Completed some | Few or none |
 | **Reflection** | Thoughtful insights, honest about challenges | Good reflection | Basic reflection | Minimal |
 | **Evidence** | Clear documentation of progress | Adequate evidence | Some evidence | Little/none |
-
-## Remember
-
-The goal is consistent practice and honest reflection, not perfection. If you struggled this week, that's valuable information—share it!
 
 ## Resources
 
