@@ -1,12 +1,10 @@
 ---
-course: SP26-MUSC-601
-week: 3
-title: Introduction to FMOD
-date:
-location: In-Person
-status: pending
-created: 2026-01-19T14:57:01-06:00
-modified: 2026-01-19T14:57:01-06:00
+canvas_title: "Week 03: Introduction to FMOD"
+canvas_sync: true
+canvas_publish: true
+canvas_type: page
+created: 2026-01-21T14:34:43-06:00
+modified: 2026-01-21T14:34:43-06:00
 ---
 
 # Week 03: Introduction to FMOD
@@ -17,6 +15,6 @@ modified: 2026-01-19T14:57:01-06:00
 2. Create an account
 3. Download FMOD Studio
 
-## Learning Resources
+## Resources
 
 - [FMOD Tutorial Playlist](https://youtube.com/playlist?list=PLp4vT3ssm5SUgEJpDeA0Nb-1BKGxnDu2m&si=s2PT6RA18cmCc_pl)

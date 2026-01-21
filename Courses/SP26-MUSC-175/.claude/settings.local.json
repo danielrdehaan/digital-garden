@@ -72,7 +72,13 @@
       "Bash(__NEW_LINE_c6fc9d909e72c3eb__ echo -e \"\\\\nWeek 4 \\(Even - should be Feedback\\):\")",
       "Bash(__NEW_LINE_c6fc9d909e72c3eb__ echo -e \"\\\\nWeek 5 \\(Odd - should be Studio Solo\\):\")",
       "Bash(do for file in /Users/danielrdehaan/Obsidian/DRD_Vault/Website/Digital Garden/Courses/SP26-MUSC-175/$week-Week-$week/*.md)",
-      "Bash(do if grep -q \"Digital Garden/Knowledge Database\" \"$file\")"
+      "Bash(do if grep -q \"Digital Garden/Knowledge Database\" \"$file\")",
+      "Bash(npx tsc:*)",
+      "WebFetch(domain:community.canvaslms.com)",
+      "WebFetch(domain:community.instructure.com)",
+      "Bash(xargs basename:*)",
+      "Bash(xargs:*)",
+      "Bash(textutil:*)"
     ]
   }
 }

@@ -5,7 +5,7 @@ status: active
 tags:
   - "#type/assignment"
 created: 2026-01-19T15:58:16-06:00
-modified: 2026-01-19T20:57:51.506291
+modified: 2026-01-21T12:28:13-06:00
 ---
 
 # Assignment - Design Two Weekly Habits
@@ -45,12 +45,15 @@ modified: 2026-01-19T20:57:51.506291
 ---
 
 > [!note]
-> <img src="https://www.notion.so/icons/book-closed_gray.svg" alt="https://www.notion.so/icons/book-closed_gray.svg" width="40px" /> **What you need to submit:**
+> **What you need to submit:**
 > Declare you two goals in a discussion post below. Following a similar format to the example above, your posting should clearly state…
+> 
 > • **Goals:** Your two goals;
-> • **System(s):**The system(s) you will rely upon to achieve your goals;
+> • **System(s):** The system(s) you will rely upon to achieve your goals;
 > • **Documentation:** How you will document your work;
-> • **Track & Evaluate:** And, how you will track your progress and evaluate your success.
+> • **Track & Evaluate:** And, how you will track your progress and evaluate your success. 
+> 
+> **Be sure to review all the materials related to this assignment before you click submit.**
 
 # Some other helpful resources:
 

@@ -1,15 +1,13 @@
 ---
-course: SP26-MUSC-601
-week: 6
-title: Music Systems and Control in FMOD
-date:
-location: In-Person
-status: pending
-created: 2026-01-19T14:57:02-06:00
-modified: 2026-01-19T14:57:02-06:00
+canvas_title: "Week 10: Music Systems in FMOD"
+canvas_sync: true
+canvas_publish: true
+canvas_type: page
+created: 2026-01-21T14:35:14-06:00
+modified: 2026-01-21T14:35:14-06:00
 ---
 
-# Week 06: Music Systems and Control in FMOD
+# Week 10: Music Systems in FMOD
 
 ## Resources
 

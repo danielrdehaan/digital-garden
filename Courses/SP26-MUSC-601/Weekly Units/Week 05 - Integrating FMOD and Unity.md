@@ -1,0 +1,19 @@
+---
+canvas_title: "Week 05: Integrating FMOD & Unity"
+canvas_sync: true
+canvas_publish: true
+canvas_type: page
+created: 2026-01-21T14:34:45-06:00
+modified: 2026-01-21T14:34:45-06:00
+---
+
+# Week 05: Integrating FMOD & Unity
+
+## Downloads
+
+- [Unity Survival Shooter Project](https://github.com/danielrdehaan/Unity-SS.git)
+
+## Resources
+
+- [[FMOD Survival Shooter Unity Integration]]
+- [[Unity+FMOD - Survival Game|SS Unity Project]]
