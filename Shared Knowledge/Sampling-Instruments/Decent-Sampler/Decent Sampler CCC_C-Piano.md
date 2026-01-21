@@ -7,6 +7,7 @@ tags:
   - "#topic/sampling/decent-sampler"
 created: 2026-01-19T15:58:16-06:00
 modified: 2026-01-19T20:57:51.538183
+canvas_page_url: decent-sampler-ccc-c-piano
 ---
 
 # Decent Sampler: CCC_C-Piano

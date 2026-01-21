@@ -10,6 +10,7 @@ tags:
   - "#technique/scripting"
 created: 2026-01-19T15:58:15-06:00
 modified: 2026-01-19T20:57:51.516866
+canvas_page_url: basic-audio-scripting-in-unity-with-c-number
 ---
 
 # Basic Audio Scripting in Unity with C#

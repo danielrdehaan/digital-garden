@@ -7,6 +7,7 @@ tags:
   - "#topic/audio-engineering/mastering"
 created: 2026-01-19T15:58:15-06:00
 modified: 2026-01-19T20:57:51.599449
+canvas_page_url: mastering-overview
 ---
 
 # Mastering Overview

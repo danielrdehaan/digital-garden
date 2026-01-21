@@ -9,6 +9,7 @@ tags:
   - "#technique/scripting"
 created: 2026-01-19T15:58:16-06:00
 modified: 2026-01-19T20:57:51.544680
+canvas_page_url: fmod-survival-shooter-unity-integration
 ---
 
 # FMOD: Survival Shooter Unity Integration
