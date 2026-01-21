@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://valhalladsp.com/shop/reverb/valhalla-supermassive/
-Image: https://valhalladsp.com/wp-content/uploads/2020/09/Supermassive_product_page.mp4
+image: https://valhalladsp.com/wp-content/uploads/2020/05/Supermassive_Aura_1300x540.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

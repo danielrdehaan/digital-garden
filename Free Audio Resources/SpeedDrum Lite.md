@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.apisoniclabs.com/freeware.html#speedrum-lite
-Image: Untitled 301.png
+image: https://www.apisoniclabs.com/images/speedrum-lite.png
 Date Added: 2022-11-15 11:13:00
 Tags:
   - instrument

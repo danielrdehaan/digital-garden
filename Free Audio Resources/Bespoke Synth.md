@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.bespokesynth.com/
-Image: bespoke_patching.gif
+image: https://www.bespokesynth.com/img/screenshot.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer
@@ -9,7 +9,7 @@ Tags:
 🌟: false
 Last Edited: 2022-12-09 14:00:00
 created: 2026-01-20T11:13:12-06:00
-modified: 2026-01-20T11:13:12-06:00
+modified: 2026-01-21T09:35:02-06:00
 ---
 
 ## Introducing: Bespoke!

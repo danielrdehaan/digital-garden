@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://projectsam.com/libraries/the-free-orchestra/
-Image: Packshot-With-Reflection-The-Free-Orchestra.jpg
+image: https://projectsam.com/img/social/facebook.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - orchestral

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://shirobon.bandcamp.com/album/ps1-reverb-impulse-responses
-Image: https://f4.bcbits.com/img/a1913432842_5.jpg
+image: https://f4.bcbits.com/img/a1913432842_5.jpg
 Date Added: 2025-11-10 20:16:00
 Tags:
   - audio-effect

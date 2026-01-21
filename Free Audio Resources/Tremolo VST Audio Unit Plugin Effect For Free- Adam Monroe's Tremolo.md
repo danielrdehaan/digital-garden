@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://adammonroemusic.com/free-tremolo-vst/tremolo-vst-free.html
-Image: Untitled 321.png
+image: https://adammonroemusic.com/wp-content/uploads/2019/06/tremolo-vst.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://babyaud.io/freebies
-Image: https://images.squarespace-cdn.com/content/v1/561e2985e4b08862a3496b82/c5f9c6c5-e438-449e-acf4-f6613c8bf19c/Baby+Audio+Magic+Dice+Front+Page.jpg?format=750w
+image: https://images.squarespace-cdn.com/content/v1/561e2985e4b08862a3496b82/c5f9c6c5-e438-449e-acf4-f6613c8bf19c/Baby+Audio+Magic+Dice+Front+Page.jpg?format=750w
 Date Added: 2022-12-18 12:56:00
 Tags:
   - audio-effect

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.pianobook.co.uk/
-Image: Screen_Shot_2021-09-15_at_5.56.32_PM.png
+image: https://www.pianobook.co.uk/wp-content/uploads/2025/08/TCHC_R_P-ID_225864_Hero-1.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - orchestral

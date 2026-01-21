@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.soniccouture.com/en/products/18-exclusive-free-content/p170-tape-choir/
-Image: Untitled 289.png
+image: https://www.soniccouture.com/images/library/img-20180620120259.jpg
 Date Added: 2022-10-26 22:20:00
 Tags:
   - kontakt

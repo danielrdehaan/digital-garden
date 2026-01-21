@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://thecrowhillcompany.com/bridge-guitar/
-Image: https://thecrowhillcompany.com/wp-content/uploads/2025/07/TCHC_T_OgW6w_VTBRGT_Blog_Featured_Free_BG.webp
+image: https://thecrowhillcompany.com/wp-content/uploads/2025/07/TCHC_T_OgW6w_VTBRGT_Blog_Featured_Free_BG.webp
 Date Added: 2025-11-09 08:00:00
 Tags:
   - instrument

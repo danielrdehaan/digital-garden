@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.kvraudio.com/product/giant-verb-by-digital-systemic-emulations
-Image: Untitled 282.png
+image: https://www.kvraudio.com/plugins/giant-verb/screenshot.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

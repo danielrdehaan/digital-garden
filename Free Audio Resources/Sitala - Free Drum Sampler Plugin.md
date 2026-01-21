@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://decomposer.de/sitala/
-Image: https://decomposer.de/videos/sitala-beta.mp4
+image: https://decomposer.de/videos/sitala-beta.mp4
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://sonosaurus.com/paulxstretch/
-Image: paulxstretch_screenshot.png
+image: https://sonosaurus.com/paulxstretch/paulxstretch_screenshot.png
 Date Added: 2022-05-05 07:59:00
 Tags:
   - audio-effect

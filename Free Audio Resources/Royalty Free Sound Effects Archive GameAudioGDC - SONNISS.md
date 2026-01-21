@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://sonniss.com/gameaudiogdc/
-Image: https://cdn.sonniss.com/storage/2025/03/Sonniss-Metaimage.png
+image: https://cdn.sonniss.com/storage/2025/03/Sonniss-Metaimage.png
 Date Added: 2025-11-09 11:10:00
 Tags:
   - sfx-library

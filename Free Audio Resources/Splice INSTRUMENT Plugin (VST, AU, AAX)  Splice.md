@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://splice.com/instrument?utm_source=google&utm_medium=cpc&utm_campaign=gs_ww-worldwide-en_ua_brand_labs_instruments_rto_multi_20251001_labs_x&utm_content=sounds&utm_term=splice%20instrument&campaignid=23047646390&adgroupid=186905776778&adid=776892781165&gad_source=1&gad_campaignid=23047646390&gbraid=0AAAAADjfFVHL3UIDFQeZWs2Pb_VXS6mLV&gclid=CjwKCAiAlMHIBhAcEiwAZhZBUmGUNrdUqq9yVbwVjwy7_gI0NiOhWfJl2LdX4Hs7xKweFs8n0BSvtRoCGYkQAvD_BwE
-Image: https://splice-res.cloudinary.com/image/upload/q_auto,f_auto,dpr_auto/v1760634493/app-assets/instrument/instrument-home-hero-image
+image: https://splice-res.cloudinary.com/image/upload/q_auto,f_auto,dpr_auto/v1760634493/app-assets/instrument/instrument-home-hero-image
 Date Added: 2025-11-09 08:05:00
 Tags:
   - instrument

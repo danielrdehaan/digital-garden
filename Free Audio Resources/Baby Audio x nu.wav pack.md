@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://babyaud.io/freebies
-Image: https://images.squarespace-cdn.com/content/v1/561e2985e4b08862a3496b82/f7d6bb04-be12-4c93-9b2f-7def6fc6507d/Baby+Audio+NuWav+Sample+Pack.jpg?format=750w
+image: https://images.squarespace-cdn.com/content/v1/561e2985e4b08862a3496b82/f7d6bb04-be12-4c93-9b2f-7def6fc6507d/Baby+Audio+NuWav+Sample+Pack.jpg?format=750w
 Date Added: 2022-12-18 12:59:00
 Tags:
   - sample-pack

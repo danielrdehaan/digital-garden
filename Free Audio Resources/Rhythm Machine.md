@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://thecrowhillcompany.com/rhythm-machine/
-Image: https://thecrowhillcompany.com/wp-content/uploads/2025/09/TCHC_T_Nr0ad_VTRYMC_Blog_Featured_Free_BG-v11.webp
+image: https://thecrowhillcompany.com/wp-content/uploads/2025/09/TCHC_T_Nr0ad_VTRYMC_Blog_Featured_Free_BG-v11.webp
 Date Added: 2025-11-09 08:00:00
 Tags:
   - instrument

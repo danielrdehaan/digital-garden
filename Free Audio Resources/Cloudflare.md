@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.patreon.com/posts/kabin-43454405
-Image: 1 3.png
+image: https://freevstplugins.net/wp-content/uploads/2021/02/Analog-Obsession-KABIN.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

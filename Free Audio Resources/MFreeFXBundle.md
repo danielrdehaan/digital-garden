@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.meldaproduction.com/MFreeFXBundle
-Image: https://www.meldaproduction.com/webtemp/imagecache/ab66a65ce0774569877e49911f02ecb7.640x360-exact.v1.jpg
+image: https://www.meldaproduction.com/webtemp/imagecache/ab66a65ce0774569877e49911f02ecb7.640x360-exact.v1.jpg
 Date Added: 2023-11-08 12:49:00
 Tags:
   - audio-effect

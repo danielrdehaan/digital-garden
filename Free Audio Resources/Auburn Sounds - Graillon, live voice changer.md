@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.auburnsounds.com/products/Graillon.html
-Image: graillon2.jpg
+image: https://www.auburnsounds.com/images/graillon.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

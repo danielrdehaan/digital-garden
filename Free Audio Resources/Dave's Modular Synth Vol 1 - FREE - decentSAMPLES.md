@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/daves-modular-synth-vol-1-free/
-Image: https://www.decentsamples.com/wp-content/uploads/2022/03/Daves-Modular-Vol-1-Cover-Art-Idea-1.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2022/03/Daves-Modular-Vol-1-Cover-Art-Idea-1.jpg
 Date Added: 2022-04-21 19:29:00
 Tags:
   - decent-sampler

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://research.kent.ac.uk/sonic-palimpsest/impulse-responses/?fbclid=IwAR0aE8dxseEegBqxiBicvRFf3xPUpE4uZH5wt7tUDBJrxZr7fAbFYzJ6Ofs
-Image: https://research.kent.ac.uk/sonic-palimpsest/wp-content/uploads/sites/2059/2020/11/dock3a-cropped-2.jpg
+image: https://research.kent.ac.uk/sonic-palimpsest/wp-content/uploads/sites/2059/2020/11/dock3a-cropped-2.jpg
 Date Added: 2025-11-09 11:03:00
 Tags:
   - audio-effect

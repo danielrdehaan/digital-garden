@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.native-instruments.com/en/specials/2022/soundwide-offer/
-Image: img-ce-soundwide-announcement-lto-landing-page-01-hero-logo-new-c2683563e4145aaf068a6bf6cdbaed71-d.jpg
+image: https://www.native-instruments.com/fileadmin/ni_media/producer/img-ce-soundwide-announcement-lto-landing-page-01-hero.jpg
 Date Added: 2022-04-21 15:17:00
 Tags:
   - synthesizer

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://slatedigital.com/heatwave/
-Image: https://slatedigital.com/wp-content/uploads/2023/11/04_Heatwave-standing-3qtr-left-1.png
+image: https://slatedigital.com/wp-content/uploads/2023/11/04_Heatwave-standing-3qtr-left-1.png
 Date Added: 2023-12-05 13:44:00
 Tags:
   - audio-effect

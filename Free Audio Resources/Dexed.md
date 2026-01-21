@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://asb2m10.github.io/dexed/
-Image: https://youtu.be/wSs1-020nNY
+image: https://www.audiopluginsforfree.com/wp-content/uploads/2015/02/dexed.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

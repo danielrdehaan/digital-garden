@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.audiothing.net/effects/filterjam/
-Image: Filterjam-GUI.jpg
+image: https://www.audiothing.net/wp-content/uploads/2017/01/filterjam-plugin.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

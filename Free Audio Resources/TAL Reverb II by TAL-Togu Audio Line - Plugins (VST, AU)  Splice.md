@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://splice.com/plugins/184-tal-reverb-ii-vst-au-by-tal-togu-audio-line
-Image: 184.jpg
+image: https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1392242138/production/plugin_descriptions/screenshot/184.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

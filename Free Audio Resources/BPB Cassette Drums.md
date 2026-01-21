@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://bedroomproducersblog.com/free-download/#cassette-drums
-Image: https://bedroomproducersblog.com/wp-content/uploads/2016/11/vst-drums.jpg
+image: https://bedroomproducersblog.com/wp-content/uploads/2016/11/vst-drums.jpg
 Date Added: 2022-12-19 22:01:00
 Tags:
   - instrument

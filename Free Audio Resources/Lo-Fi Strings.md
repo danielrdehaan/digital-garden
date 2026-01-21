@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://thecrowhillcompany.com/lofi-strings/
-Image: https://thecrowhillcompany.com/wp-content/uploads/2025/08/TCHC_T_8gKAZ_VTLFST_Blog_Featured_Free_BG.webp
+image: https://thecrowhillcompany.com/wp-content/uploads/2025/08/TCHC_T_8gKAZ_VTLFST_Blog_Featured_Free_BG.webp
 Date Added: 2025-11-09 07:58:00
 Tags:
   - instrument

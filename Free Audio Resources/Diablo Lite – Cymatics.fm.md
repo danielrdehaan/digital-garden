@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://cymatics.fm/pages/diablo-lite
-Image: https://cdn.shopify.com/s/files/1/0129/7698/0032/files/min-diablo-lite-min-v3.png?v=1609443733
+image: https://cdn.shopify.com/s/files/1/0129/7698/0032/files/min-diablo-lite-min-v3.png?v=1609443733
 Date Added: 2022-12-18 18:07:00
 Tags:
   - audio-effect

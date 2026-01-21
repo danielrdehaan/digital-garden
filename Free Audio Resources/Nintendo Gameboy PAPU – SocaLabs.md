@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://socalabs.com/synths/papu/
-Image: papu.png
+image: https://socalabs.com/wp-content/uploads/2022/06/Pasted-1.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

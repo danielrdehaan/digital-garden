@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.eventideaudio.com/plug-ins/pendulate/
-Image: https://cdn.eventideaudio.com/uploads/2016/05/Pendulate-Plugin-Thumb.jpg
+image: https://cdn.eventideaudio.com/uploads/2016/05/Pendulate-Plugin-Thumb.jpg
 Date Added: 2022-04-21 22:16:00
 Tags:
   - synthesizer

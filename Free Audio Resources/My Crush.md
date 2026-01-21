@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.deniseaudio.com/plugins/my-crush
-Image: https://assets-global.website-files.com/64e12f223df2a4e609434ce5/64f1f82af675358d75d930f7_My%20Crush.png
+image: https://assets-global.website-files.com/64e12f223df2a4e609434ce5/64f1f82af675358d75d930f7_My%20Crush.png
 Date Added: 2023-10-19 13:52:00
 Tags:
   - audio-effect

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.audacityteam.org/
-Image: https://www.sweetwater.com/sweetcare/media/2019/07/Audacity-Edit-Audio-hero.png
+image: https://www.sweetwater.com/sweetcare/media/2019/07/Audacity-Edit-Audio-hero.png
 Date Added: 2022-12-09 13:59:00
 Tags:
   - daw

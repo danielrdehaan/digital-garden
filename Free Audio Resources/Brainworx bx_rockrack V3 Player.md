@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.plugin-alliance.com/en/products/bx_rockrack_v3_player.html
-Image: bx_rockrackPlayer-01-c44815fc.jpg
+image: https://www.plugin-alliance.com/cdn/shop/files/productimage-300252.png?v=1756967524
 Date Added: 2022-04-21 15:03:00
 Tags:
   - amp

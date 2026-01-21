@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://impactsoundworks.com/product/cinematic-synthetic-drums/
-Image: https://impactsoundworks.com/wp-content/uploads/2012/12/Cinematic-Synthetic-Drums-Featured-Image.png
+image: https://impactsoundworks.com/wp-content/uploads/2012/12/Cinematic-Synthetic-Drums-Featured-Image.png
 Date Added: 2022-12-17 15:08:00
 Tags:
   - kontakt

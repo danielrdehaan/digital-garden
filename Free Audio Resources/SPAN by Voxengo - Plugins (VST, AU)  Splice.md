@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://splice.com/plugins/1022-span-vst-au-by-voxengo
-Image: 1022.jpg
+image: https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1392677324/production/plugin_descriptions/screenshot/1022.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - utility

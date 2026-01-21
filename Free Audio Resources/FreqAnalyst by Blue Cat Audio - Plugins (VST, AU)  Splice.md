@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://splice.com/plugins/1385-freqanalyst-vst-au-by-blue-cat-audio
-Image: 1385.jpg
+image: https://res.cloudinary.com/splice/image/upload/f_auto,q_auto,dpr_auto/w_auto/c_limit,w_450/v1421886836/production/plugin_descriptions/screenshot/1385.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - utility

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://bedroomproducersblog.com/free-download/#commodore-64
-Image: https://bedroomproducersblog.com/wp-content/uploads/2012/11/c64-sessions-deluxe-1.jpg
+image: https://bedroomproducersblog.com/wp-content/uploads/2012/11/c64-sessions-deluxe-1.jpg
 Date Added: 2022-12-19 22:11:00
 Tags:
   - instrument

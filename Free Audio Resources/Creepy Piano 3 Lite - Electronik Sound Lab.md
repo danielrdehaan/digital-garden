@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://electroniksoundlab.com/creepy-piano-3-lite/
-Image: https://electroniksoundlab.com/wp-content/uploads/2022/10/CREEPY-PIANO-3-LITE.jpg
+image: https://electroniksoundlab.com/wp-content/uploads/2022/10/CREEPY-PIANO-3-LITE.jpg
 Date Added: 2022-12-17 09:20:00
 Tags:
   - instrument

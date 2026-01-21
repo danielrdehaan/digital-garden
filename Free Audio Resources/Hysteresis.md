@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://glitchmachines.com/products/hysteresis/
-Image: Hysteresis_UI-compressor.jpg
+image: https://glitchmachines.com/wp-content/uploads/HYSTERESIS_UI-scaled.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

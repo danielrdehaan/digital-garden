@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-player/
-Image: img-welcome-hero-guitar-rig-6-player-product-page-01-hero-v2-8c04bb712c562230a837e56511c10f1d-d.jpg
+image: https://www.native-instruments.com/fileadmin/ni_media/productfinder/Packshots2023/Guitar-Rig-7-product-finder.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

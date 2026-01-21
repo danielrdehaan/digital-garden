@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.fullbucket.de/music/deputy.html
-Image: Untitled 287.png
+image: https://www.fullbucket.de/music/images/deputy.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

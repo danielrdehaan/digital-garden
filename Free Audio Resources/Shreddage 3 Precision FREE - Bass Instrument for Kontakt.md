@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://impactsoundworks.com/product/shreddage-3-precision-free/
-Image: https://impactsoundworks.com/wp-content/uploads/2023/08/S3-Precision-Free-KP-Product-Shot.png
+image: https://impactsoundworks.com/wp-content/uploads/2023/08/S3-Precision-Free-KP-Product-Shot.png
 Date Added: 2022-12-17 15:09:00
 Tags:
   - kontakt

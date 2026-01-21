@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.discodsp.com/obxd/
-Image: obxd20_ilkka_rosma.jpg
+image: https://www.discodsp.com/img/obxd3.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

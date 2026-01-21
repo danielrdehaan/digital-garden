@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://audec-music.com/spread-delay/#:~:text=Spread%20Delay%20is%20a%20ping,to%20the%20left%20and%20right.&text=The%20circle%20in%20the%20middle,to%20the%20left%20and%20right.
-Image: SpreadDelay.png
+image: https://audec-music.com/wp-content/uploads/2019/10/SpreadDelay.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

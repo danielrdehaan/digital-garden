@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://neovst.com/piano-one/
-Image: Piano1.png
+image: https://neovst.com/wp-content/uploads/2024/01/piano-one-featured.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

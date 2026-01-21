@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/stella-free-edition-by-venus-theory/
-Image: https://www.decentsamples.com/wp-content/uploads/2022/03/VT-Stella-Artwork.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2022/03/VT-Stella-Artwork.jpg
 Date Added: 2022-04-21 19:30:00
 Tags:
   - decent-sampler

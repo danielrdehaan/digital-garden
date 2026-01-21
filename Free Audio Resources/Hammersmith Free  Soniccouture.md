@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.soniccouture.com/en/products/p322-hammersmith-free/
-Image: Untitled 331.png
+image: https://www.soniccouture.com/images/library/img-20200818181116.jpg
 Date Added: 2022-10-26 22:18:00
 Tags:
   - kontakt

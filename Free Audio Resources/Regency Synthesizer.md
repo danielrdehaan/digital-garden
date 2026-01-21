@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://nakst.gitlab.io/regency/
-Image: https://nakst.gitlab.io/regency/primary.jpg
+image: https://nakst.gitlab.io/regency/primary.jpg
 Date Added: 2024-03-01 20:04:00
 Tags:
   - synthesizer

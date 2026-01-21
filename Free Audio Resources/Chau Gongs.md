@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: http://www.alanvista.com/chau-gongs/
-Image: Untitled 2.jpeg
+image: https://www.alanvista.com/wp-content/uploads/2020/05/chau-gongs.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

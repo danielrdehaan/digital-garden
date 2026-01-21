@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.ohmforce.com/frohmage
-Image: 5f87ec6390080108a1f30344_frohmage.jpg
+image: https://ohmforce.com/cdn/shop/files/frohmager_featured_product_image_v1.webp?v=1745933927
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

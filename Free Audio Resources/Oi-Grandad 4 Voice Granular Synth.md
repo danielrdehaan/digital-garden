@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://github.com/publicsamples/Oi-Grandad
-Image: https://github.com/publicsamples/Oi-Grandad/raw/main/oi%20grandad/oigrandad.png?raw=true
+image: https://github.com/publicsamples/Oi-Grandad/raw/main/oi%20grandad/oigrandad.png?raw=true
 Date Added: 2022-12-09 13:17:00
 Tags:
   - audio-effect

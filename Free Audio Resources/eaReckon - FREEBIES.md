@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.eareckon.com/en/products/freebies.html
-Image: FR87-EN.jpg
+image: https://www.eareckon.com/images/FR87-EN.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

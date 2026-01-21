@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.eventideaudio.com/products/third-party-plug-ins/chaotic-generator/pendulate
-Image: Pendulate-feature.jpg
+image: https://cdn.eventideaudio.com/uploads/2023/08/PLTM-Pendulate.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

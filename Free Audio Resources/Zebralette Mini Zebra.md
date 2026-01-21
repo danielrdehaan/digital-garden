@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://u-he.com/products/zebralette/
-Image: uhe-zebralette-screenshot-fullui-1150x619.jpg
+image: https://u-he.com/products/zebralette/assets/images/uhe-zebralette-splash-photo-studio-setup-1100x350.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.pluginboutique.com/product/2-Effects/10-Delay/9170-Deelay?a_aid=5faa79ec85224
-Image: https://banners.pluginboutique.com/4gmpfumv6kveis8ok57m9adkv4ky
+image: https://banners.pluginboutique.com/4gmpfumv6kveis8ok57m9adkv4ky
 Date Added: 2022-12-09 13:15:00
 Tags:
   - audio-effect

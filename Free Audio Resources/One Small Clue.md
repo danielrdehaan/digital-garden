@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.onesmallclue.com/index.html
-Image: Untitled 314.png
+image: https://www.onesmallclue.com/images/poise.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

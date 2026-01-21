@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.patreon.com/posts/chopa-34306232
-Image: 1 4.png
+image: https://freevstplugins.net/wp-content/uploads/2021/01/AO-Chopa_3.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

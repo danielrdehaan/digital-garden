@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://michaelwillis.github.io/dragonfly-reverb/
-Image: collage.png
+image: https://michaelwillis.github.io/dragonfly-reverb/images/collage.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

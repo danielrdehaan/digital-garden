@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://impactsoundworks.com/product/shreddage-3-stratus-free/
-Image: https://impactsoundworks.com/wp-content/uploads/2023/07/S3StratusFREE-Featured-Image.png
+image: https://impactsoundworks.com/wp-content/uploads/2023/07/S3StratusFREE-Featured-Image.png
 Date Added: 2022-12-17 15:10:00
 Tags:
   - kontakt

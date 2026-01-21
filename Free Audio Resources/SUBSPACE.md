@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.zynaptiq.com/subspace/
-Image: Zynaptiq_SUBSPACE_Screenshot_v101.png
+image: https://www.zynaptiq.com/wp-content/uploads/2018/05/Zynaptiq_SUBSPACE_Screenshot_v101.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - reverb

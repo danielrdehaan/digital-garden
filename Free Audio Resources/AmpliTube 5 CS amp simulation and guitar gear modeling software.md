@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.ikmultimedia.com/products/amplitube5cs/
-Image: at5_cs_macbook2x.jpg
+image: https://www.ikmultimedia.com/products/amplitube5cs/main-banner_5.10.4/regular.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - amp

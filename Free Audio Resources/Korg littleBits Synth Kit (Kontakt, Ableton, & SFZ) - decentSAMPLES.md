@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/littlebits-synth-kit/
-Image: https://www.decentsamples.com/wp-content/uploads/2018/09/littleBits-product-image.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2018/09/littleBits-product-image.jpg
 Date Added: 2022-04-21 17:06:00
 Tags:
   - decent-sampler

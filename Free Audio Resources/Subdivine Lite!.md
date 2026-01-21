@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://diginoiz.com/series/free-vst-instrument-subdivine-lite/
-Image: Diginoiz_-_Subdivine_Lite_Cover.jpg
+image: https://diginoiz.com/wp-content/uploads/2020/08/Diginoiz_-_Subdivine_Lite_Cover.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

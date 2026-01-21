@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.fullbucket.de/music/scrooo.html
-Image: Untitled 290.png
+image: https://www.fullbucket.de/music/images/scrooo.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

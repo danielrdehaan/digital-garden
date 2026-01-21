@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.caelumaudio.com/CaelumAudio/?Page=FluxMini
-Image: 9Fzvl3E.png
+image: https://i.imgur.com/nLqvceX.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

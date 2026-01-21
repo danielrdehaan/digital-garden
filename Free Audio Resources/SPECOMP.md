@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.patreon.com/posts/specomp-51285294
-Image: 1 2.png
+image: https://freevstplugins.net/wp-content/uploads/2021/06/Analog-Obsession-SPECOMP.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

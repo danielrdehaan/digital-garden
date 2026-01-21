@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://splice.com/plugins/24164-loudmax-vst-au-by-thomas-mundt
-Image: 24164.jpg
+image: https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1443718463/production/plugin_descriptions/screenshot/24164.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - dynamics

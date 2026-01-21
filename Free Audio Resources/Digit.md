@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: http://www.extentofthejam.com/
-Image: Untitled 306.png
+image: https://www.extentofthejam.com/images/digit.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

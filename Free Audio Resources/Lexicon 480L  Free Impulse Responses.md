@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://grantnelson.co/article/1/lexicon-480l-free-impulse-responses
-Image: https://api.grantnelson.co/img/articles/1.jpg
+image: https://api.grantnelson.co/img/articles/1.jpg
 Date Added: 2025-11-09 11:08:00
 Tags:
   - audio-effect

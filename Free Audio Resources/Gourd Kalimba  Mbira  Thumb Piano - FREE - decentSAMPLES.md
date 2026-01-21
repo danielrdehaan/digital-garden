@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/gourd-kalimba-mbira-thumb-piano-kontakt/
-Image: https://www.decentsamples.com/wp-content/uploads/2018/10/Gourd-Kalimba-Product-Art-Idea-4.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2018/10/Gourd-Kalimba-Product-Art-Idea-4.jpg
 Date Added: 2022-04-21 17:09:00
 Tags:
   - decent-sampler

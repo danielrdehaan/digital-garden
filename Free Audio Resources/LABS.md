@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://labs.spitfireaudio.com/#type=&search=&new=true
-Image: Untitled 320.png
+image: https://images.ctfassets.net/g7eq1prqo1vw/3MGvqTxHTgM5EtZegZ3taF/97ca318200d853315f3a27920a8edfc3/LABS-android-chrome-512x512.png?h=250
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

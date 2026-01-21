@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://nusofting.com/plugins/sinnah/
-Image: sinnah_1.2.1.png
+image: https://nusofting.com/images/sinnah.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

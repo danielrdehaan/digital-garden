@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/
-Image: img-welcome-hero-komplete-13-start-product-page-01-welcome-screen-53f736d9b62e90b7f86318209855d911-d.jpg
+image: https://www.native-instruments.com/fileadmin/ni_media/productfinder/Packshots2024/Komplete-Start-2024-08.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - orchestral

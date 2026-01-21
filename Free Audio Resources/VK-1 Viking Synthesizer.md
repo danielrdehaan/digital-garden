@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://blamsoft.com/vst/vk-1-viking-synthesizer/
-Image: https://blamsoft.com/wp-content/uploads/2017/11/VK-1-VST-Mirror-Front.png
+image: https://blamsoft.com/wp-content/uploads/2017/11/VK-1-VST-Mirror-Front.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://electroniksoundlab.com/atmos-3-lite/
-Image: https://electroniksoundlab.com/wp-content/uploads/2022/10/ATMOS-3-LITE-YT.jpg
+image: https://electroniksoundlab.com/wp-content/uploads/2022/10/ATMOS-3-LITE-YT.jpg
 Date Added: 2022-12-17 09:18:00
 Tags:
   - instrument

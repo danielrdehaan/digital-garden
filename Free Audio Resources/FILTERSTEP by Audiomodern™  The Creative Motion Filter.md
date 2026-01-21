@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://audiomodern.com/shop/plugins/filterstep/
-Image: Filterstep_Product_Thumbnail_500x500_2021.jpg
+image: https://audiomodern.com/wp-content/uploads/2021/09/Filterstep_Product_Thumbnail_500x500_2021.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

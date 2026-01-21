@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.fullbucket.de/music/fbvc.html
-Image: Untitled 302.png
+image: https://www.fullbucket.de/music/images/fbvc.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

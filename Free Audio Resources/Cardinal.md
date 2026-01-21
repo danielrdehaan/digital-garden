@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://cardinal.kx.studio/
-Image: https://cardinal.kx.studio/images/pic01.jpg
+image: https://cardinal.kx.studio/images/pic01.jpg
 Date Added: 2023-12-05 16:47:00
 Tags:
   - audio-effect

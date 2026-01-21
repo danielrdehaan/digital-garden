@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://ryukau.github.io/VSTPlugins/manual/LightPadSynth/LightPadSynth_en.html
-Image: lightpadsynth.png
+image: https://ryukau.github.io/VSTPlugins/manual/LightPadSynth/LightPadSynth_en/img/LightPadSynth.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

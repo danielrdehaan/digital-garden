@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://valhalladsp.com/shop/delay/valhalla-freq-echo/
-Image: ValhallaFreqEcho-1-960x413.jpg
+image: https://val-media-offload.s3.amazonaws.com/wp-content/uploads/2020/06/08074514/freq-echo_1300x540.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

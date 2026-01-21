@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://wavearts.com/products/plugins/tube-saturator-vintage/
-Image: TubeSaturator-580x236.jpg
+image: https://s3.us-east-1.amazonaws.com/wavearts-cms/products/_1200x630_crop_center-center_82_none/TubeSaturator.jpg?mtime=1746808410
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

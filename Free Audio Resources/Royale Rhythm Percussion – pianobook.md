@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.pianobook.co.uk/packs/royale-rhythm-percussion/
-Image: Online-Symbol-v2-550.jpg
+image: https://www.pianobook.co.uk/wp-content/uploads/2022/04/RR-Background-3B-1024x473.jpg
 Date Added: 2022-04-21 21:42:00
 Tags:
   - decent-sampler

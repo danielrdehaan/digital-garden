@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.audioimperia.com/product/glade/
-Image: https://www.audioimperia.com/wp-content/uploads/2025/10/Glade-Designer-Interface-Slide-1-min.png
+image: https://www.audioimperia.com/wp-content/uploads/2025/10/Glade-Designer-Interface-Slide-1-min.png
 Date Added: 2025-11-11 06:54:00
 Tags:
   - kontakt

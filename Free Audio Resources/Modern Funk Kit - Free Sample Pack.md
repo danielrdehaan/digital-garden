@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.drum-drops.com/products/modern-funk-kit?variant=33579355209860
-Image: https://www.drum-drops.com/cdn/shop/files/ModernFunk_grande.jpg?v=1689594059
+image: https://www.drum-drops.com/cdn/shop/files/ModernFunk_grande.jpg?v=1689594059
 Date Added: 2025-11-09 11:26:00
 Tags:
   - drums

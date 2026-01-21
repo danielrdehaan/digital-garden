@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://hy-plugins.com/product/hy-filter3/
-Image: Untitled 297.png
+image: https://hy-plugins.com/wp-content/uploads/2020/01/HY-Filter3-Free.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.soundparticles.com/products/air-music-edition
-Image: https://www.soundparticles.com/assets/img/air-music-edition/banner.png
+image: https://www.soundparticles.com/assets/img/air-music-edition/banner.png
 Date Added: 2025-11-11 06:38:00
 Tags:
   - audio-effect

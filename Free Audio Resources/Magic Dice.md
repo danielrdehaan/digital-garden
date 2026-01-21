@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://babyaud.io/freebies
-Image: https://images.squarespace-cdn.com/content/v1/561e2985e4b08862a3496b82/d9587725-7739-47dc-9b28-a0cb4f45099a/Baby+Audio+Magic+Dice+Best+Free+Reverb+Delay+Echo+VST+Plugin.png?format=2500w
+image: https://images.squarespace-cdn.com/content/v1/561e2985e4b08862a3496b82/d9587725-7739-47dc-9b28-a0cb4f45099a/Baby+Audio+Magic+Dice+Best+Free+Reverb+Delay+Echo+VST+Plugin.png?format=2500w
 Date Added: 2022-12-18 12:58:00
 Tags:
   - audio-effect

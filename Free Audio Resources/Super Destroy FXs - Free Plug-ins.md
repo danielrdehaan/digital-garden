@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: http://destroyfx.org/
-Image: geometer.png
+image: https://destroyfx.org/images/bufferoverride.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - experimental

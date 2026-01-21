@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://vcvrack.com/Rack
-Image: dark.webp
+image: https://vcvrack.com/img/products/rack2/rack2-1.png
 Date Added: 2022-04-21 21:48:00
 Tags:
   - audio-effect

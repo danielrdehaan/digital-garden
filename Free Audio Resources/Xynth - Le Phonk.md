@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.xynth.audio/plugins/lephonk
-Image: https://www.xynth.audio/plugins/lephonk/LePhonk3.webp
+image: https://www.xynth.audio/plugins/lephonk/LePhonk3.webp
 Date Added: 2022-12-16 11:00:00
 Tags:
   - audio-effect

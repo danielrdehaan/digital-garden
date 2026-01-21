@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/
-Image: bbcso_header-2-1920.jpg
+image: https://www.spitfireaudio.com/cdn/shop/files/smc0338_square_press.png?v=1756238525
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

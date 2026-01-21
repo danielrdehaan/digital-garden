@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.vsl.co.at/en/BBO_Map/BBO
-Image: EmbNav_BigBangOrchestra_b_en_720x300.jpg
+image: https://www.vsl.co.at/media/embednavigator/bigbangorchestra_b_en_720x300.jpg
 Date Added: 2022-05-05 07:56:00
 Tags:
   - orchestral

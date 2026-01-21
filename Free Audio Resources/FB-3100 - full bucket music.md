@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.fullbucket.de/music/fb3100.html
-Image: Untitled 330.png
+image: https://www.fullbucket.de/music/images/fb3100.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

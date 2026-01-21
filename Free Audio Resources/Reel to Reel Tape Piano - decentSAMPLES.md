@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/reel-to-reel-tape-piano/
-Image: https://www.decentsamples.com/wp-content/uploads/2022/03/Tape-Piano-Idea-1-Cover-Art.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2022/03/Tape-Piano-Idea-1-Cover-Art.jpg
 Date Added: 2022-04-21 19:30:00
 Tags:
   - decent-sampler

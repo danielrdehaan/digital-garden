@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://aberrantdsp.com/plugins/lofi-oddity/
-Image: https://aberrantdsp.com/wp-content/uploads/2023/11/LofiOdditySquare.png
+image: https://aberrantdsp.com/wp-content/uploads/2023/11/LofiOdditySquare.png
 Date Added: 2023-12-16 17:35:00
 Tags:
   - audio-effect

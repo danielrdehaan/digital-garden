@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.orchestraltools.com/berlin-free-orchestra
-Image: http://www.orchestraltools.com/products/collection/berlin-free-orchestra/images/3357/image-thumb__3357__seo_social_thumb/berlin-free-orchestra-og-1200x630.1454b1a5.jpg
+image: https://www.orchestraltools.com/products/collection/berlin-free-orchestra/images/3357/image-thumb__3357__seo_social_thumb/berlin-free-orchestra-og-1200x630.1454b1a5.jpg
 Date Added: 2025-11-09 08:34:00
 Tags:
   - instrument

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/korg-volca-keys-sample-kontakt-sfz-ableton/
-Image: https://www.decentsamples.com/wp-content/uploads/2018/10/Korg-Volca-Keys-Product-Art-Idea-1@05x.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2018/10/Korg-Volca-Keys-Product-Art-Idea-1@05x.jpg
 Date Added: 2022-04-21 17:01:00
 Tags:
   - decent-sampler

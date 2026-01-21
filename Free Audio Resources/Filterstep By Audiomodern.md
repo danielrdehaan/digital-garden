@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://pulse.audio/product/filterstep-by-audiomodern/
-Image: https://img.youtube.com/vi/nNux2v3RJhU/maxresdefault.jpg
+image: https://img.youtube.com/vi/nNux2v3RJhU/maxresdefault.jpg
 Date Added: 2025-11-03 07:38:00
 Tags:
   - audio-effect

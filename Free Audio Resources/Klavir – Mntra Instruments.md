@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.mntra.io/product/klavir/
-Image: https://i0.wp.com/www.mntra.io/wp-content/uploads/2022/12/221216_Klavir_Screenshots_Perform_3.png?fit=1200%2C689&ssl=1
+image: https://i0.wp.com/www.mntra.io/wp-content/uploads/2022/12/221216_Klavir_Screenshots_Perform_3.png?fit=1200%2C689&ssl=1
 Date Added: 2022-12-21 11:54:00
 Tags:
   - instrument

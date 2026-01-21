@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.toyboxaudio.com/pages/thump-one
-Image: https://cdn.shopify.com/s/files/1/0046/0839/3285/files/Banner_4_ce3a0ca7-8ad4-4350-9d68-b32a5393cc47.png?v=1692476195
+image: https://cdn.shopify.com/s/files/1/0046/0839/3285/files/Banner_4_ce3a0ca7-8ad4-4350-9d68-b32a5393cc47.png?v=1692476195
 Date Added: 2023-09-21 21:14:00
 Tags:
   - synthesizer

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.dskmusic.com/dsk-dynamic-guitars/
-Image: DSK-Dynamic-Guitars.jpg
+image: https://www.dskmusic.com/wp-content/uploads/2014/11/DSK-Dynamic-Guitars.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

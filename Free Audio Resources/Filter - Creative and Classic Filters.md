@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://lunacy.audio/products/filter/
-Image: https://lunacy.audio/wp-content/smush-webp/2025/07/Filter.jpg.webp
+image: https://lunacy.audio/wp-content/smush-webp/2025/07/Filter.jpg.webp
 Date Added: 2025-11-09 07:48:00
 Tags:
   - audio-effect

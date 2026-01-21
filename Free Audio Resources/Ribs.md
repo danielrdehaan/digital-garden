@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.kvraudio.com/forum/viewtopic.php?t=486995
-Image: Untitled 326.png
+image: https://hvoyaaudio.com/wp-content/uploads/2020/10/ribs.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - granular

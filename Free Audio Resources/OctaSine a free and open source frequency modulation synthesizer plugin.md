@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.octasine.com/
-Image: screenshot-1.png
+image: https://www.octasine.com/images/screenshot-1.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/bowed-nagoya-harp-taishogoto-%e5%a4%a7%e6%ad%a3%e7%90%b4-kontakt/
-Image: https://www.decentsamples.com/wp-content/uploads/2018/11/Bowed-Nagoya-Harp-Cover-Art-Idea-1.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2018/11/Bowed-Nagoya-Harp-Cover-Art-Idea-1.jpg
 Date Added: 2022-04-21 19:20:00
 Tags:
   - decent-sampler

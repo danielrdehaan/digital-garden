@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.musicalentropy.com/SpaceshipDelay.html
-Image: spaceship_delay.png
+image: https://www.musicalentropy.com/images/spaceship_delay.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

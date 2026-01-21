@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.bobperry-audio.com/shop/bob-perry-gate-2/
-Image: Screenshot-2021-01-02-at-12.11.30.png
+image: https://www.bobperry-audio.com/wp-content/uploads/BPA_BoxArt_gate2.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - compressor

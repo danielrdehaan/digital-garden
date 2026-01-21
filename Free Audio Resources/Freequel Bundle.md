@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://noiseengineering.us/products/the-freequel-bundle-sinc-vereor-virt-vereor-ruina
-Image: frequel-bundle-square_900x900.jpg
+image: https://cdn.shopify.com/s/files/1/0552/0923/0485/files/freequel_5eab10a1-50c9-401e-80a9-f7b26bb50d55.png?v=1720481442
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

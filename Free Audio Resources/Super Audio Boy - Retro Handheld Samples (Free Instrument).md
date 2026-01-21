@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://impactsoundworks.com/product/super-audio-boy/
-Image: image 10.png
+image: https://impactsoundworks.com/wp-content/uploads/2022/07/super-audio-boy.png
 Date Added: 2022-12-17 15:10:00
 Tags:
   - kontakt

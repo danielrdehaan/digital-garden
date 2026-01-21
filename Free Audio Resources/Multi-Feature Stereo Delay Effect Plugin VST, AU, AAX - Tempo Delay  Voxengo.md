@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.voxengo.com/product/tempodelay/
-Image: Untitled 311.png
+image: https://www.voxengo.com/cdn/img/71/71xx1ic0v.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

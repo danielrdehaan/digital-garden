@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.kvraudio.com/product/orilriver-by-denis-tihanov
-Image: Untitled 1.jpeg
+image: https://www.kvraudio.com/plugins/orilriver/screenshot.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

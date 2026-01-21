@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.echosoundworks.com/vinyl-guitar-2
-Image: https://static.wixstatic.com/media/81ef3c_6079ac7965504edf8d6008403ae97a2c~mv2.jpg/v1/fill/w_2500,h_1598,al_c/81ef3c_6079ac7965504edf8d6008403ae97a2c~mv2.jpg
+image: https://static.wixstatic.com/media/81ef3c_6079ac7965504edf8d6008403ae97a2c~mv2.jpg/v1/fill/w_2500,h_1598,al_c/81ef3c_6079ac7965504edf8d6008403ae97a2c~mv2.jpg
 Date Added: 2023-12-05 13:40:00
 Tags:
   - instrument

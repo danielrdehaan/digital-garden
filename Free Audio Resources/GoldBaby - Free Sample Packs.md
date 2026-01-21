@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.goldbaby.co.nz/freestuff.html
-Image: https://www.goldbaby.co.nz/ewExternalFiles/FreePage_SEO_1200x627.jpg
+image: https://www.goldbaby.co.nz/ewExternalFiles/FreePage_SEO_1200x627.jpg
 Date Added: 2025-11-09 11:22:00
 Tags:
   - sample-pack

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://tytel.org/helm/
-Image: helm_og_image_small.png
+image: https://tytel.org/static/images/helm_og_image_small.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

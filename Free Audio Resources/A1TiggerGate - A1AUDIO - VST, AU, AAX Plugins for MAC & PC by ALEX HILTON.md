@@ -1,14 +1,14 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://a1audio.alexhilton.net/a1triggergate
-Image: SCREENSHOT-A1TriggerGate-01-400x225.936c63b1.png
+image: https://a1audio.alexhilton.net/assets/SCREENSHOT-A1TriggerGate-01-400x225-29d26845.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument
 🌟: false
 Last Edited: 2022-04-21 16:46:00
 created: 2026-01-20T11:13:11-06:00
-modified: 2026-01-20T11:13:11-06:00
+modified: 2026-01-21T09:28:14-06:00
 ---
 
 **Introduction**

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.plugin-alliance.com/en/products/bx_cleansweep_v2.html
-Image: bx_cleansweep-V2-hero-2019.jpg
+image: https://www.plugin-alliance.com/cdn/shop/files/productimage-300036.png?v=1756967088
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

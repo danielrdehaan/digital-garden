@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: http://www.blaukraut.info/
-Image: charlatan2.png
+image: https://blaukraut.info/charlatan/charlatan2.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

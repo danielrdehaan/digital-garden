@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://syrinxsamples.com/membranes
-Image: https://thumb.tildacdn.com/tild3138-6239-4862-b832-346631363361/-/resize/760x/-/format/webp/SSMembranes_-_Drumma.png
+image: https://thumb.tildacdn.com/tild3138-6239-4862-b832-346631363361/-/resize/760x/-/format/webp/SSMembranes_-_Drumma.png
 Date Added: 2022-12-17 15:26:00
 Tags:
   - kontakt

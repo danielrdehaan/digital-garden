@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.genuinesoundware.com/?a=showproduct&b=47
-Image: VariSpeed.png
+image: https://www.genuinesoundware.com/Products/VariSpeed/img/VariSpeed.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

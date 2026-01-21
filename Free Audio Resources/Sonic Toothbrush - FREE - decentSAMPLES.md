@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/sonic-toothbrush-free/
-Image: https://www.decentsamples.com/wp-content/uploads/2021/11/Sonic-Toothbrush-Cover-Art.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2021/11/Sonic-Toothbrush-Cover-Art.jpg
 Date Added: 2022-04-21 19:29:00
 Tags:
   - decent-sampler

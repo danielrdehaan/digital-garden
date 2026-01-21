@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://lunacy.audio/products/haze/
-Image: https://lunacy.audio/wp-content/smush-webp/2025/07/Haze-1.jpg.webp
+image: https://lunacy.audio/wp-content/smush-webp/2025/07/Haze-1.jpg.webp
 Date Added: 2025-11-09 07:47:00
 Tags:
   - audio-effect

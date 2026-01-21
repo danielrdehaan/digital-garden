@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/organic-orchestra-free-edition-by-venus-theory/
-Image: https://www.decentsamples.com/wp-content/uploads/2022/02/VT-Organic-Orchestra-Cover-Art.jpeg
+image: https://www.decentsamples.com/wp-content/uploads/2022/02/VT-Organic-Orchestra-Cover-Art.jpeg
 Date Added: 2022-04-21 19:29:00
 Tags:
   - decent-sampler

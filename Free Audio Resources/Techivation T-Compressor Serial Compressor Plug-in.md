@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://techivation.com/t-compressor/
-Image: https://techivation.com/products/products-images/t-compressor-image-mobile.png
+image: https://techivation.com/products/products-images/t-compressor-image-mobile.png
 Date Added: 2022-11-15 10:52:00
 Tags:
   - audio-effect

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.thewavewarden.com/odin2
-Image: Untitled 294.png
+image: https://cdn.shopify.com/s/files/1/0641/1304/9835/files/odin.2.4_fading.png?v=1748421452
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

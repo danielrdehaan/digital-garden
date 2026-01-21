@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://99sounds.org/drum-samples/
-Image: https://99sounds.org/wp-content/uploads/2014/10/99-drum-samples.jpg
+image: https://99sounds.org/wp-content/uploads/2014/10/99-drum-samples.jpg
 Date Added: 2025-11-09 11:23:00
 Tags:
   - drums

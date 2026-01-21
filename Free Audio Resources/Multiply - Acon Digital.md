@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://acondigital.com/products/multiply/
-Image: multiply-1-3.png
+image: https://acondigital.com/favicon.ico
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

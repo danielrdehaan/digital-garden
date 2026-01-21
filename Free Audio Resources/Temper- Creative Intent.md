@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.creativeintent.co/product/temper
-Image: Untitled 281.png
+image: https://www.creativeintent.co/images/temper-screenshot.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

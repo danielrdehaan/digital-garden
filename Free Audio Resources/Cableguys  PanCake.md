@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: http://www.cableguys.com/pancake.html
-Image: pancake-2-screenshot.png
+image: https://i.ytimg.com/vi/v-LRH94XwRM/sddefault.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.deniseaudio.com/plugins/slappy
-Image: https://assets-global.website-files.com/64e12f223df2a4e609434ce5/64f1f82adbffae8a63462ca9_Slappy.png
+image: https://assets-global.website-files.com/64e12f223df2a4e609434ce5/64f1f82adbffae8a63462ca9_Slappy.png
 Date Added: 2023-10-19 13:51:00
 Tags:
   - audio-effect

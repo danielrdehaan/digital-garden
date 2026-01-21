@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.samplescience.info/2022/04/marimba-renaissance.html
-Image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPz3j8jh6qunnbFiFNpYojV_Mhk0Wb9lr_GShRuTwcnnKluw3vdl0i0OfwvbjpQYL1vdCFxmC4-eoMKqhKsHlS1nPjLD5Hoh-JYvnGbX8_1nh0YD1lJcu4el_WZdvN6J37hc0yfvVG2hGgy1MNuVGN7TWosC2zTiY8gIapgB_CocVaJuwO1yzoetI/w1200-h630-p-k-no-nu/SampleScience_Marimba_Renaissance_Overlay_4K.jpg
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPz3j8jh6qunnbFiFNpYojV_Mhk0Wb9lr_GShRuTwcnnKluw3vdl0i0OfwvbjpQYL1vdCFxmC4-eoMKqhKsHlS1nPjLD5Hoh-JYvnGbX8_1nh0YD1lJcu4el_WZdvN6J37hc0yfvVG2hGgy1MNuVGN7TWosC2zTiY8gIapgB_CocVaJuwO1yzoetI/w1200-h630-p-k-no-nu/SampleScience_Marimba_Renaissance_Overlay_4K.jpg
 Date Added: 2022-05-05 08:02:00
 Tags:
   - decent-sampler

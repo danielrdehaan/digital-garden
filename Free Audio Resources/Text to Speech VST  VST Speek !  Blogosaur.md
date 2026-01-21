@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://blog.wavosaur.com/text-to-speech-vst-vst-speek/
-Image: vstspeek1.gif
+image: https://blog.wavosaur.com/wp-content/themes/wavosaur/images/wavosaur.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

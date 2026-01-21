@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://splice.com/plugins/23714-dblue-tapestop-vst-by-illformed
-Image: Untitled 316.png
+image: https://res.cloudinary.com/splice/image/upload/f_auto,q_auto/v1/app-assets/general/og-image
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

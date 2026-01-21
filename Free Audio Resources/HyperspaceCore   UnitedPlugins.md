@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://unitedplugins.com/HyperspaceCore
-Image: https://unitedplugins.com/webtemp/imagecache/img_file/eb/376.1280x720-fit.v1748942834.png
+image: https://unitedplugins.com/webtemp/imagecache/img_file/eb/376.1280x720-fit.v1748942834.png
 Date Added: 2025-11-09 08:19:00
 Tags:
   - audio-effect

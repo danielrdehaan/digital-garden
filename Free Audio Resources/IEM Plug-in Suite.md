@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://plugins.iem.at/
-Image: https://plugins.iem.at/images/IEMPluginSuiteLogo.png
+image: https://plugins.iem.at/images/IEMPluginSuiteLogo.png
 Date Added: 2023-09-17 12:15:00
 Tags:
   - granular

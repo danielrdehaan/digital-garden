@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.plogue.com/products/sforzando.html
-Image: banniere_sforzando.png
+image: https://www.plogue.com/images/Sforzando_interface_1.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

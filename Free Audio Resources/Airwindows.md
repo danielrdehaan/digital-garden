@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.airwindows.com/categories/
-Image: https://www.airwindows.com/wp-content/uploads/2014/11/Clipper150.png
+image: https://www.airwindows.com/wp-content/uploads/2014/11/Clipper150.png
 Date Added: 2022-12-09 15:03:00
 Tags:
   - audio-effect

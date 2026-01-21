@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.patreon.com/posts/lala-36128829
-Image: 1.jpg
+image: https://analogobsession.com/wp-content/uploads/2023/04/LALA-1-1024x665.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

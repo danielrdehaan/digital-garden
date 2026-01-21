@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://cdm.link/2021/09/rejoice-for-destroy-fx-has-updated-their-free-plug-ins-including-legendary-glitchy-buffer-override/
-Image: rezsynth.1632290874.png
+image: https://cdm.link/app/uploads/2021/09/bufferoverride.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - experimental

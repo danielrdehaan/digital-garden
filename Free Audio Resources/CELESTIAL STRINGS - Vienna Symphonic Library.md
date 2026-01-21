@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.vsl.co.at/en/Free_Instruments/Celestial_Strings
-Image: EmbNav_Free_Celestial_Strings_720x300.jpg
+image: https://www.vsl.co.at/media/embednavigator/free_celestial_strings_720x300.jpg
 Date Added: 2022-05-05 07:58:00
 Tags:
   - instrument

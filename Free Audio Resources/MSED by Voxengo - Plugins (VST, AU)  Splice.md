@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://splice.com/plugins/14620-msed-vst-au-by-voxengo
-Image: 14620.jpg
+image: https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1401652002/production/plugin_descriptions/screenshot/14620.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - utility

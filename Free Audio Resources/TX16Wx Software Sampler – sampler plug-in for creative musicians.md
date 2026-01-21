@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.tx16wx.com/
-Image: screenshot3-1024x625.png
+image: https://www.tx16wx.com/wp-content/uploads/2018/09/screenshot-1024x610.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - sampler

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://mawf.io/#signup
-Image: mawf.24615cc3ba669f573ff0.webp
+image: https://mawf.io/static/media/mawf-screenshot.webp
 Date Added: 2022-05-05 08:04:00
 Tags:
   - audio-effect

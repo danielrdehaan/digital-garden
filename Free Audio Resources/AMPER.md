@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.patreon.com/posts/amper-34769708
-Image: 1.png
+image: https://freevstplugins.net/wp-content/uploads/2021/01/AO-AMPER_3.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - amp

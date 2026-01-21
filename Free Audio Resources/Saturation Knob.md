@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.softube.com/saturationknob
-Image: Untitled 296.png
+image: https://cdn.softube.com/storage/F45F15D60B921ED45EBE291145F98E0769FF079956ADBF44C26142545CFB32F9/35e961e2352947e9b10a2bbd7fb1a2e0/jpg/media/9b15c71bf05b44c08868c04297106dce/saturation-knob-product-image.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

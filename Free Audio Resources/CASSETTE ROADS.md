@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.samplescience.info/2020/12/cassette-roads.html
-Image: Cassette_Roads_Gumroad_Overlay.jpg
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5vxiwRoZQMNqXOiW1TAg9S3i33PsjzZ6hXNd6Ig2xHEeooCJhWcKddoTm5EGlFZRT2Igr-4Qut56ejUazl6QyZFR2mQ0LBo7YGI1VNncTlk7E9D2KQmpecMnkDVREkg2gA3ey7V0SnC0aLBElzKc9yxRDSI_IslX7dLE4eV_Q_NLa-_hWEa6iusjNbCxn/w1200-h630-p-k-no-nu/SampleScience_Cassette_Roads_Overlay_Web.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

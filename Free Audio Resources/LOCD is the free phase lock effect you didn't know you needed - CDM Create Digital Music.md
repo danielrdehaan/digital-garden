@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://cdm.link/locd-free-phase-locking/
-Image: https://cdm.link/app/uploads/2025/09/locd.jpg
+image: https://cdm.link/app/uploads/2025/09/locd.jpg
 Date Added: 2025-09-08 17:29:00
 Tags:
   - audio-effect

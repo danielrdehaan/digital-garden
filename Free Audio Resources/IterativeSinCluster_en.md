@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://ryukau.github.io/VSTPlugins/manual/IterativeSinCluster/IterativeSinCluster_en.html
-Image: iterativesincluster.png
+image: https://ryukau.github.io/VSTPlugins/manual/IterativeSinCluster/IterativeSinCluster_en/img/IterativeSinCluster.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

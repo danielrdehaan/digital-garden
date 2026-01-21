@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://youlean.co/youlean-loudness-meter/
-Image: Youlean-Loudness-Meter-V2.4.3.png
+image: https://cdn.youlean.co/wp-content/uploads/2019/08/Youlean-Lodness-Meter-2-V2.3.0.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - dynamics

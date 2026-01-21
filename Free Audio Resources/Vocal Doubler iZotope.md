@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.izotope.com/en/products/vocal-doubler.html
-Image: Untitled.jpeg
+image: https://www.izotope.com/storage-cms/images/_aliases/og_image/8/7/2/4/2774278-1-eng-GB/c6c9e6e14d38-vocal-doubler.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

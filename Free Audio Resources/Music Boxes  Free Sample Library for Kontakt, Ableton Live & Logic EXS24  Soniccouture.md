@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.soniccouture.com/en/products/p43-music-boxes/
-Image: Untitled 303.png
+image: https://www.soniccouture.com/images/library/img-20180117095149.jpg
 Date Added: 2022-10-26 22:19:00
 Tags:
   - kontakt

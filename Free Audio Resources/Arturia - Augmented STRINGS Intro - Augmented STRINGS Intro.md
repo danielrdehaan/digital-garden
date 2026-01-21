@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.arturia.com/products/software-instruments/augmented-strings-intro/overview
-Image: string-palette.jpg
+image: https://www.arturia.com/images/products/augmented-strings-intro/augmented-strings-intro-image.png
 Date Added: 2022-04-25 11:26:00
 Tags:
   - strings

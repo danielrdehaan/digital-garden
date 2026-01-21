@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://thecrowhillcompany.com/amp-bass/
-Image: https://thecrowhillcompany.com/wp-content/uploads/2024/10/TCHC_T_zn4wQ_VTABASS_Blog_Featured_Free_BG.webp
+image: https://thecrowhillcompany.com/wp-content/uploads/2024/10/TCHC_T_zn4wQ_VTABASS_Blog_Featured_Free_BG.webp
 Date Added: 2025-11-09 08:01:00
 Tags:
   - instrument

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://pulse.audio/product/gatelab-by-audiomodern/
-Image: https://img.youtube.com/vi/zwv3fgRajlU/maxresdefault.jpg
+image: https://img.youtube.com/vi/zwv3fgRajlU/maxresdefault.jpg
 Date Added: 2025-11-03 07:40:00
 Tags:
   - audio-effect

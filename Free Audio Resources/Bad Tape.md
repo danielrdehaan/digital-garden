@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.deniseaudio.com/plugins/bad-tape
-Image: https://assets-global.website-files.com/64e12f223df2a4e609434ce5/64f1feeae66567bb101b7b06_Bad%20Tape.png
+image: https://assets-global.website-files.com/64e12f223df2a4e609434ce5/64f1feeae66567bb101b7b06_Bad%20Tape.png
 Date Added: 2023-10-19 13:53:00
 Tags:
   - audio-effect

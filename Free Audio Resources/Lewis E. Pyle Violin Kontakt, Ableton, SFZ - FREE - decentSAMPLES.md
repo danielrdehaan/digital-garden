@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/lewis-e-pyle-violin-kontakt-ableton-sfz-free/
-Image: https://www.decentsamples.com/wp-content/uploads/2019/02/Lewis-E-Pyle-Violin-Cover-Art-Idea-1.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2019/02/Lewis-E-Pyle-Violin-Cover-Art-Idea-1.jpg
 Date Added: 2022-04-21 19:20:00
 Tags:
   - decent-sampler

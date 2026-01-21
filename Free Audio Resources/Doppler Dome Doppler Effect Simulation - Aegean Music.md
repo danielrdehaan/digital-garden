@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://aegeanmusic.com/doppler-dome-specs
-Image: dopdo-moreinfo.png
+image: https://aegeanmusic.com/images/doppler-dome.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

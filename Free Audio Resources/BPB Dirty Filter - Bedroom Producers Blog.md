@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://bedroomproducersblog.com/free-vst-plugins/bpb-dirty-filter/
-Image: bpb-dirty-filter-hero.jpg
+image: https://bedroomproducersblog.com/wp-content/uploads/2020/09/bpb-dirty-filter-hero.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - filter

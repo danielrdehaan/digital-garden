@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://vstplug-ins.com/keyzoneclassic.html
-Image: keyzoneclassic.jpg
+image: https://vstplug-ins.com/assets/images/products/keyzone_classic_3_hero.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

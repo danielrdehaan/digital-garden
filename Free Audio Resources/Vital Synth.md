@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://vital.audio/
-Image: https://youtu.be/7kNvSXxZrs4
+image: https://youtu.be/7kNvSXxZrs4
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

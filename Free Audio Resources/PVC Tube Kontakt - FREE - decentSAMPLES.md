@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/pvc-tube-kontakt-free/
-Image: https://www.decentsamples.com/wp-content/uploads/2019/01/PVC-Tube-Cover-Art-Idea-1.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2019/01/PVC-Tube-Cover-Art-Idea-1.jpg
 Date Added: 2022-04-21 19:20:00
 Tags:
   - decent-sampler

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://puremagnetik.com/products/driftmaker-delay-disintegration-device
-Image: Driftmaker_Screenshot_939bde55-4d60-452b-97ce-ca9a8b959fb2_700x.png
+image: https://cdn.shopify.com/s/files/1/1336/9212/products/Driftmaker_Screenshot_939bde55-4d60-452b-97ce-ca9a8b959fb2_700x.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

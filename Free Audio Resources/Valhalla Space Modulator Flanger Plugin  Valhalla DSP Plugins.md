@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://valhalladsp.com/shop/modulation/valhalla-space-modulator/
-Image: ValhallaSpaceModGUI-960x437.jpg
+image: https://val-media-offload.s3.amazonaws.com/wp-content/uploads/2020/06/08074524/space-modulator_1300x540.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

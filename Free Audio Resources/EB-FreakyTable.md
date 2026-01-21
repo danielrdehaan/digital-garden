@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://ewanbristow.gumroad.com/l/freakytable
-Image: https://public-files.gumroad.com/kecxtbroj9zbfulo1t6cv36mkx63
+image: https://public-files.gumroad.com/kecxtbroj9zbfulo1t6cv36mkx63
 Date Added: 2024-12-11 07:15:00
 Tags:
   - audio-effect

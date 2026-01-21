@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.tbproaudio.de/products/gsatplus
-Image: gsatplus_bign.4865c2af7ae965b2f14324c9c3bd1209.png
+image: https://www.tbproaudio.de/assets/content/assets/content/screenshots/gsatplus_bign.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

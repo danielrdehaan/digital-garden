@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://samplesfrommars.com/collections/free
-Image: https://samplesfrommars.com/cdn/shop/t/195/assets/logo.png?v=4976552338449183691753370878
+image: https://samplesfrommars.com/cdn/shop/t/195/assets/logo.png?v=4976552338449183691753370878
 Date Added: 2025-11-09 11:25:00
 Tags:
   - sample-pack

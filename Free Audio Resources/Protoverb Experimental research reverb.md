@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://u-he.com/products/protoverb/
-Image: uhe-protoverb-screenshot-fullui-1150x1033.jpg
+image: https://u-he.com/products/protoverb/assets/images/uhe-protoverb-splash-photo-studio-setup-1100x350.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

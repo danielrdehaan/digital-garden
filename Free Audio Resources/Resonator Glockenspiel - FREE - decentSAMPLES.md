@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.decentsamples.com/product/resonator-glockenspiel-free/
-Image: https://www.decentsamples.com/wp-content/uploads/2020/09/Mystery-Metallophone-Cover-Art-Idea-2.jpg
+image: https://www.decentsamples.com/wp-content/uploads/2020/09/Mystery-Metallophone-Cover-Art-Idea-2.jpg
 Date Added: 2022-04-21 19:24:00
 Tags:
   - decent-sampler

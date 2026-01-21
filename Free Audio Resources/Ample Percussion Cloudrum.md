@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.amplesound.net/en/pro-pd.asp?id=27
-Image: apc01.jpg
+image: https://www.amplesound.net/images/ag/apc01.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.2getheraudio.com/instruments/cheeze-machine-2/
-Image: CM2-display-00.jpg
+image: https://www.2getheraudio.com/wp-content/uploads/2018/11/CM2-BG-00.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.chair.audio/product/excite_snare_drum/
-Image: Bildschirmfoto-2021-06-01-um-13.22.08-2.png
+image: https://i0.wp.com/www.chair.audio/wp-content/uploads/2021/06/Bildschirmfoto-2021-06-01-um-13.22.08-2.png?fit=1332%2C710&#038;ssl=1
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

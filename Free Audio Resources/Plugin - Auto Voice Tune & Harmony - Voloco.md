@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://resonantcavity.com/plugin/
-Image: plugin-1.png
+image: https://resonantcavity.com/assets/images/wordmark-secondary.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

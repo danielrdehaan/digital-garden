@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://pulse.audio/product/panflow-by-audiomodern/
-Image: https://img.youtube.com/vi/O_wBQXtUbCw/maxresdefault.jpg
+image: https://img.youtube.com/vi/O_wBQXtUbCw/maxresdefault.jpg
 Date Added: 2025-11-03 07:36:00
 Tags:
   - audio-effect

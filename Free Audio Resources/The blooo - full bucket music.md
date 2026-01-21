@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.fullbucket.de/music/blooo.html
-Image: Untitled 300.png
+image: https://www.fullbucket.de/music/images/blooo.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - synthesizer

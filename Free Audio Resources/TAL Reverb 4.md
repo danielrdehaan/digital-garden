@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://tal-software.com/products/tal-reverb-4
-Image: Untitled 334.png
+image: https://tal-software.com/images/products/tal-reverb-402.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

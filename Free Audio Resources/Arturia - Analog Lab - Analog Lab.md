@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.arturia.com/products/software-instruments/analoglab/free?utm_source=brevo&utm_campaign=2023-10-31-analog-lab-play-analog-lab-play-user&utm_medium=email&utm_id=29
-Image: https://medias.arturia.net/images/products/analoglab-v/keys-play.png
+image: https://medias.arturia.net/images/products/analoglab-v/keys-play.png
 Date Added: 2023-10-31 13:58:00
 Tags:
   - instrument

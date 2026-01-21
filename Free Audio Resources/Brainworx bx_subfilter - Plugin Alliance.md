@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.plugin-alliance.com/en/products/bx_subfilter.html
-Image: bx_subfilter-hero-2019.jpg
+image: https://www.plugin-alliance.com/cdn/shop/files/productimage-300314.png?v=1756972878
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

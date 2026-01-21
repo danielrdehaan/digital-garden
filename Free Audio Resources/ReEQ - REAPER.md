@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://cdm.link/2020/07/reeq-free-reaper-eq-keeps-getting-better/
-Image: image-3.png
+image: https://cdm.link/app/uploads/2020/07/reEQ.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

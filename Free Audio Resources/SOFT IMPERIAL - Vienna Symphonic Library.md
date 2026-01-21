@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.vsl.co.at/en/Free_Instruments/Soft_Imperial
-Image: EmbNav_Free_Soft_Imperial_720x300.jpg
+image: https://www.vsl.co.at/media/embednavigator/free_soft_imperial_720x300.jpg
 Date Added: 2022-05-05 07:58:00
 Tags:
   - instrument

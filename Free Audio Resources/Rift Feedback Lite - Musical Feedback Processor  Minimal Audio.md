@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.minimal.audio/products/rift-feedback-lite
-Image: https://s3-us-east-2.amazonaws.com/minimal-audio-production/app/public/spree/products/148/original/feedback-lite-1.png?1641586158
+image: https://s3-us-east-2.amazonaws.com/minimal-audio-production/app/public/spree/products/148/original/feedback-lite-1.png?1641586158
 Date Added: 2022-04-21 22:18:00
 Tags:
   - audio-effect

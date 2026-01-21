@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://github.com/itsmusician/IR-Library?tab=readme-ov-file
-Image: https://opengraph.githubassets.com/560e1123f2c8b7304e4f18f602b274a891e979756585e0807faa889bdbcf0e26/itsmusician/IR-Library
+image: https://opengraph.githubassets.com/560e1123f2c8b7304e4f18f602b274a891e979756585e0807faa889bdbcf0e26/itsmusician/IR-Library
 Date Added: 2025-11-09 08:04:00
 Tags:
   - reverb

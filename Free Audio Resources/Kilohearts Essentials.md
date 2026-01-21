@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://kilohearts.com/products/kilohearts_essentials
-Image: CleanShot_2023-11-01_at_09.38.05.png
+image: https://kilohearts.com/resources/media_dynamic/offers/kilohearts_essentials/social.png
 Date Added: 2022-11-15 11:05:00
 Tags:
   - audio-effect

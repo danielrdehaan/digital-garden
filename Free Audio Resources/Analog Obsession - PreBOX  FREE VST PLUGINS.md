@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://freevstplugins.net/analog-obsession-prebox/
-Image: 1588442369_prebox.jpg
+image: https://freevstplugins.net/wp-content/uploads/2021/01/1588442369_prebox.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

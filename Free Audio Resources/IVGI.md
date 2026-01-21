@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://klanghelm.com/contents/products/IVGI.php
-Image: IVGI.jpg
+image: https://klanghelm.com/assets/img/KlanghelmLogoBlack.png
 Date Added: 2022-04-21 15:03:00
 Tags:
   - audio-effect

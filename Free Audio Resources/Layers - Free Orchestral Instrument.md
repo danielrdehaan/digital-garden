@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://www.orchestraltools.com/store/collections/layers
-Image: image 9.png
+image: https://www.orchestraltools.com/products/collection/layers/images/2859/image-thumb__2859__seo_social_thumb/layers-og-1200x630.ce6234e8.jpg
 Date Added: 2022-12-09 11:30:00
 Tags:
   - instrument

@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://getsoundly.com/tools/#shapeit
-Image: https://getsoundly.com/images/photos/shapeit-1.png
+image: https://getsoundly.com/images/photos/shapeit-1.png
 Date Added: 2024-06-10 14:44:00
 Tags:
   - audio-effect

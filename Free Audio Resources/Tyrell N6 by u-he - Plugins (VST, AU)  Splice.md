@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://splice.com/plugins/1837-tyrell-n6-vst-au-by-u-he
-Image: 751.jpg
+image: https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1392672051/production/plugin_descriptions/screenshot/751.jpg
 Date Added: 2022-04-21 15:03:00
 Tags:
   - instrument

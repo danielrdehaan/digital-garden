@@ -1,7 +1,7 @@
 ---
 base: "[[Digital Garden/Free Audio Resources/_Index.base]]"
 URL: https://blackoctopus-sound.com/free-downloads/
-Image: https://blackoctopus-sound.com/wp-content/uploads/2023/03/1GB.jpg-600x600-1.jpg
+image: https://blackoctopus-sound.com/wp-content/uploads/2023/03/1GB.jpg-600x600-1.jpg
 Date Added: 2025-11-09 11:24:00
 Tags:
   - sample-pack
