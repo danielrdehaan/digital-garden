@@ -6,7 +6,8 @@
       "Bash(git push)",
       "Bash(git lfs prune:*)",
       "Bash(find:*)",
-      "Bash(sort:*)"
+      "Bash(sort:*)",
+      "Bash(git rm:*)"
     ]
   }
 }

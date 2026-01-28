@@ -15,3 +15,7 @@
 
 # Trash folder
 .trash/
+
+# Private course materials (kept local only)
+Courses/SP26-MUSC-175/
+Courses/SP26-MUSC-233/
