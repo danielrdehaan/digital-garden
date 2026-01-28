@@ -15,3 +15,4 @@ canvas_page_url: week-01-unity-essentials-day-1
 - [Unity Essentials Pathway - Unity Learn](https://learn.unity.com/pathway/unity-essentials)
 
 This is a test. Did it work?
+Yes. Katie
