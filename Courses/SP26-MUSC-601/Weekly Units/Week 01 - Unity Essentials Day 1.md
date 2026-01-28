@@ -23,6 +23,5 @@ Yes- Ade Davis
 =======
 - Yes - Ariel 
 - Yes- Peace
-- Yes - Sunny
 >>>>>>> ca98f29c677bdc6fcb5daa97f0cb67805d73d164
 >>>>>>> de31f565e911ea790487c6f1f4e08ae290ab13aa
