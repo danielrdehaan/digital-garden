@@ -1,5 +1,5 @@
 ---
-title: Ten Rules for Students and Teachers - Sister Corit
+title: Ten Rules for Students and Teachers - Sister Corita Kent
 type: knowledge
 status: active
 tags:

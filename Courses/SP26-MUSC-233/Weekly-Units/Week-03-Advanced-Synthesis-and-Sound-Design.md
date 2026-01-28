@@ -8,8 +8,6 @@ modified: 2026-01-21T16:00:29-06:00
 canvas_page_url: week-03-advanced-synthesis-and-sound-design
 ---
 
-# Week 03: Advanced Synthesis & Sound Design
-
 ## Overview
 
 This week builds on synthesis fundamentals to explore advanced techniques: layering multiple sound sources, complex modulation, and creative processing chains. These techniques form the foundation for professional-quality sound design across all media types.

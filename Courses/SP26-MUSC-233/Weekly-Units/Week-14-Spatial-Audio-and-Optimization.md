@@ -8,8 +8,6 @@ modified: 2026-01-21T16:08:02-06:00
 canvas_page_url: week-14-spatial-audio-and-optimization
 ---
 
-# Week 14: Spatial Audio & Optimization
-
 ## Overview
 
 This week explores spatial audio concepts in FMOD and Unity, covering 3D positioning, attenuation curves, and occlusion systems. We'll also discuss optimization techniques and the FMOD Profiler for debugging and performance analysis. These skills are essential for creating immersive audio in interactive media.

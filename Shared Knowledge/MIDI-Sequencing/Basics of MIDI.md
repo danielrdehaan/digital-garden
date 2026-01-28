@@ -45,7 +45,7 @@ The first version of MIDI (MIDI 1.0) was released in the 1980’s and most of th
 The only current exception to this (at least within the parts of the MIDI language that we will commonly use) is the `Pitch Bend` parameter which has a value range from 0 to 16383.
 
 > [!note]
-> <img src="https://www.notion.so/icons/thought-dialogue_gray.svg" alt="https://www.notion.so/icons/thought-dialogue_gray.svg" width="40px" /> Why might `Pitch Bend` have a larger value range than the rest of MIDI?
+> Why might `Pitch Bend` have a larger value range than the rest of MIDI?
 
 # How is MIDI organized?
 

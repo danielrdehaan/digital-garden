@@ -45,7 +45,7 @@ As an example, the files that I would submit would be named:
 - `SP24-MUSC-228_P2_Daniel-Dehaan_1m03-Revision_V002`
 
 > [!note]
-> <img src="https://www.notion.so/icons/book_gray.svg" alt="https://www.notion.so/icons/book_gray.svg" width="40px" /> **Naming Convention Explained**
+> **Naming Convention Explained**
 > [Semester]-[Department]-[Course Number]_[Project Number]_[Composers First Name]-[Composers Last Name]_[File Name]_[Version Number]
 
 # Evaluation Standards

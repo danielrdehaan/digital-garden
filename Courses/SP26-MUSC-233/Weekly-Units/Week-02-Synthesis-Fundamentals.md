@@ -8,8 +8,6 @@ modified: 2026-01-21T16:07:12-06:00
 canvas_page_url: week-02-synthesis-fundamentals
 ---
 
-# Week 02: Synthesis Fundamentals
-
 ## Overview
 
 Building on synthesis concepts from MUSC 232, this week deepens your understanding of subtractive, FM, and wavetable synthesis. We'll focus on creating UI sounds, textures, and electronic elements that are applicable across film, games, podcasts, and other media contexts.

@@ -17,7 +17,7 @@ modified: 2026-01-19T20:57:51.618165
 1. Unity Hub ([Mac](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg) / [Windows](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe))
     
     > [!note]
-> <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" /> You’ll need to create a standard Unity account (don’t make a student account).
+> You’ll need to create a standard Unity account (don’t make a student account).
     
 2. FMOD Studio 2.02.17 ([Mac](https://www.fmod.com/download#) / [Windows](https://www.fmod.com/download#))
 3. [FMOD for Unity 2.02.17](https://www.fmod.com/download#)

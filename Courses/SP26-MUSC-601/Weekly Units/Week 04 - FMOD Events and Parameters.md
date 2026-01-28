@@ -5,9 +5,8 @@ canvas_publish: true
 canvas_type: page
 created: 2026-01-21T14:34:44-06:00
 modified: 2026-01-21T14:34:44-06:00
+canvas_page_url: week-04-fmod-events-and-parameters
 ---
-
-# Week 04: FMOD Events and Parameters
 
 ## Resources
 

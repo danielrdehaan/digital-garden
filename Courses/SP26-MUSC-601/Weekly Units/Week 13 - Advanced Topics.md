@@ -5,9 +5,8 @@ canvas_publish: true
 canvas_type: page
 created: 2026-01-21T14:35:17-06:00
 modified: 2026-01-21T14:35:17-06:00
+canvas_page_url: week-13-advanced-topics
 ---
-
-# Week 13: Advanced Topics
 
 ## Resources
 

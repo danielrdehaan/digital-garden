@@ -6,6 +6,7 @@ tags:
   - "#type/assignment"
 created: 2026-01-19T15:58:16-06:00
 modified: 2026-01-21T12:28:13-06:00
+canvas_page_url: assignment-design-two-weekly-habits
 ---
 
 # Assignment - Design Two Weekly Habits

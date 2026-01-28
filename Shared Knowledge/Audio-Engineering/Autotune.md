@@ -12,7 +12,7 @@ modified: 2026-01-19T20:57:51.515750
 
 # Free Autotune Effect
 
-[Graillon - Autotuner](https://www.notion.so/Graillon-Autotuner-6414e5308ef94b0aae5fc15ade527079?pvs=21)
+[[Graillon - Autotuner]]
 
 # Not Free Autotune Effects
 

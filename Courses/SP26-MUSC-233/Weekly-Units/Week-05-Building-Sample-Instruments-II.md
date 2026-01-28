@@ -8,8 +8,6 @@ modified: 2026-01-21T16:00:42-06:00
 canvas_page_url: week-05-building-sample-instruments-ii
 ---
 
-# Week 05: Building Sample Instruments II
-
 ## Overview
 
 Building on last week's introduction, we'll explore advanced sampling techniques including velocity layers, round-robin variations, effects processing, and creative sample manipulation. We'll also discuss how to package and distribute your instruments.

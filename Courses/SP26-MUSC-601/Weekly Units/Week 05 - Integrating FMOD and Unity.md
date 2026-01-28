@@ -5,9 +5,8 @@ canvas_publish: true
 canvas_type: page
 created: 2026-01-21T14:34:45-06:00
 modified: 2026-01-21T14:34:45-06:00
+canvas_page_url: week-05-integrating-fmod-and-unity-5
 ---
-
-# Week 05: Integrating FMOD & Unity
 
 ## Downloads
 

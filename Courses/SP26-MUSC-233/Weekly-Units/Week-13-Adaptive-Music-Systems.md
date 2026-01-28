@@ -8,8 +8,6 @@ modified: 2026-01-21T16:07:55-06:00
 canvas_page_url: week-13-adaptive-music-systems
 ---
 
-# Week 13: Adaptive Music Systems
-
 ## Overview
 
 This week explores adaptive music techniques using FMOD. We'll examine horizontal (sequential) and vertical (layered) music systems, learning how to compose and implement music that responds dynamically to user interaction or game states. These concepts apply to games, interactive installations, and other non-linear media.

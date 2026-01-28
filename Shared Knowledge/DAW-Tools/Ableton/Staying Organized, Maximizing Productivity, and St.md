@@ -16,7 +16,7 @@ modified: 2026-01-19T20:57:51.619083
 # Staying Organized, Maximizing Productivity, and Streamlining Workflows
 
 > [!note]
-> <img src="https://www.notion.so/icons/reorder_blue.svg" alt="https://www.notion.so/icons/reorder_blue.svg" width="40px" /> **Table of Contents**
+> **Table of Contents**
 
 # Introduction
 
@@ -71,7 +71,7 @@ Toggl Track is a time-tracking app that aids productivity by monitoring work hou
 
 ![Untitled](Digital%20Garden/Shared%20Knowledge/Attachments/Staying%20Organized,%20Maximizing%20Productivity,%20and%20St/Untitled%204.png)
 
-# [Notion](https://www.notion.so/signup)
+# [[Notion]]
 
 ![](https://youtu.be/oTahLEX3NXo?si=FpSN7qvpgwwRCnmd)
 

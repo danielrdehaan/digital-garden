@@ -13,7 +13,7 @@ modified: 2026-01-19T20:57:51.507767
 
 # Objective:
 
-Compose an 8-measure using only [Vital](https://www.notion.so/Vital-Synth-18fdef2599674b63923d4d7058c489a0?pvs=21).
+Compose an 8-measure using only [[Vital]].
 
 # Instructions:
 

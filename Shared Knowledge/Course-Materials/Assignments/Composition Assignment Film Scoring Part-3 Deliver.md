@@ -35,7 +35,7 @@ Compose a new version of cue 1m03 based upon the feedback you received from the 
 When you are finished composing export the “Stereo Mix” of your cue along with whatever STEMS makes sense based upon the sounds/instruments you are using.
 
 > [!note]
-> <img src="https://www.notion.so/icons/book_gray.svg" alt="https://www.notion.so/icons/book_gray.svg" width="40px" /> STEMS can mean different things to different people and in different contexts. So when someone ask for “Your STEMS” its best to ask them what they are specifically want.
+> STEMS can mean different things to different people and in different contexts. So when someone ask for “Your STEMS” its best to ask them what they are specifically want.
 > 
 > In general, STEMS mean delivering your music as several audio files where each audio file contains a single part or a single layer.
 > 
@@ -71,7 +71,7 @@ As an example, the files that I would submit would be named:
 - `SP24-MUSC-228_P2_Daniel-Dehaan_1m03_STEM-SFXs_V001`
 
 > [!note]
-> <img src="https://www.notion.so/icons/book_gray.svg" alt="https://www.notion.so/icons/book_gray.svg" width="40px" /> **Naming Convention Explained**
+> **Naming Convention Explained**
 > [Semester]-[Department]-[Course Number]_[Project Number]_[Composers First Name]-[Composers Last Name]_[File Name]_[Version Number]
 
 # Evaluation Standards

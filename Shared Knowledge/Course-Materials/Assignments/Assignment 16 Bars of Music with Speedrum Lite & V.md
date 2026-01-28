@@ -12,7 +12,7 @@ modified: 2026-01-19T20:57:51.507368
 
 # Objective:
 
-Compose at least 16 measure of music using only [Speedrum Lite](https://www.notion.so/SpeedDrum-Lite-499eb951afed4bcd8513be1cee01e14f?pvs=21) and [Vital](https://www.notion.so/Vital-Synth-18fdef2599674b63923d4d7058c489a0?pvs=21).
+Compose at least 16 measure of music using only [[Speedrum Lite]] and [[Vital]].
 
 # Instructions:
 

@@ -11,6 +11,7 @@ tags:
   - "#topic/midi"
 created: 2026-01-19T15:58:16-06:00
 modified: 2026-01-19T20:57:51.605777
+canvas_page_url: pro-tools-session-prep
 ---
 
 # Pro Tools Session Prep

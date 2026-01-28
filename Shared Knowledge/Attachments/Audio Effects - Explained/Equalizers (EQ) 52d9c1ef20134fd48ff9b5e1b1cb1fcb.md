@@ -15,7 +15,7 @@ Equalizers (EQ) come in many different flavors and are useful at virtually every
 ![image.png](Digital%20Garden/Shared%20Knowledge/Attachments/Audio%20Effects%20-%20Explained/Equalizers%20(EQ)/image.png)
 
 <aside>
-<img src="https://www.notion.so/icons/save_gray.svg" alt="https://www.notion.so/icons/save_gray.svg" width="40px" />
+
 
 Download [Mac](https://storage.googleapis.com/soundly-plugins/Shapeit.pkg) / [Windows](https://storage.googleapis.com/soundly-plugins/Shapeit-installer.exe)
 

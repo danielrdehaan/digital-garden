@@ -13,7 +13,7 @@ modified: 2026-01-19T20:57:51.561527
 
 # Vital:
 
-Download the free [Vital Synth](https://www.notion.so/Vital-Synth-18fdef2599674b63923d4d7058c489a0?pvs=21) 
+Download the free [[Vital Synth]] 
 
 # Tutorials:
 
@@ -27,4 +27,4 @@ Download the free [Vital Synth](https://www.notion.so/Vital-Synth-18fdef2599674b
 
 # Sample-Based Synthesis
 
-[SpeedDrum Lite](https://www.notion.so/SpeedDrum-Lite-499eb951afed4bcd8513be1cee01e14f?pvs=21)
+[[SpeedDrum Lite]]

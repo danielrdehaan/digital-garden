@@ -4,7 +4,8 @@ canvas_sync: true
 canvas_publish: true
 canvas_type: syllabus
 created: 2026-01-21T15:00:00-06:00
-modified: 2026-01-21T15:36:14-06:00
+modified: 2026-01-26T08:57:21-06:00
+canvas_page_url: syllabus
 ---
 
 # SP26-MUSC-233: Media Music Tech Lab II
@@ -44,6 +45,7 @@ modified: 2026-01-21T15:36:14-06:00
 - [Columbia Scholarships](https://www.colum.edu/columbia-central/scholarships/index)
 - [Campus Card](https://www.colum.edu/columbia-central/on-campus/campus-card-charge)
 - [TechBar](https://students.colum.edu/information-technology/TechBar)
+- [Discord Server](https://discord.gg/ubfRmwKQGN)
 
 ## Supplies/Materials
 
@@ -153,7 +155,7 @@ As there are far-reaching implications regarding authorship, ownership, and simi
 | Week | Date | Topic |
 |------|------|-------|
 | **1** | | ***Unit 1: Sound Design & Synthesis*** |
-| | Mon 1/27 | [[Week-01-Technology-for-Media-Composers\|Technology for Media Composers]] |
+| | Mon 1/27 | [[Week-01\|Welcome back!]] |
 | **2** | | |
 | | Mon 2/3 | [[Week-02-Synthesis-Fundamentals\|Synthesis Fundamentals]] |
 | **3** | | |
@@ -185,12 +187,3 @@ As there are far-reaching implications regarding authorship, ownership, and simi
 | | Mon 5/12 | [[Week-15-Integration-and-Best-Practices\|Integration & Best Practices]] |
 
 ---
-
-# Additional Resources
-
-- [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) - Free sample player plugin
-- [FMOD Learning Resources](https://www.fmod.com/learn)
-- [Unity Learn - Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)
-- [Game Audio Network Guild (G.A.N.G.)](https://www.audiogang.org/)
-- [Film & TV Music Guild](https://www.ftmguild.org/)
-- [Free Audio Resources](https://danielrdehaan.notion.site/The-Free-Composer-Producer-Toolkit-Beyond-803a37d9008d4906ab13093203d41d27)

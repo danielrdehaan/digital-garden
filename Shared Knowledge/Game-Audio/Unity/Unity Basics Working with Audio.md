@@ -12,7 +12,7 @@ modified: 2026-01-19T20:57:51.630197
 # Unity Basics: Working with Audio
 
 > [!note]
-> <img src="https://www.notion.so/icons/list-indent_blue.svg" alt="https://www.notion.so/icons/list-indent_blue.svg" width="40px" /> **Table of Contents:**
+> **Table of Contents:**
 
 ---
 

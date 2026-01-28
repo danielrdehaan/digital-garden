@@ -48,6 +48,6 @@ VST/VST3 | Windows 7 - 8 - 10
 
 <u>*Special thanks to "Eugene Reznik" for GUI work!*</u>
 
-[<u>***To download and use alternative skins, please click!***</u>](https://www.notion.so/LALA-Skins-7a54cf4f80154b039d1406957da2a29b)
+[[<u>***To download and use alternative skins, please click!***</u>]]
 
 <u>**Download Links;**</u>

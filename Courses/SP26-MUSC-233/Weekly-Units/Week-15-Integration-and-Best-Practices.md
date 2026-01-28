@@ -8,8 +8,6 @@ modified: 2026-01-21T15:00:00-06:00
 canvas_page_url: week-15-integration-and-best-practices
 ---
 
-# Week 15: Integration & Best Practices
-
 ## Overview
 
 Our final session brings together everything we've learned this semester. We'll discuss how to integrate the various skills into professional workflows, explore career applications across different media types, review best practices, and address any remaining questions.

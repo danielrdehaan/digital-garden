@@ -12,7 +12,7 @@ modified: 2026-01-19T20:57:51.508795
 
 # Objective:
 
-Begin the process of familiarizing yourself with the concepts, features, functions, controls, and most importantly the sounds of common audio effects - like the [Kilohearts Essentials](https://www.notion.so/Kilohearts-Essentials-4d6cdf3955d34551b76f9f179aaf4a21?pvs=21) 
+Begin the process of familiarizing yourself with the concepts, features, functions, controls, and most importantly the sounds of common audio effects - like the [[Kilohearts Essentials]] 
 
 Use  [Audio Effects - Explained](Audio%20Effects%20-%20Explained%2012cc1ca0af664b3f821805348221e43a.md) as your guide. You can either explore the audio effects included in your DAW or explore some of the free ones included in the [Audio Effects - Explained](Audio%20Effects%20-%20Explained%2012cc1ca0af664b3f821805348221e43a.md). 
 

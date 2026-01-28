@@ -17,7 +17,7 @@ modified: 2026-01-19T20:57:51.621359
 *Revised by Daniel Dehaan, September 16, 2024* 
 
 > [!note]
-> <img src="https://www.notion.so/icons/bookmark_gray.svg" alt="https://www.notion.so/icons/bookmark_gray.svg" width="40px" />
+> 
 > 
 > - **Table of Contents:**
 

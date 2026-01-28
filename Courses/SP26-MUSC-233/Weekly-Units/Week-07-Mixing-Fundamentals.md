@@ -8,8 +8,6 @@ modified: 2026-01-21T15:00:00-06:00
 canvas_page_url: week-07-mixing-fundamentals
 ---
 
-# Week 07: Mixing Fundamentals
-
 ## Overview
 
 Mixing is the art and science of combining multiple audio elements into a cohesive whole. This week covers the foundational concepts of mixing: balancing levels, managing frequency content, creating depth with space, and positioning elements in the stereo field. These skills are essential for any composer delivering professional-quality audio.

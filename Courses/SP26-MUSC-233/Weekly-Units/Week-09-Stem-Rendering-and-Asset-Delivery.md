@@ -8,8 +8,6 @@ modified: 2026-01-21T16:02:36-06:00
 canvas_page_url: week-09-stem-rendering-and-asset-delivery
 ---
 
-# Week 09: Stem Rendering & Asset Delivery
-
 ## Overview
 
 Professional media composers must deliver audio in formats that meet client and industry specifications. This week covers stem rendering, file organization, naming conventions, and delivery specifications across different media types. These skills ensure your work can be properly integrated, edited, and mixed by collaborators downstream.

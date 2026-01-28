@@ -4,11 +4,9 @@ canvas_sync: true
 canvas_publish: true
 canvas_type: page
 created: 2026-01-21T15:00:00-06:00
-modified: 2026-01-21T16:01:28-06:00
+modified: 2026-01-23T10:17:21-06:00
 canvas_page_url: week-08-production-techniques
 ---
-
-# Week 08: Production Techniques
 
 ## Overview
 

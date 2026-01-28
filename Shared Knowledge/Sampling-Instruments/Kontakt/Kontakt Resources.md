@@ -105,7 +105,7 @@ Fixed Right: 0
 ![](https://youtu.be/sDsdOgMHgAI)
 
 > [!note]
-> <img src="https://www.notion.so/icons/link_gray.svg" alt="https://www.notion.so/icons/link_gray.svg" width="40px" /> ^^^ LINKS:
+> ^^^ LINKS:
 > Kontakt Script Generator 2: [bit.ly/KSGv2](http://bit.ly/KSGv2)
 > Squeaky Toys of Doom: KSG sheet: [bit.ly/STODdemo](http://bit.ly/STODdemo)
 > Squeaky Toys of Doom on Pianobook: [pianobook.co.uk/packs/squeaky-toys-of-doom](http://pianobook.co.uk/packs/squeaky-toys-of-doom)

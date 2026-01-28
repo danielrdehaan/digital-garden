@@ -4,7 +4,8 @@ canvas_sync: true
 canvas_publish: true
 canvas_type: syllabus
 created: 2026-01-19T14:56:38-06:00
-modified: 2026-01-21T14:33:53-06:00
+modified: 2026-01-25T13:36:19-06:00
+canvas_page_url: syllabus
 ---
 
 # SP26-MUSC-601: Media Music Tech Lab (Year 2)
@@ -42,6 +43,7 @@ modified: 2026-01-21T14:33:53-06:00
 - [Columbia Scholarships](https://www.colum.edu/columbia-central/scholarships/index)
 - [Campus Card](https://www.colum.edu/columbia-central/on-campus/campus-card-charge)
 - [TechBar](https://students.colum.edu/information-technology/TechBar)
+- [Discord Server](https://discord.gg/ahHkyWePWh)
 
 ## Supplies/Materials
 

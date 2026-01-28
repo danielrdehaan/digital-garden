@@ -8,8 +8,6 @@ modified: 2026-01-21T16:07:31-06:00
 canvas_page_url: week-10-recording-and-processing
 ---
 
-# Week 10: Recording & Processing
-
 ## Overview
 
 This week covers recording techniques for capturing original audio—whether field recording, Foley, or studio recording. We'll discuss equipment, technique, processing recorded material, and creating variations. These skills allow you to build custom sound libraries and capture unique audio for your projects.

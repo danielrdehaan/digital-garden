@@ -64,7 +64,7 @@ Phase becomes really important when two or more sounds, or recordings, are combi
 ![what-is-phase-alignment.jpg](Digital%20Garden/Shared%20Knowledge/Attachments/The%20Basics%20of%20Sound,%20Audio,%20and%20Digital%20Audio%20(V2)/what-is-phase-alignment.jpg)
 
 > [!note]
-> <img src="https://www.notion.so/icons/thought-dialogue_gray.svg" alt="https://www.notion.so/icons/thought-dialogue_gray.svg" width="40px" /> Look at the second example in the image above, where the two waves are `180º` out of phase with each other, and see if you can understand why this would result in perfect silence.
+> Look at the second example in the image above, where the two waves are `180º` out of phase with each other, and see if you can understand why this would result in perfect silence.
 
 # How do our ears work?
 

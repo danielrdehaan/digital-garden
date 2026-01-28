@@ -11,7 +11,7 @@ modified: 2026-01-19T20:57:51.603740
 # Our Habits This Semester
 
 > [!note]
-> <img src="https://www.notion.so/icons/hammer_gray.svg" alt="https://www.notion.so/icons/hammer_gray.svg" width="40px" /> **RULE SEVEN: The only rule is work. If you work, it will lead to something. It’s the people who do all of the work all of the time who eventually catch on to things.**
+> **RULE SEVEN: The only rule is work. If you work, it will lead to something. It’s the people who do all of the work all of the time who eventually catch on to things.**
 
 `This semester you will each be responsible for`
 

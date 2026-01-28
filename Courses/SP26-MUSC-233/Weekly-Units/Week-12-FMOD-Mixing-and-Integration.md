@@ -4,11 +4,9 @@ canvas_sync: true
 canvas_publish: true
 canvas_type: page
 created: 2026-01-21T15:00:00-06:00
-modified: 2026-01-21T16:07:46-06:00
+modified: 2026-01-23T10:17:35-06:00
 canvas_page_url: week-12-fmod-mixing-and-integration
 ---
-
-# Week 12: FMOD Mixing & Integration
 
 ## Overview
 

@@ -13,7 +13,7 @@ modified: 2026-01-19T20:57:51.586368
 
 # Prompt
 
-Take some time to make sure you have a good understanding of how to use your chosen DAW and explore the sounds that it includes. You may also want to add some new sounds to your tool kit. I’d recommend taking a look at [The Free Composer/Producer Toolkit & Beyond ✨](https://www.notion.so/The-Free-Composer-Producer-Toolkit-Beyond-803a37d9008d4906ab13093203d41d27?pvs=21) for some great free stuff.
+Take some time to make sure you have a good understanding of how to use your chosen DAW and explore the sounds that it includes. You may also want to add some new sounds to your tool kit. I’d recommend taking a look at [[The Free Composer/Producer Toolkit & Beyond ✨]] for some great free stuff.
 
 # Resources
 

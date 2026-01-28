@@ -8,8 +8,6 @@ modified: 2026-01-21T16:07:37-06:00
 canvas_page_url: week-11-introduction-to-fmod
 ---
 
-# Week 11: Introduction to FMOD
-
 ## Overview
 
 This week introduces FMOD Studio, an industry-standard audio middleware used in games like Celeste, Hades, and many AAA titles. We'll explore the FMOD interface, understand the event-based workflow, create multi-instrument events, and learn to use parameters for adaptive audio. Understanding middleware concepts is increasingly relevant for composers working in interactive and immersive media.

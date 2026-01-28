@@ -15,4 +15,4 @@ modified: 2026-01-19T20:57:51.511411
 3. Create a short video that provides a tour of the things you have created.
 
 > [!note]
-> <img src="https://www.notion.so/icons/book-closed_gray.svg" alt="https://www.notion.so/icons/book-closed_gray.svg" width="40px" /> Post your video tour as a discussion post for this assignment. Your video tour should clearly show all the materials, systems, templates, etcetera, that you created and briefly discuss how you will utilize them.
+> Post your video tour as a discussion post for this assignment. Your video tour should clearly show all the materials, systems, templates, etcetera, that you created and briefly discuss how you will utilize them.

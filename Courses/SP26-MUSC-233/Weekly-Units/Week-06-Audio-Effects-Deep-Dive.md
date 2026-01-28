@@ -8,8 +8,6 @@ modified: 2026-01-21T16:01:08-06:00
 canvas_page_url: week-06-audio-effects-deep-dive
 ---
 
-# Week 06: Audio Effects Deep Dive
-
 ## Overview
 
 This week provides a comprehensive exploration of audio effects—the tools that shape, enhance, and transform sound. We'll examine EQ, dynamics processing, saturation, modulation effects, and time-based effects, understanding not just how they work but when and why to use them in different contexts.

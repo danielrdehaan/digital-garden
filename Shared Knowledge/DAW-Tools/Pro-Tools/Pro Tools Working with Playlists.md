@@ -9,6 +9,7 @@ tags:
   - "#topic/daw/pro-tools"
 created: 2026-01-19T15:58:16-06:00
 modified: 2026-01-19T20:57:51.606720
+canvas_page_url: pro-tools-working-with-playlists
 ---
 
 # Pro Tools: Working with Playlists

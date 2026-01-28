@@ -67,8 +67,8 @@ The BBCSO Discover Library by Spitfire Audio is a **free** and easy-to-use virtu
     ![Screen Shot 2021-10-13 at 8.19.35 AM.png](Digital%20Garden/Shared%20Knowledge/Attachments/Installation%20Guide%20(CCC)%20Spitfire%20Audio%20-%20BBCSO%20Di/Screen_Shot_2021-10-13_at_8.19.35_AM.png)
     
 13. Follow the links below to finish setting up your new BBCSO Discover instruments for your specific DAW.
-    - [Logic Pro](https://www.notion.so/Getting-Started-BBCSO-Discover-Logic-Pro-ec709054f4fc451f879414e1f0a26b27?pvs=21)
-    - [Ableton](https://www.notion.so/Getting-Started-BBCSO-Discover-Ableton-Live-10-3fa6643583d9408ebc57f43ef588a390?pvs=21)
+    - [[Logic Pro]]
+    - [[Ableton]]
     - [Cubase](Getting%20Started%20BBCSO%20Discover%20-%20Cubase%200671cb4d1d9e4812885f345a9425653e.md)
-    - [Reaper](https://www.notion.so/Getting-Started-BBCSO-Discover-Reaper-f7b0cad9bf394a72bec6c78719291182?pvs=21)
-    - [GarageBand](https://www.notion.so/Getting-Started-BBCSO-Discover-GarageBand-d1bf390fab424618853d0c063f358dae?pvs=21)
+    - [[Reaper]]
+    - [[GarageBand]]
