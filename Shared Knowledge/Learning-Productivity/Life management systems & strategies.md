@@ -6,7 +6,7 @@ tags:
   - "#type/one-sheet"
 created: 2026-01-19T15:58:15-06:00
 modified: 2026-01-20T14:36:12-06:00
-canvas_page_url: life-management-systems-and-strategies-12
+canvas_page_url: life-management-systems-and-strategies
 ---
 
 # Atomic Habits
