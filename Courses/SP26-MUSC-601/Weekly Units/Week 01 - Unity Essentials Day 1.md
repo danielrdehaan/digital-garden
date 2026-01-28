@@ -15,13 +15,3 @@ canvas_page_url: week-01-unity-essentials-day-1
 - [Unity Essentials Pathway - Unity Learn](https://learn.unity.com/pathway/unity-essentials)
 
 This is a test. Did it work?
-<<<<<<< HEAD
-Yes- Jalyn Lewis
-=======
-<<<<<<< HEAD
-Yes- Ade Davis
-=======
-- Yes - Ariel 
-- Yes- Peace
->>>>>>> ca98f29c677bdc6fcb5daa97f0cb67805d73d164
->>>>>>> de31f565e911ea790487c6f1f4e08ae290ab13aa
