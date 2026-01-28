@@ -10,5 +10,6 @@ canvas_page_url: week-01-unity-essentials-day-1
 
 ## Resources
 
-- 
+- [[Website/digital-garden/README|Github Setup]]
+- [[Markdown Basics]]
 - [Unity Essentials Pathway - Unity Learn](https://learn.unity.com/pathway/unity-essentials)

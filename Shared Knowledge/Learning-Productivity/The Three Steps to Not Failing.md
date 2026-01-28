@@ -6,6 +6,7 @@ tags:
   - "#type/one-sheet"
 created: 2026-01-19T15:58:16-06:00
 modified: 2026-01-19T20:57:51.626070
+canvas_page_url: the-three-steps-to-not-failing
 ---
 
 # The Three Steps to Not Failing

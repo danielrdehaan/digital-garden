@@ -6,6 +6,7 @@ tags:
   - "#type/one-sheet"
 created: 2026-01-19T15:58:15-06:00
 modified: 2026-01-20T14:35:14-06:00
+canvas_page_url: ten-rules-for-students-and-teachers-sister-corita-kent
 ---
 
 **RULE ONE:** Find a place you trust, and then try trusting it for a while.
