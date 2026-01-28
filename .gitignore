@@ -7,11 +7,7 @@
 *-RPP-bak
 
 # Obsidian workspace (user-specific, changes frequently)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-
-# Obsidian cache
-.obsidian/cache
+.obsidian
 
 # Claude Code
 .claude/
