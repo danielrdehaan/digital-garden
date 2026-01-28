@@ -13,5 +13,8 @@
 # Obsidian cache
 .obsidian/cache
 
+# Cluade
+.cluade
+
 # Trash folder
 .trash/
