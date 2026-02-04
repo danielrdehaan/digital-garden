@@ -11,3 +11,4 @@ canvas_page_url: week-02-unity-essentials-day-2
 ## Resources
 
 - [Unity Essentials Pathway - Unity Learn](https://learn.unity.com/pathway/unity-essentials)
+- [[Unity shortcuts reference]]
