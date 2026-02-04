@@ -8,13 +8,9 @@ tags:
   - "#topic/daw/cubase"
   - "#topic/daw/pro-tools"
 created: 2026-01-19T15:58:16-06:00
-modified: 2026-01-19T20:57:51.606720
+modified: 2026-01-28T21:44:05-06:00
 canvas_page_url: pro-tools-working-with-playlists
 ---
-
-# Pro Tools: Working with Playlists
-
-# Pro Tools - Working with Playlists:
 
 ![](https://youtu.be/KAOc6Wn1pTc)
 
