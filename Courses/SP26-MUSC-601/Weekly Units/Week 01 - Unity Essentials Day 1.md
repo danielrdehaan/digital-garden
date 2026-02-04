@@ -16,6 +16,7 @@ canvas_page_url: week-01-unity-essentials-day-1
 
 This is a test. Did it work?
 - Yes - Ariel 
+<<<<<<< Updated upstream
 
 
 
@@ -34,3 +35,9 @@ This is a test. Did it work?
 
 
 crystal haha
+=======
+>>>>>>> 35a6a33cae9ac5825bf5e12c2e8a8546d0804013
+
+yes Katie
+
+>>>>>>> Stashed changes
