@@ -13,3 +13,12 @@ canvas_page_url: week-01-unity-essentials-day-1
 - [Github Setup](https://github.com/danielrdehaan/digital-garden)
 - [[Markdown Basics]]
 - [Unity Essentials Pathway - Unity Learn](https://learn.unity.com/pathway/unity-essentials)
+
+This is a test. Did it work?
+- Yes - Ariel 
+
+
+
+- crystal hahahaha
+
+crystal haha
