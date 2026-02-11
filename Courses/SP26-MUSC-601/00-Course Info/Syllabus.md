@@ -153,7 +153,7 @@ As there are far-reaching implications regarding authorship, ownership, and simi
 | **2** | | |
 | | Wed 2/4 | [[Week 02 - Unity Essentials Day 2\|Unity Essentials Day 2]] |
 | **3** | | ***Unit 2: FMOD Fundamentals*** |
-| | Wed 2/11 | [[Week 03 - Introduction to FMOD\|Introduction to FMOD]] |
+| | Wed 2/11 | [[Week 03 - Unity Survival Shooter\|Introduction to FMOD]] |
 | **4** | | |
 | | Wed 2/18 | [[Week 04 - FMOD Events and Parameters\|FMOD Events and Parameters]] |
 | **5** | | ***Unit 3: FMOD + Unity Integration*** |
