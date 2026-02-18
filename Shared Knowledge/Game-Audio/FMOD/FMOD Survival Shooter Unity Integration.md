@@ -8,29 +8,29 @@ tags:
   - "#topic/game-audio/unity"
   - "#technique/scripting"
 created: 2026-01-19T15:58:16-06:00
-modified: 2026-01-22T14:53:02-06:00
+modified: 2026-02-18T10:46:27-06:00
 canvas_page_url: fmod-survival-shooter-unity-integration
 ---
 
 ## Versions
 This document was written using...
-- [FMOD Studio version 2.02.17](https://fmod.com/download#fmodstudio) 
-- Unity Editor version 2022.3.10f1 ([Mac](https://download.unity3d.com/download_unity/ff3792e53c62/MacEditorInstaller/Unity-2022.3.10f1.pkg), [Windows](https://download.unity3d.com/download_unity/ff3792e53c62/Windows64EditorInstaller/UnitySetup64-2022.3.10f1.exe))
+- [FMOD Studio version 2.03.12](https://www.fmod.com/download#) 
+- [Unity Editor version 6000.3.71f ](https://unity.com/releases/editor/whats-new/6000.3.7f1#installs)
 
 # Unity Project
 
 **Unity Project:**
 
-[Survival Shooter Unity Project](https://www.dropbox.com/scl/fi/86liyciqpkfntz5dexnce/Survival-Shooter_Audio-Assets.zip?rlkey=6xb9cqaoqafu688qkd3oek0am&st=9lveridk&dl=0)
+[[Clone Unity Survival Shooter Project]]
 
 # Downloads
 
-1. Begin by downloading the version of both the Unity Editor and FMOD Studio listed at the top of this document.
-2. Next, download the [FMOD for Unity 2.02.17 (Unity Verified)](https://fmod.com/download#) integration package.
+1. Begin by [[Clone Unity Survival Shooter Project|cloning the Unity Survival Shooter Project]]
+2. Download the [FMOD for Unity 2.03.12 (Unity Verified)](https://fmod.com/download#) integration package.
 
 # Open/Create Projects
 
-1. Open the [Survival Shooter project](FMOD%20Survival%20Shooter%20Unity%20Integration%20875417a71df24b6b81a76e17de332bb7.md) in Unity.
+1. Open the Survival Shooter project in Unity.
 2. Open FMOD Studio and create a new project called "Survival Shooter - FMOD" and save it.
 
 # FMOD Concepts
@@ -98,9 +98,7 @@ It will be easier to first build all the sound events in FMOD before connecting 
 
 1. Download, unzip, and import the audio assets below into the Assets panel on the left side of the FMOD Project window.
 	
-	- [Survival-Shooter_Audio-Assets.zip](ext:///Volumes/DRD_Files/Dropbox/_Projects/2026/CCC/601/Survival Shooter/Survival-Shooter_Audio-Assets.zip)
-	
-	- [Player_Yawn.wav](ext:///Volumes/DRD_Files/Dropbox/_Projects/2026/CCC/601/Survival Shooter/Player_Yawn.wav)
+	- [Survival-Shooter_Audio-Assets.zip](https://www.dropbox.com/scl/fi/be70f8a20nu18a09qtzk8/unity-survival-shooter_original-audio-assets.zip?rlkey=zxv9gw10xa2u6xi4xfqjmgl65&dl=0)
 
     ![[CleanShot 2023-10-05 at 22.16.25.gif]]
 
