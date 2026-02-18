@@ -4,7 +4,7 @@ canvas_sync: true
 canvas_publish: true
 canvas_type: syllabus
 created: 2026-01-19T14:56:38-06:00
-modified: 2026-01-25T13:36:19-06:00
+modified: 2026-02-11T12:03:22-06:00
 canvas_page_url: syllabus
 ---
 

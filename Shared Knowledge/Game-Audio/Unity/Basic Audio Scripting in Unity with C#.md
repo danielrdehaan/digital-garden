@@ -9,11 +9,9 @@ tags:
   - "#technique/spatial-audio"
   - "#technique/scripting"
 created: 2026-01-19T15:58:15-06:00
-modified: 2026-01-19T20:57:51.516866
+modified: 2026-02-18T08:22:04-06:00
 canvas_page_url: basic-audio-scripting-in-unity-with-c-number
 ---
-
-# Basic Audio Scripting in Unity with C#
 
 Welcome to the next step in your Unity development journey! This guide focuses on implementing audio in your Unity projects using C#. You'll learn how to add sound effects, background music, and control audio behaviors to enhance your game's experience.
 

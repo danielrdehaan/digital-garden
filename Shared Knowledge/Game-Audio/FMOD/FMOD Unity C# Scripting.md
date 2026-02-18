@@ -8,7 +8,7 @@ tags:
   - "#topic/game-audio/unity"
   - "#technique/scripting"
 created: 2026-01-19T15:58:15-06:00
-modified: 2026-01-19T20:57:51.545405
+modified: 2026-02-18T08:27:55-06:00
 canvas_page_url: fmod-unity-c-number-scripting-5
 ---
 
@@ -33,7 +33,8 @@ Add the following line of code to any script to create a public FMOD event refer
 ![CleanShot 2024-04-24 at 14.43.55@2x.png](FMOD%20Unity%20C#%20Scripting/CleanShot_2024-04-24_at_14.43.552x.png)
 
 ```csharp
-public EventReference myFmodEvent;  // Public FMOD Event Reference
+[SerializeField] // Show this variable in Unity's Inspector panel
+private EventReference myFmodEvent;  // FMOD Event Reference
 ```
 
 ## Triggering FMOD Events from a script
@@ -81,15 +82,10 @@ RuntimeManager.PlayOneShot(myFmodEvent);
     }
     ```
     
-2. Add all FMOD events and assign a unique string to each event.
-    
-    ![CleanShot 2024-04-24 at 14.37.30@2x.png](FMOD%20Unity%20C#%20Scripting/CleanShot_2024-04-24_at_14.37.302x.png)
-    
-3. Add an event to the animation timeline.
-4. Call the `FMODAnimationEventTrigger` function and pass it the same string as given to the corresponding FMOD event on the script.
-5. Target the game object that is being animated and that the FMOD event should originate from.
-
-![CleanShot 2024-04-24 at 14.33.58@2x.png](FMOD%20Unity%20C#%20Scripting/CleanShot_2024-04-24_at_14.33.582x.png)
+1. Add all FMOD events and assign a unique string to each event.
+2. Add an event to the animation timeline.
+3. Call the `FMODAnimationEventTrigger` function and pass it the same string as given to the corresponding FMOD event on the script.
+4. Target the game object that is being animated and that the FMOD event should originate from.
 
 ## Controlling FMOD Parameters via Sliders in Unity
 
