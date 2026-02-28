@@ -8,7 +8,7 @@ tags:
   - "#topic/game-audio/unity"
   - "#technique/scripting"
 created: 2026-01-19T15:58:15-06:00
-modified: 2026-02-18T08:27:55-06:00
+modified: 2026-02-25T10:26:38-06:00
 canvas_page_url: fmod-unity-c-number-scripting-5
 ---
 
@@ -30,7 +30,7 @@ using FMODUnity;
 
 Add the following line of code to any script to create a public FMOD event reference variable
 
-![CleanShot 2024-04-24 at 14.43.55@2x.png](FMOD%20Unity%20C#%20Scripting/CleanShot_2024-04-24_at_14.43.552x.png)
+![[CleanShot_2024-04-24_at_14.43.552x.png]]
 
 ```csharp
 [SerializeField] // Show this variable in Unity's Inspector panel
