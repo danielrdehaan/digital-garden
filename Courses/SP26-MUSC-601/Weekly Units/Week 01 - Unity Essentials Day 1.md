@@ -16,6 +16,7 @@ canvas_page_url: week-01-unity-essentials-day-1
 
 This is a test. Did it work?
 - Yes - Ariel 
+<<<<<<< Updated upstream
 
 
 
