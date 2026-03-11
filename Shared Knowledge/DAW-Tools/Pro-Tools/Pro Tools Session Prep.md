@@ -10,12 +10,21 @@ tags:
   - "#topic/daw/pro-tools"
   - "#topic/midi"
 created: 2026-01-19T15:58:16-06:00
-modified: 2026-01-19T20:57:51.605777
+modified: 2026-03-11T09:09:15-05:00
 canvas_page_url: pro-tools-session-prep
 ---
 
-# Pro Tools Session Prep
-
+### Approved PT Sessions [[2026-03-11 - Wednesday]] 
+- [ ] Ade Davis
+- [ ] Ariel Glassman
+- [ ] Frederique Le Duc-Moreau
+- [ ] Hei-man Crystal Yip
+- [ ] Henny Kim
+- [ ] Hugh Hawthorne
+- [ ] Ildar Kamalov
+- [ ] Jayln Lewis
+- [ ] Peace Lee
+- [ ] Riley Hodges
 # Exports from DAW Mock-up Session
 
 - [ ]  All audio file exports should:
@@ -42,11 +51,7 @@ canvas_page_url: pro-tools-session-prep
     - Each file should be named: You-Initials_Cue-Title_Instrument-Name.WAV
         - e.g., “DRD_The-King_Low-Synth.WAV”
 - [ ]  **Click**
-    - Render a click track to be used as a backup in the event of issues during the recording session.
-    
-    > [!note]
-> 
-    
+    - Render a click track to be used as a backup in the event of issues during the recording session
     - Your click should
         - Be mono;
         - Start in measure one and continue through the last measure of music;
@@ -87,10 +92,8 @@ canvas_page_url: pro-tools-session-prep
 3. After confirming that everything aligns, delete all the MIDI files and tracks (you only needed the MIDI file for importing the tempo and meter changes).
 4. Import all session audio files.
     
-    > [!note]
-> Copying files while importing makes copies of the audio files within the project’s audio folder and will ensure that your Pro Tools project will have all the necessary files when opened during the recording session.
->     
->     Simply “adding” your audio files does not copy the files into the Pro Tools project, and you will be missing these files when you open your project at the recording session.
+	*Copying files while importing makes copies of the audio files within the project’s audio folder and will ensure that your Pro Tools project will have all the necessary files when opened during the recording session.*
+	*Simply “adding” your audio files does not copy the files into the Pro Tools project, and you will be missing these files when you open your project at the recording session.*
     
 5. Color and order each of your tracks as follows:
     - Click

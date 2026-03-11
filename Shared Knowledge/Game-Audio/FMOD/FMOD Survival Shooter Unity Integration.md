@@ -8,7 +8,7 @@ tags:
   - "#topic/game-audio/unity"
   - "#technique/scripting"
 created: 2026-01-19T15:58:16-06:00
-modified: 2026-02-22T08:41:07-06:00
+modified: 2026-03-04T08:43:00-06:00
 canvas_page_url: fmod-survival-shooter-unity-integration
 ---
 
@@ -985,7 +985,7 @@ That is it! We have now connected everything! There is plenty we could do to imp
 
         If you need some help triggering FMOD events via animations here is a little help.
 
-        1. Start by reviewing the step of Adding Footstep Sounds from our previous guide to [Working with Audio In Unity](Unity%20Basics%20Working%20with%20Audio%20acfc05bd3663413d87a50ecf1617a698.md)
+        1. Start by reviewing the step of Adding Footstep Sounds from our previous guide to [[Unity Basics Working with Audio]]
         2. Then, back in your Survival Shooter game, add the following script to the game object that has the animation you want to add sound to.
             - **FMODAnimationEventTriggers Script**
 

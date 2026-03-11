@@ -6,20 +6,13 @@ tags:
   - "#type/tutorial"
   - "#topic/game-audio/unity"
 created: 2026-01-19T15:58:15-06:00
-modified: 2026-01-19T20:57:51.630197
+modified: 2026-03-04T08:44:51-06:00
 ---
 
-# Unity Basics: Working with Audio
-
-> [!note]
-> **Table of Contents:**
 
 ---
 
 Created by [Daniel Dehaan](http://www.danielrdehaan.com), 2021-09-20
-
-> [!note]
-> 
 
 # Project Setup
 
@@ -138,11 +131,7 @@ Created by [Daniel Dehaan](http://www.danielrdehaan.com), 2021-09-20
     
     ![Add Audio Source.gif](Add_Audio_Source.gif)
     
-8. Add a new *Script Component* named "Audio_Trigger_Animation_Event_Step" to the *PlayerArmature* game object. 
-    
-    > [!note]
-> 
-    
+8. Add a new *Script Component* named "Audio_Trigger_Animation_Event_Step" to the *PlayerArmature* game object.     
 9. In the *Project* window, create a new *Scripts* folder inside the main *Assets* folder and move your new *Audio_Trigger_Animation_Event_Step* inside of the new folder.
 10. Open new Script in Visual Studio.
     
