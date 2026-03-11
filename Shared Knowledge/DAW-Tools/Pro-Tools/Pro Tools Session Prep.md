@@ -10,21 +10,24 @@ tags:
   - "#topic/daw/pro-tools"
   - "#topic/midi"
 created: 2026-01-19T15:58:16-06:00
-modified: 2026-03-11T09:09:15-05:00
+modified: 2026-03-11T10:50:45-05:00
 canvas_page_url: pro-tools-session-prep
 ---
 
 ### Approved PT Sessions [[2026-03-11 - Wednesday]] 
-- [ ] Ade Davis
-- [ ] Ariel Glassman
-- [ ] Frederique Le Duc-Moreau
-- [ ] Hei-man Crystal Yip
-- [ ] Henny Kim
-- [ ] Hugh Hawthorne
-- [ ] Ildar Kamalov
-- [ ] Jayln Lewis
-- [ ] Peace Lee
-- [ ] Riley Hodges
+- [x] Ade Davis
+- [x] Ariel Glassman
+- [x] Frederique Le Duc-Moreau
+- [x] Hei-man Crystal Yip
+- [x] Henny Kim
+- [x] Hugh Hawthorne
+- [x] Ildar Kamalov
+- [x] Jayln Lewis
+- [x] Peace Lee
+- [x] Riley Hodges
+- [x] Samuel Garner
+- [x] Sunny Youm
+- [x] Yueqing Katie Li
 # Exports from DAW Mock-up Session
 
 - [ ]  All audio file exports should:
